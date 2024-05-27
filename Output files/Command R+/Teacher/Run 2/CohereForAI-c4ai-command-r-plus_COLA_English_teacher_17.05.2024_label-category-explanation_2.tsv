@@ -1,0 +1,528 @@
+label	category	explanation
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure. The subject is "weights," the verb is "made," and the object is "the rope stretch over the pulley." The sentence is well-formed and obeys the rules of English word order.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Syntax	The sentence follows the correct syntax and the structure of a conditional sentence in the past.
+0	Semantics	The sentence is semantically incorrect. It seems to be trying to express a relationship between the amount of food eaten and the level of desire for food, but the meaning is not clear or logical as it stands. A possible correction could be: "The more you eat, the less you want."
+0	Semantics	The sentence is semantically incorrect. It suggests a inverse relationship between wanting and eating, which doesn't make sense in this context. A possible correct version could be: "The more you want, the more you eat."
+0	Morphology	The correct sentence would be: "I demand that the more John eats, the more he pays." The verb "eat" is incorrect here and should be changed to "eats" to agree with the singular subject "John."
+0	Syntax	The given sentence is syntactically incorrect. It is a run-on sentence, meaning it contains two independent clauses that are not properly joined. To correct it, one could use a conjunction or a punctuation mark. For example: "Mary listens to the Grateful Dead, so she gets depressed." or "Mary listens to the Grateful Dead. She gets depressed."
+1	Syntax	The sentence follows the correct syntax and the structure of a comparative sentence. It compares the degree of Mary's anger to the degree of her looking at pictures, indicating that the latter action increased as the former emotion intensified.
+1	Syntax	The sentence follows the correct syntax and grammatical structure.
+1	Syntax	The sentence follows the correct syntax and grammatical structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct subject-verb-object structure and the verb agrees with the subject.
+0	Morphology	The correct sentence would be: "The more Bill smokes, the more Susan hates him." Here, the verb "smoke" is incorrect and should be replaced with "smokes" to agree with the singular noun "Bill."
+1	Syntax	The sentence follows the correct syntax and the structure of a comparative sentence. It compares the amount of embarrassment John feels with the number of his pictures appearing in the news, using the correlative pair "the more... the more..."
+0	Syntax	The sentence is syntactically incorrect. The issue lies in the use of the pronoun "he" without a clear antecedent. To correct the sentence, you could specify who "he" refers to by changing it to "they" or by providing a clear context, such as "Every senator seems to become more corrupt as they talk to more lobbyists."
+0	Syntax	The sentence is syntactically incorrect. It seems to be a case of a misplaced modifier, where the phrase "because he likes" is modifying the wrong element in the sentence. The sentence could be corrected by changing the word "because" to "since" or by adding a comma after the word "Sally," indicating that "because he likes" is a parenthetical element modifying the main clause "John visits."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure of a simple sentence.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-auxiliary-invert word order.
+0	Morphology	The correct sentence is "He cannot have been working." The word "cannot" is a contraction of "can not," and it is the correct form to use in this sentence to express negation.
+1	Syntax	The sentence follows the correct syntax and word order for a declarative sentence in English.
+1	Syntax	The sentence follows the correct syntax and word order for a negative sentence in the present perfect tense.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb-object word order.
+0	Syntax	The sentence is syntactically incorrect. The phrase "look up" should be followed by an object, not the pronoun "it." To correct the sentence, you could say, "Mickey looked it up."
+1	Syntax	The sentence "There tended to be a lot of discussion" is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct syntax and word order for a declarative sentence in English.
+1	Other Category	The sentence is grammatically correct and does not fall into any of the specified categories.
+1	Syntax	The sentence follows the correct syntax and word order for expressing a desire or wish using the want + object + infinitive structure.
+1	Syntax	The sentence follows the correct syntax and the sentence structure is correct.
+0	Syntax	The sentence is syntactically incorrect. In this sentence, the subject and the object are incorrect. The correct sentence would be: "Gas escaped from the tube."
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Syntax	The sentence follows the correct subject-verb-object structure and the verb agrees with the subject.
+0	Morphology	The correct sentence would be: "What the water did to the bottle was to fill it." This is because the verb "fill" needs to be in the infinitive form with the "to" after the verb "did."
+0	Morphology	The correct sentence would be: "What the water did to the whole bottle was fill it." The verb "fill" is incorrect in this sentence because it should be conjugated as "filled" to agree with the subject "water."
+0	Semantics	The sentence is syntactically correct, but semantically incorrect. The phrase "leaked free" is not commonly used and may confuse the reader. A better phrase would be "leaked out".
+0	Morphology	The correct sentence would be "John laid the ball in the box." The verb "lay" is the past tense of "lie," which means "to recline." In this sentence, the action of putting the ball into the box is described, so the correct verb to use is "laid," which is the past tense of "lay," meaning "to put or set something down."
+1	Syntax	The sentence is syntactically correct. It follows the standard subject-verb-object structure and the verb agrees with the subject in number and person.
+1	Syntax	The sentence is syntactically correct and follows the correct subject-verb-object order.
+0	Syntax	The correct sentence should be: "Most people probably consider Klaus guilty of murder, even though the courts didn't actually find him guilty." The original sentence is syntactically incorrect due to the incorrect placement of the word "him."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-complement structure.
+1	Semantics	The sentence is semantically correct and meaningful. The use of the word "clearly" suggests that the speaker believes John will definitely learn French, with "probably" adding a level of uncertainty to the statement. The sentence structure and word choice are correct and express the intended idea without any grammatical or syntactical errors.
+0	Syntax	The sentence is syntactically incorrect. In this sentence, the preposition "to" is unnecessary and makes the sentence sound awkward. Here is the corrected version: "Sue gave Bill a book."
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Syntax	The sentence is syntactically incorrect. It seems like there might be a missing verb after the word "represented." To correct the sentence, you could consider adding a verb that fits the context, such as "They represented Mary as a genuine linguist to the dean seriously."
+0	Morphology	The sentence is not correct because the pronoun "us" is not in the correct form. The correct sentence would be "We love them."
+1	Syntax	The sentence follows the correct syntax and has a proper structure.
+1	Syntax	The sentence follows the correct syntax and word order for the intended meaning.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb-object order.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb agreement rules.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure. The use of "also" is correct in this context and connects the two parts of the sentence effectively.
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "We wanted to invite someone, but we couldn't decide whom to invite." Here, "whom" is the correct object form of the relative pronoun "who" and is used as the object of the preposition "to."
+1	Syntax	The sentence is syntactically correct and follows the correct subject-verb-object word order.
+0	Syntax	The sentence is syntactically incorrect. It seems like there is a missing verb after "that." To correct the sentence, you could say: "Mary claimed that Holly shouldn't eat cabbage."
+0	Syntax	The sentence is syntactically incorrect. The phrase "to be introduced" is a passive infinitive phrase functioning as an adverbial, describing the purpose of Mary's action of coming. However, the phrase "and I also came to be" is syntactically incorrect and unclear in its intention. It could be corrected to maintain parallel structure with Mary's action: "Mary came to be introduced by the bartender, and I also came to be introduced." This maintains the same structure and clarifies the purpose of both individuals' actions.
+1	Syntax	The sentence follows the correct syntax and is grammatically correct.
+0	Syntax	The sentence is syntactically incorrect. It seems that the second part of the sentence, "and Sally does too," is intended to refer back to "Joe's neuroses," but the structure is awkward and ambiguous. A clearer way to express this would be: "Joe's neuroses bother his patrons, and so does Sally." This indicates that both Joe's neuroses and Sally bother the patrons.
+0	Syntax	The sentence is syntactically incorrect. It seems that the phrase "which book Lilly did it for him" is intended to refer to the action of reading, but the use of "did" without a verb makes the phrase incomplete and unclear. To correct the sentence, you could say: "I know which book José didn't read for class, and I know that Lilly read that book for him."
+0	Syntax	The sentence is syntactically incorrect. The issue lies in the second part of the sentence: "this is the one which Fred won't do." The use of "do" here is not appropriate and makes the sentence grammatically incorrect. To correct the sentence, you could say: "This is the book that Bob reviewed, and this is the one that Fred won't review."
+0	Syntax	The sentence is syntactically incorrect. It seems like the sentence is trying to convey: "I know which book Mag read, and I know which book Bob said that you hadn't read." To correct it, you can say: "I know which book Mag read, and I know which book Bob said you hadn't read."
+0	Syntax	The sentence is syntactically incorrect. It seems like there is a missing word or phrase that would clarify the structure and meaning of the sentence. It is not clear which verb "my report" is the object of. To correct the sentence, you could consider rewriting it to provide a clearer structure. For example: "I know which book Mag read, and I know which book Bob read my report that you hadn't read."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object word order.
+0	Syntax	The correct sentence would be: "Rusty talked about himself only after Mary talked about him." The word "did" is unnecessary in this sentence and disrupts the correct verb agreement.
+0	Syntax	The correct sentence would be: "Fred talked about everything before Rusty talked about something." The correction is in the use of the verb "did talk," which is not necessary in this sentence and disrupts the correct subject-verb agreement.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Semantics	The sentence is not semantically correct. The word "problem" typically refers to a difficult or complex matter that needs to be solved or dealt with. It is not typically associated with perception or understanding. The sentence should provide more context or use a different word choice to convey the intended meaning clearly.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is syntactically incorrect. In this sentence, the pronoun "me" is used as the object of the verb "elected," which is not correct. To fix the sentence, the pronoun "I" should be used instead: "We elected **I**." This is because the subject of the verb "elect" is "we," which is first-person plural, and the correct reflexive pronoun to use in this case is "ourselves": "We elected ourselves."
+0	Syntax	The sentence is syntactically incorrect. The relative pronoun "which" is used to refer to a previously mentioned noun, but in this sentence, there is no clear antecedent for "which." To correct the sentence, you could introduce a noun or context that "which" can refer to, or you could rewrite the sentence to avoid the ambiguity. For example: "Which performance report that criticized John's incompetence did he submit?"
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The correct sentence would be: "He let the cats, which were whining, out." The word "which" is a relative pronoun that introduces a relative clause and needs a comma before it. This comma is often omitted in casual conversation or writing, but its inclusion is more grammatically correct.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	This sentence is syntactically incorrect. It seems like there might be a missing word or phrase that would make the sentence complete and meaningful. To correct the sentence, one possible revision could be: "A proof that the claim had been made was given: John had lied."
+0	Syntax	The correct sentence would be: "He attributed the fire that destroyed most of my factory to a short circuit caused by an overloaded transducer." The original sentence has a syntax issue due to the incorrect word order and the unnecessary use of the pronoun "which."
+0	Syntax	The sentence is syntactically incorrect. The phrase "regarded as" is a passive construction and should be followed by a noun or a noun phrase, but in this sentence, it is followed by a verb phrase ("being absurd"). To correct the sentence, one could say: "The mayor regarded the proposal to build a sidewalk from Dartmouth to Smith as absurd."
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "I want that Bill's leaving remain a secret." The original sentence is an example of a sentence fragment, as the phrase "I want" is a dependent clause that cannot stand alone as a complete thought.
+0	Syntax	The sentence is syntactically incorrect. It seems like there is a missing word or phrase that would indicate the action being performed by "Tom." To correct the sentence, you could consider adding a verb or verb phrase after "Tom" to clarify the action. For example, you could say, "I know a man who Tom drives to work just as he drives." This provides a complete thought and clarifies the action being performed by Tom.
+0	Syntax	The sentence is syntactically incorrect. The phrase "drowning cats" is a verb phrase functioning as a noun phrase, and it is the subject of the sentence. However, the verb "are" disagrees with the singular subject "drowning cats," resulting in a syntax error. To correct the sentence, one could change the verb to "is" to agree with the singular subject.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure. The word order and sentence structure are proper and adhere to the rules of English grammar.
+0	Syntax	The sentence is syntactically incorrect. The reflexive pronoun "himself" is used incorrectly in this sentence. Reflexive pronouns are used when the subject and the object of a sentence refer to the same person or thing. In this sentence, "Rutherford" is the subject and "himself" is the object, but they do not refer to the same person, so the sentence is syntactically incorrect. To correct the sentence, you could say "Rutherford understands himself."
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Morphology	The correct sentence would be: "The proof that this set is recursive is difficult."
+0	Syntax	The sentence is syntactically incorrect. It contains a misplaced modifier. The phrase "which Henry plays the lute and sings" should be placed directly after "madrigals" to clarify which madrigals are being referenced and to maintain the intended meaning. Here's the corrected version: "The madrigals that Henry plays the lute and sings sound lousy."
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the correct word order and structure for a English sentence.
+0	Syntax, Morphology	The correct sentence would be: "Which boy did we elect as the guardian's employer's president?" or "Which boy's guardian's employer did we elect president?" The original sentence has issues with the placement of apostrophes and the verb "did" and is grammatically incorrect.
+1	Semantics	The sentence is a question that asks about the mental health of an individual named Peter. It is a common expression used to inquire about someone's mental state or behavior. The sentence is grammatically correct and meaningful in the context of casual conversation.
+0	Semantics	The sentence is semantically incorrect because of the ambiguous use of "the River." While it might be clear to the speaker that they are referring to two different rivers, it is not clear in the sentence structure. To correct this, one could refer to each river by a distinct name or provide additional context to differentiate between the two.
+0	Semantics	The sentence is semantically incorrect. The use of "it" in the sentence is ambiguous and can refer to either "the place" or "Route 150," which makes the sentence confusing. To correct the sentence, you could consider rephrasing it to clarify the reference. For example, you could say, "My dad lives at the same place where Route 150 crosses the Hudson River." This revision clearly establishes that both you and your dad live in the same location.
+0	Syntax	The correct sentence would be: "Who is she trying to make up with now?" The phrase "make up with someone" is the correct collocation and idiomatic expression.
+0	Semantics	The sentence is grammatically correct, but the word "wind" is incorrect in this context. It seems that the intended word is "word" or "whisper," which would make the sentence semantically correct.
+1	Syntax	The sentence is syntactically correct. The subject "Mike" is followed by the verb "talked," and the prepositional phrases "about politics" and "to my friends" provide additional information about the action.
+0	Syntax	The sentence is syntactically incorrect. The phrase "by the reporters" is a prepositional phrase that modifies "expected," but it is not in the correct position in the sentence. To fix the sentence, the prepositional phrase should be moved to after "expected": "It was by the reporters expected that the principal would fire some teacher."
+0	Semantics	The sentence is grammatically correct, but the use of "she" to refer to Mike is incorrect. It should be "Which hat did Mike quip that he never wore?".
+0	Syntax	The sentence is syntactically incorrect. It seems like a fragment of a sentence and is missing some words or context to form a complete sentence.
+0	Syntax	The sentence is syntactically incorrect. The preposition "for" at the end of the sentence indicates that the donating of the wire was done with the purpose of the convicts using it to build cages. However, the use of the prepositional phrase "to build cages with" as a modifier for "convicts" suggests that the convicts are being donated for the purpose of building cages, which is not logical. To correct the sentence, one could say, "We donated wire with which the convicts could build cages."
+0	Semantics	The sentence is semantically incorrect. The phrase "have some money" implies possession or availability of money, which doesn't align with the negation in the sentence. To maintain semantic correctness, the sentence could be rephrased as "I don't have any money" or "I won't have any money."
+1	Semantics	The sentence is semantically correct and makes sense.
+0	Syntax	The sentence is syntactically incorrect. The correct sentence should be: "I won't ask you to believe that he tried to force me to give him any money." The pronoun "her" should be "him" to agree with the antecedent "he."
+1	Syntax	The sentence is syntactically correct and follows the proper word order and structure.
+1	Correct	The sentence is grammatically correct and does not contain any errors in syntax, semantics, or morphology.
+0	Syntax	The sentence has a syntax issue. It should be corrected as follows: "The fact that the fuzz wanted him worried John, but Mary wasn't worried about the fact that the fuzz wanted her."
+0	Semantics	The sentence is semantically incorrect. The use of "I'll" and "will be" together in the same sentence is redundant and makes the sentence sound awkward. A better way to phrase this sentence would be: "I'll work on it if Sam is working on it, too." or "I'll work on it as long as Sam is working on it."
+1	Syntax	The sentence follows the correct syntax and is grammatically correct.
+0	Syntax	The sentence is syntactically incorrect. It should be "Here's a knife for you to cut the onions with." The prepositional phrase "with which" is incorrect and should be placed after the verb "cut" to sound more natural.
+0	Syntax	The sentence is syntactically incorrect. It should be: "Fluffy is sick, which is not known by everybody." or "Not everybody knows that Fluffy is sick."
+1	Semantics	The sentence is semantically correct and expresses a complete thought. The adjective "quite" is used appropriately to describe Maxwell's profession as a doctor, suggesting that he is a good or competent doctor.
+0	Syntax	The sentence is syntactically incorrect due to the repetition of the conjunction "and". To correct the sentence, one of the conjunctions should be removed: "The younger woman might have been tall and the older one definitely was blond."
+0	Syntax	The sentence is syntactically incorrect. It seems like there is a missing word or a missed punctuation mark. The correct sentence could be: "Sally is tall and may be blond, and Sheila is short and definitely is blond."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is syntactically incorrect. The phrase "for you to put on to be planned" is an adjective phrase modifying "socks," but it is not parallel in structure to the typical adjective phrase "ready for you to put on." To correct the sentence, you could say, "The socks are ready for you to put on as planned."
+1	Syntax	The sentence follows the correct syntax and has proper structure.
+1	Syntax	The sentence follows the correct subject-verb-object structure and the modifier "difficult" is placed before the verb "to play," adhering to the typical adjective placement in English.
+0	Syntax	The sentence is syntactically incorrect. It seems like the sentence is trying to say that the subject ("my mother") pleases both "my father" and something else that is not mentioned. To correct the sentence, one might add a verb after "and," providing a complete list of actions or attributes that describe the subject, or one might remove "and" to keep the sentence structure parallel, focusing on the single action of pleasing the father.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "That the cops spoke to the janitor about that robbery yesterday is terrible." The word "that" after the comma should be removed as it is redundant and disrupts the sentence structure.
+0	Syntax	The given sentence is syntactically incorrect. The correct sentence would be: "Every student who wears socks is a swinger." The original sentence is a comma splice, which is a syntax error where two independent clauses are incorrectly joined by a comma.
+0	Syntax	The sentence has a syntax issue. The correct sentence would be: "That girl was given my binoculars by him." or "He gave that girl my binoculars."
+1	Syntax	The sentence is syntactically correct. The verb "allege" is followed by a that-clause, which is the standard pattern for this type of sentence. The verb "had eaten" is also used correctly in the past perfect tense to indicate an action that occurred before another past action ("alleged").
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb-object structure. The use of the negative adverb "Nobody" and the subordinate clause "who hates to eat anything" are both grammatically correct and effectively convey the intended meaning.
+1	Syntax	The sentence is syntactically correct and follows the subject-verb-object pattern.
+1	Syntax	The sentence is syntactically correct and follows the subject-verb-object pattern.
+0	Syntax	The correct sentence would be: "No writer, and no playwright, meets in Vienna." The sentence as provided has a syntax error due to the incorrect verb form "meet" instead of "meets."
+0	Syntax	The correct sentence should be: "No writer nor any playwright meets in Vienna." The word "nor" is used to connect two negative phrases or clauses and should be followed by a singular verb. In this case, "meet" should be changed to "meets" to agree with the singular subject "no writer."
+0	Semantics	The sentence is grammatically correct, but the meaning is unclear and ambiguous. It could be interpreted as "It is not certain that you will marry any student" or "It is not a guarantee that all students will marry you." To improve the sentence, you could consider rephrasing it to clarify the intended meaning.
+0	Semantics	The sentence is semantically incorrect. While the sentence is structured correctly, the phrase "kicked the ball off the bench" suggests that Felicia kicked the ball while on the bench, which isn't logical. It seems that the intended meaning could be that Felicia kicked the ball away from the bench, but as it stands, the sentence conveys a different image that doesn't make sense in reality.
+1	Syntax	The sentence follows the correct syntax and word order of English.
+0	Semantics	The sentence is grammatically correct, but the meaning is unclear or ambiguous. It can be interpreted in different ways, such as "Sam took the ball from the basket and gave it to someone" or "Sam passed the ball to someone, and the ball was originally in the basket." To make the sentence clearer, additional context or modification is needed.
+0	Syntax	The sentence is syntactically incorrect. The phrase "offered out" is not used in this context and makes the sentence grammatically incorrect. A possible correction could be: "Sam took the ball out of the basket."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Correct	The sentence is grammatically correct and has the correct syntax, semantics, and morphology.
+0	Syntax	The sentence is syntactically incorrect. It seems like there is a preposition error in the sentence. A possible correction could be: "No one can forgive you for that comment."
+0	Semantics	The sentence is grammatically correct, but the phrase "blew up" typically means "exploded." If the rocket exploded, it would not be possible for it to have gotten to the moon as intended. To correct the sentence, you could consider rephrasing it to match the intended meaning, such as "We launched the rocket toward the moon, but it malfunctioned and exploded before it reached its destination."
+1	Other Category	The sentence is grammatically correct and does not contain any errors in syntax, semantics, or morphology.
+0	Semantics	The sentence is grammatically correct, but the word "partway" doesn't make sense in this context. It seems like a mistake for "partly." To correct the sentence, it should be: "I partly lent the book to Tony." This means that either you only lent him the book for a short time or only a portion of the book was lent.
+1	Syntax	The sentence follows the correct syntax and word order for a passive voice sentence in English.
+0	Semantics	The sentence is grammatically correct, but the meaning is ambiguous and could be misinterpreted. It can be understood as the farmer dumping the cart along with the apples, which might not be the intended meaning. To clarify, it could be rephrased as, "The farmer dumped the apples from the cart."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure. The verb "carved" is in the past tense and agrees with the singular subject "Martha." The object of the sentence is the noun phrase "a toy out of wood," which is modified by the prepositional phrase "out of wood" describing the material used for carving. The sentence is well-formed and adheres to the rules of English syntax.
+1	Syntax	The sentence follows the standard subject-verb-complement structure and adheres to the syntactic rules of English.
+0	Syntax	The sentence is syntactically incorrect. It seems like it might be trying to say that Janet broke one of Bill's fingers, but the correct preposition to use in this context would be "on" instead of "in." The correct sentence would be: "Janet broke Bill's finger."
+1	Syntax	The sentence adheres to the standard subject-verb-object structure of English syntax.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and is free of syntax errors.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Semantics	The sentence is semantically correct and meaningful. The word "shocks" is used correctly in the context of the sentence to describe the impact the movie has on people.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+0	Syntax	The sentence is syntactically incorrect. It seems that the preposition "into" is missing after "came." The correct sentence would be, "Sharon came into the room."
+1	Syntax	The sentence follows the correct subject-verb-object structure and is syntactically correct.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and is free of errors in word order or sentence structure.
+0	Semantics	The sentence is not correct because of a semantic error. Although the sentence is structured correctly and all the words are appropriate, the sentence doesn't make sense. One cannot throw a fence with a stick. The sentence should be: "Brian threw the stick at the fence."
+1	Correct	The sentence is syntactically, semantically, and morphologically correct.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Correct	The sentence is grammatically correct and has no errors in syntax, semantics, or morphology.
+0	Morphology	The correct sentence would be: "They praised the dedication of the volunteers." The word "dedication" here is a noun and should be followed by a preposition ("of") to show possession.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and the verb agrees with the subject.
+1	Syntax	The sentence "Sarah smiled a charming smile" is syntactically correct and follows the standard subject-verb-object structure.
+0	Morphology	The sentence is incorrect because of the incorrect use of the verb "beamed." The correct form should be "Sandra beams a cheerful welcome."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+0	Semantics	The sentence is grammatically correct, but the word "lift" is not the correct verb to describe the action of placing books onto a table. A better verb to use in this context would be "placed" or "set". Here is a corrected version: "Paperback books are easily placed on the table."
+0	Semantics, Syntax	The sentence is semantically and syntactically incorrect. It seems that the subject and the object of the sentence are confused with each other. A book, being inanimate, cannot lift itself onto a table. The correct sentence would be: "The books were placed on the table."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Morphology	The sentence is incorrect because the verb "cram" requires the preposition "with" followed by a noun or pronoun to describe what is being crammed into the boxes. The correct sentence would be: "Jessica crammed boxes **with** clothes into the truck."
+0	Morphology	The correct phrase should be "Lora buttered the toast." The preposition "at" is not suitable in this context and should be replaced with the article "the" to maintain the correct sentence structure and meaning.
+1	Syntax	The sentence is syntactically correct. It follows the standard subject-verb-object structure and adheres to the grammatical rules of English.
+1	Correct	The sentence is syntactically, semantically, and morphologically correct.
+1	Syntax	The sentence adheres to the correct subject-verb-object word order and effectively conveys the action of Nora sending the book to Peter.
+0	Semantics	The sentence is syntactically correct, but semantically incorrect. The verb "slid" suggests that the book was moved in a smooth, gliding motion, which doesn't make sense with the action of "Carla sliding the book." A better verb choice would be "placed" or "moved."
+0	Semantics	The sentence is syntactically correct, but semantically incorrect. The verb "slid" is not typically used with the preposition "at." A more common verb choice would be "looked" or "glanced," as in "Carla glanced at the book."
+1	Other Category	The sentence is correct.
+0	Semantics	The sentence is semantically incorrect. The word "packages" refers to inanimate objects, and inanimate objects cannot drive. The sentence should be corrected to use a word that refers to a person or entity capable of driving, such as "People" or "Someone."
+0	Syntax	The sentence is not syntactically correct. It seems that the subject and the verb are reversed. A possible correction could be: "I pushed the chair."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is syntactically incorrect. It seems like something is missing, perhaps a verb? It should be structured as "A job is offered."
+1	Syntax	The sentence follows the correct syntax and word order for a transitive verb ("presented") with a direct object ("a plaque").
+1	Syntax	The sentence follows the correct subject-verb-object structure and the verb agrees with the subject in number.
+1	Other Category	The sentence is grammatically correct and adheres to the rules of syntax, semantics, and morphology.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and is syntactically correct.
+1	Syntax	The sentence follows the correct syntax and word order for a simple sentence in English.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+0	Semantics, Morphology	The sentence is semantically and morphologically incorrect. The phrase "differ apart" is redundant as the verb "differ" already conveys the meaning of being different or dissimilar. You can simply say, "This flyer and that flyer differ."
+0	Semantics	The sentence is grammatically correct, but the use of the word "scribbled" suggests that the jeweller was writing hastily or carelessly, which may not be appropriate for a formal contract. A better word choice could be "signed" to indicate that the jeweller officially agreed to the terms of the contract.
+0	Semantics	The sentence is semantically incorrect. The phrase "grow something into something else" is not commonly used with plants; a more typical phrase would be "grow something from something else." A possible correction could be: "The gardener grew that acorn into an oak tree."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Morphology	The sentence is not grammatically correct. The verb "amuse" is a transitive verb and requires a direct object. In this sentence, the subject "The children" is missing an object that they are amusing. To correct the sentence, an object needs to be added after the verb, for example, "The children amused their parents."
+1	Correct	The sentence is grammatically correct and does not contain any errors in syntax, semantics, or morphology.
+0	Syntax	The preposition "at" is not typically used with the verb "whisper." A more common construction would be "Susan whispered to Rachel."
+1	Syntax	The sentence is syntactically correct. It follows the standard subject-verb-object structure and the verb agrees with the subject.
+0	Syntax	This sentence is syntactically incorrect. It seems like there is a missing verb after the word "said." To correct the sentence, you could say: "Ellen spoke about the present conditions."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence adheres to the rules of syntax and is structured correctly.
+1	Other Category	The sentence is correct and does not fall under any of the mentioned categories.
+1	Other Category	The sentence is grammatically correct and does not fall into any of the specified categories.
+0	Morphology	The correct phrase would be "Linda winked her lips," as the verb "wink" requires a plural noun after it.
+0	Semantics	The sentence is semantically incorrect. The verb "pound" means to hit or strike repeatedly with a forceful impact. In this context, it implies that the heart is causing a forceful impact on "me," which doesn't make sense. A more accurate sentence would be, "My heart is pounding."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Syntax	The sentence follows the correct subject-verb-object structure and is syntactically correct.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+0	Morphology	The correct verb to use in this sentence is 'squeak' instead of 'squeaked'. The sentence should be: "I squeaked **through** the door."
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Other Category	The sentence is grammatically correct and does not fall into any of the specified categories.
+0	Semantics	The sentence is semantically incorrect because the word "fort" is a static structure and cannot flutter. A flag is something that can flutter in the wind. To correct the sentence, you could say, "The fort was adorned with many fluttering flags." This maintains the intended imagery while adhering to semantic correctness.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Semantics, Syntax	The sentence is semantically and syntactically incorrect. The use of "There" as a dummy subject is not appropriate in this context. A better sentence would be: "A wonderful opportunity presented itself yesterday."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is not syntactically correct. The correct sentence would be: "A little white rabbit jumped out of the box."
+1	Syntax	The sentence "Penny skated around the rink" is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Morphology	The sentence has a morphological error. The word "many" is a quantifier and should be followed by a plural noun. In this case, the plural form of "information" is "pieces of information" or just "information." The correct sentence would be: "Much information was provided."
+0	Morphology	The word "advice" is uncountable in this context, so it doesn't need to be used with a plural verb like "offers." To correct the sentence, you could say "John offers a lot of advice."
+1	Syntax	The sentence follows the correct syntax and has proper subject-verb agreement.
+0	Syntax	The sentence is not grammatically correct. The phrase "We recommend" is a suggestion and should be followed by a gerund, which is a verb form that ends in "ing" and functions as a noun. To correct the sentence, it should be changed to "We recommend eating less cake and pastry."
+1	Syntax	The sentence follows the correct subject-verb-object structure and is syntactically correct.
+0	Semantics	The sentence is semantically incorrect as it suggests that one person washed another person, which is not a common or logical action. The sentence may be improved by including the object that was washed to provide context, such as "He washed her hair."
+0	Syntax	The sentence is not syntactically correct. The correct sentence would be "Wash yourself!" or "Wash yourself." to the second person.
+0	Syntax	The sentence "They have no in" is not syntactically correct. It seems like there might be missing information or context that would complete the thought. To correct the sentence, additional information is needed to provide a coherent structure.
+0	Morphology	The correct sentence should be "Some of my jobs are in jeopardy." The mistake is in the usage of the pronoun "some." In this context, "some" should be followed by "of" to indicate a part of the whole.
+0	Syntax	The sentence is syntactically incorrect. The phrase "It was the policeman" is a nominalization, and the verb "met" should agree with the real subject, "policeman," rather than with the nominal "It." The correct sentence would be: "It was the policeman who met several young students in the park last night."
+0	Syntax	The sentence is not syntactically correct and needs to be rewritten to convey the intended meaning. It seems like there is a missing subject or a verb in the sentence. It could be corrected as: "Did the policemen meet in the park?"
+1	Syntax	The sentence follows the correct syntax and word order for a simple sentence in English.
+0	Morphology	The sentence is ungrammatical because of the incorrect use of the adjective "proud." The adjective "proud" can be used as a predicative adjective, which means it should come after a linking verb and agree with the subject in number and person. In this sentence, the subject is plural ("monkeys"), so the correct adjective form should be "proud" instead of "proud." To correct the sentence, it should be changed to "The monkeys are proud of their leader."
+0	Semantics	The sentence "John sounded very" is incomplete and, therefore, semantically incorrect. It seems like an adjective or an adverb is missing after the word "very" to describe how John sounded. To make the sentence correct, it could be completed, for example, like this: "John sounded very happy."
+1	Other Category	The sentence is correct and does not fall under any of the mentioned categories.
+0	Semantics	This sentence is semantically incorrect because it is ambiguous. It can be interpreted in two ways: either John bought a book that was on the table, or John bought a book about tables. To resolve the ambiguity, the sentence could be rewritten as: "John bought the book that was on the table" or "John bought a book about tables," depending on the intended meaning.
+1	Syntax	The sentence follows the correct syntax and word order for a simple sentence in English.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is correct.
+0	Syntax	The sentence is syntactically incorrect. It seems like it's trying to say "He has left me a good friend," but the word order and verb usage are not correct in the given sentence.
+1	Syntax	The sentence follows the correct syntax and word order for a simple English sentence.
+1	Syntax	The sentence follows the correct subject-verb-object structure and the verb agrees with the subject in number.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is grammatically correct and does not fall into any of the specified categories.
+1	Syntax	The sentence follows the correct syntax and word order for the passive voice in the English language.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence follows the correct subject-verb agreement and word order, and there are no errors in the sentence structure.
+1	Correct	The sentence is grammatically correct and has the correct syntax, semantics, and morphology.
+0	Syntax	The sentence is syntactically incorrect. It seems something is missing after the word "put." To correct the sentence, you might want to consider adding an object after "put," like this: "John put the toy under the bathtub."
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Syntax	The sentence is syntactically incorrect. It seems like there might be a mistake or missing information in the sentence. It should probably be corrected to provide a complete and meaningful sentence.
+1	Syntax	The sentence follows the correct syntax and word order for a passive sentence in the simple past tense.
+1	Syntax, Semantics, Morphology	The sentence is syntactically, semantically, and morphologically correct.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Semantics	The sentence is semantically incorrect as it is missing a direct object that explains what Kim put in the box. A correct version of the sentence would be: "Kim put the book in the box."
+1	Syntax	The sentence follows the correct syntax and word order, and the verb "seem" is appropriately used with the adjective "fond" to describe the chickens' attitude toward the farmer.
+1	Syntax	The sentence follows the correct syntax and is grammatically correct.
+0	Syntax	The sentence is syntactically incorrect. It seems like there might be a missing word or phrase that would clarify the relationship between Fred and Bill in the sentence. As it stands, the sentence "That Fred was unpopular nominated Bill" does not make sense syntactically and requires correction for proper understanding.
+1	Other Category	The sentence is correct and does not need any corrections.
+0	Semantics	The phrase "paid against" is not commonly used and may be confusing or unclear to readers. A better phrase to use in this context would be "paid for," as in "John paid me for the book."
+1	Other Category	The sentence is grammatically correct and does not contain any errors in syntax, semantics, or morphology.
+0	Morphology	The correct sentence would be: "We made them rude." The verb "make" is a causative verb and is used to describe causing someone to do something. When used with an adjective, the correct structure is "make + object + adjective." In this case, "be rude" is incorrect, and it should be "rude."
+1	Syntax	The sentence adheres to the rules of syntax and has correct word order and structure.
+0	Morphology	The verb "reads" is incorrect in this sentence. It should be changed to the plural form "read" to agree with the plural subject "students." The correct sentence would be: "Students studying English read Conrad's Heart of Darkness while at university."
+1	Syntax	The sentence "I read some of the book" is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct syntax and has proper subject-verb agreement.
+0	Morphology	The correct sentence should be: "Neither of the students failed." The word "the" is missing in the original sentence.
+0	Morphology	The correct sentence would be "I drank some water." The word "of" is unnecessary and incorrect in this context.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and adheres to the syntactic rules of English.
+1	Syntax	The sentence follows the correct syntax and word order for a passive sentence in the English language.
+0	Semantics	The sentence is semantically incorrect because it is illogical for a dog to try to bite itself. The use of "even" suggests that the dog has tried to bite something unexpected, but the subject of the bite is not specified, making the sentence nonsensical.
+0	Morphology	The sentence is incorrect because the reflexive pronoun "yourself" should be "himself" to agree with the subject "he."
+0	Syntax	The sentence is syntactically incorrect. It seems like the intention was to say that John easily pleases Kim, but the current structure is not grammatically correct. To fix it, one could say, "John easily pleases Kim."
+0	Syntax	The sentence is syntactically incorrect. It seems to be missing a noun or adjective after the verb "seemed." A possible correction could be: "There seemed to be an intelligent person."
+1	Syntax	The sentence follows the correct syntax and word order for a simple sentence in English.
+0	Semantics	The sentence is semantically incorrect. The phrase "a fountain in the park" describes John, but it doesn't make sense because people cannot be fountains.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct syntax and word order for a declarative sentence in English.
+0	Morphology	The correct sentence would be: "There are believed to be sheep in the park." The verb "are" is the correct form of the verb "to be" to use in this sentence, as it agrees with the plural noun "sheep."
+0	Syntax	The correct sentence would be: "I hope I would study in France." The use of "to" after "hope" is unnecessary and makes the sentence grammatically incorrect.
+1	Syntax	The sentence follows the correct syntax, Subject + Verb + Object, and the verb agrees with the subject.
+0	Semantics	The sentence has a semantic error. The verb "rain" doesn't typically describe the actions of a person named John. It's used to describe the weather phenomenon of precipitation.
+0	Syntax	The correct sentence would be: "We expect it to rain." or "We expect that it will rain.".
+1	Syntax	The sentence follows the correct subject-verb-object pattern and is free of syntax errors.
+0	Morphology	The correct form of the verb "to be" in the past tense is "was". So, the correct sentence would be: "Was the child in the school?"
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Syntax	The sentence is syntactically correct and expresses John's desire to stay in town.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb structure.
+1	Syntax	The sentence follows the correct syntax and word order for an affirmative sentence in the English language.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct. The auxiliary verb "has" agrees with the singular subject "George," and the sentence is structured in the standard subject-verb-object order.
+0	Syntax	The sentence is syntactically incorrect. The word "scarcely" requires a specific sentence structure: it should be followed by the subject and then the verb. The correct sentence structure would be: "Scarcely + Subject + Verb + the rest of the sentence." So, the correct version of the sentence would be: "As a statesman, he could scarcely do anything worth mentioning."
+1	Syntax	The sentence is syntactically correct and follows the subject-verb-object pattern.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence follows the correct syntax and word order for the passive voice in the past tense.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Semantics	This sentence is semantically incorrect because the subject ("A pound") is typically not something that would perform the action of weighing, as it is a unit of measurement. The sentence may be improved by clarifying who or what is doing the weighing: "The book was weighed by a pound."
+0	Syntax	The correct sentence would be: "Who do you think Tom saw?" This sentence is in the passive voice, and the main clause is "You think." The embedded question is "Who did Tom see?"
+1	Other Category	The sentence is correct.
+0	Syntax	The sentence is syntactically incorrect. It seems like there might be a missing word or phrase after the word "politician." To correct the sentence, it could be structured as "Fed knows for which politician to vote."
+1	Syntax	The sentence is syntactically correct and follows the proper structure and word order for a question in the English language.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure. The verb "knows" agrees with the singular subject "The committee". The relative clause "whose efforts to achieve peace the world should honor" is functioning correctly as a complement to the subject and provides additional information about the efforts of the committee.
+0	Syntax	The sentence is syntactically incorrect. It seems like there is a preposition missing at the end of the sentence. The correct sentence would be: "Which house does your friend live in?"
+1	Syntax	The sentence is syntactically correct and follows the correct subject-verb-object structure. The relative clause "from whom I bought these bagels" modifies "baker" and is correctly placed after it.
+1	Syntax	The sentence follows the correct syntax and word order for a declarative sentence in English.
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "Jack is the person with whom Jenny fell in love." The preposition "with" at the end of the sentence is unnecessary and makes the sentence grammatically incorrect.
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The correct sentence would be: "Which topic did you choose without getting his approval?"
+0	Syntax	The correct sentence would be: "Which topic did you get bored of because Mary talked about it?" or "Which topic did Mary talk about that bored you?". The original sentence is incorrect because the verb "get" needs to be followed by a preposition, in this case, "bored of".
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+1	Syntax	The sentence follows the correct syntax and word order for a passive voice sentence in the present tense.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct syntax and word order for a sentence in the active voice, and all the necessary components of a sentence (subject, verb, etc.) are present.
+0	Syntax	The correct sentence would be: "Angela achieved the best result." or "The best result was achieved by Angela.".
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is syntactically incorrect. A sentence fragment is a sentence that is missing a subject, a verb, or both. In this sentence, the phrase "That kind of person" is the subject, and the phrase "is hard to find" is the verb phrase. However, the sentence is fragmented because it is missing a verb that agrees with the singular subject. To correct this sentence, you can add the verb "is" before the word "hard." Here is the corrected version: "That kind of person is hard to find anyone to look after him/her."
+1	Syntax	The sentence follows the correct syntax and has a proper structure.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and the modifier "each" is used correctly to modify the subject "candidate." The relative clause "who has interest in semantics" is also correctly formed and modifies "candidate." The verb "will be admitted" is used correctly and agrees with the singular noun "candidate." Overall, the sentence adheres to the rules of standard English syntax.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb agreement and word order.
+0	Semantics	The sentence is grammatically correct, but the use of "even" doesn't make sense in this context. It might be a mistake, and the intended word could be "ever." The correct sentence would be: "I'm sure we ever got these tickets!"
+0	Morphology	The correct sentence would be: "I'm even sure we got these tickets!" The mistake in the provided sentence is the use of "even" without a negative verb. To correct the sentence, either add "not" after "I'm" or replace "even" with "ever."
+0	Morphology	The correct word is "guerrillas," not "guerillas." The sentence should be: "It's not because I have any sympathy for urban guerrillas that I helped him."
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb agreement and word order.
+0	Syntax	The sentence is not grammatically correct. It seems like a fragment as it is missing a subject. A possible correction could be: "John whined that he was hungry."
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "I gave Mary a book after the party." The word order is important in English and the subject typically comes before the verb. In this case, "I" is the subject and "gave" is the verb, so they should appear in that order.
+0	Syntax	The sentence is syntactically incorrect. A sentence cannot begin with "As for" and then continue with "Because" in the same independent clause. To correct the sentence, one of these structures can be used: "I like Mary because she is pleasant." or "As for Mary, I like her because she is pleasant."
+1	Syntax	The sentence is syntactically correct and follows the rules of standard English grammar.
+0	Syntax	The sentence is syntactically incorrect. It is a negative statement, but the correct syntax for a sentence like this would be "John would not be happy with no job."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is correct and does not fall under any of the specified categories.
+0	Syntax	The sentence "Any trouble is what I don't want" is not syntactically correct. It is a fragment and does not express a complete thought. The correct sentence would be "I don't want any trouble."
+1	Syntax	The sentence follows the correct syntax and has proper subject-verb agreement.
+0	Morphology	The correct sentence would be: "Some of them made as many as 20 errors."
+0	Morphology	The pronoun "himself" is incorrect because it is a male pronoun, but the antecedent is "Sally," which is typically a female name. The correct pronoun should be "herself."
+1	Syntax	The sentence is syntactically correct and follows the proper word order and structure.
+1	Other Category	The sentence is correct.
+1	Other Category	The sentence is correct and does not contain any errors.
+0	Semantics	The sentence is semantically incorrect because the subject "Blue leather" is not a person and therefore cannot show something to herself. The sentence should be corrected to use the correct pronoun or noun phrase that refers to a person.
+1	Syntax	The sentence is syntactically correct. It follows the standard subject-verb-object structure of a simple English sentence.
+0	Syntax	The sentence is syntactically incorrect. It seems like there might be a missing word or phrase that would provide context and complete the thought. Perhaps the intended sentence could be: "I thought you knew the answer."
+1	Syntax	The sentence follows the correct syntax and is grammatically correct.
+1	Syntax	The sentence follows the correct syntax and word order for a declarative sentence in English.
+1	Syntax	The sentence follows the correct syntax and the sentence structure is correct.
+1	Syntax	The sentence follows the correct syntax and word order for a sentence in the passive voice, and it does not violate any syntactic rules of the English language.
+1	Syntax	The sentence is syntactically correct and follows the subject-verb-object pattern.
+0	Syntax	The sentence is syntactically incorrect. It seems that there is a missing word or phrase that would clarify the subject of the sentence. To correct it, one could consider adding a verb and modifying the preposition to make the sentence structure more clear, like this: "It takes a very long time to read the book of poems and the one from Blackwell."
+0	Semantics	The sentence is semantically incorrect because the use of "the one" implies that there are multiple options or alternatives being discussed, but no context or options have been provided. To correct the sentence, provide context or specify what "the one" is being referred to.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and is free of syntax errors.
+0	Syntax	The correct sentence would be "The building's roof is leaking." The word "the" after "building's" is unnecessary and incorrect in this context.
+0	Syntax	The sentence is syntactically incorrect. It contains a subject-verb agreement error. The correct sentence would be: "The panther's coat is dark black."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "The man who I saw get into the cab robbed the bank."
+1	Syntax	The sentence follows the correct subject-verb agreement and word order, and there are no errors in the sentence structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object word order.
+1	Syntax	The sentence follows the correct subject-verb-object structure and the verb agrees with the subject in number.
+0	Syntax	The sentence is syntactically incorrect. It seems like something is missing between "Andy" and "to eat." To fix the sentence, you could say, "Heidi thinks that Andy should eat salmon-flavored candy bars."
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Other Category	The sentence is grammatically correct and does not fall into any of the specified categories.
+0	Syntax	The sentence is syntactically incorrect. It seems that the verb "do" is missing after "Did." The correct sentence would be: "Did Calvin do his homework?"
+1	Other Category	The sentence is correct.
+1	Syntax	The sentence follows the correct syntax and the structure of a conditional sentence.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb agreement and word order.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+0	Morphology	The sentence is not correct because the verb "was sunk" is not in the correct form. It should be either "was sunk" or "had sunk," depending on the context.
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence follows correct syntax and is structured logically.
+0	Syntax	The sentence is syntactically incorrect. The phrase "There were four men" is a singular noun phrase and should be followed by a singular verb. The correct sentence would be: "There was four men arriving at the station when I pulled up."
+1	Syntax	The sentence follows the correct syntax and word order for a simple sentence in English.
+1	Syntax	The sentence follows the correct subject-verb-object structure and is syntactically correct.
+1	Syntax	The sentence follows the correct syntax and word order for a simple sentence in English.
+1	Syntax	The sentence follows the correct syntax and word order for a sentence in the active voice, and all the necessary components of a sentence are present.
+1	Syntax	The sentence follows the correct syntax and word order for a simple declarative sentence in English.
+0	Morphology	The correct sentence would be: "Who has Peter talked to?" Here, the preposition "to" is the correct form to use after the verb "talk."
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Morphology	The sentence is incorrect because the reflexive pronoun "himself" is used incorrectly. The correct pronoun should be "her," as it refers to Mary. The correct sentence would be: "John thinks that Mary loves her."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Morphology	The sentence is incorrect because the verb "hunt" should be plural to agree with the plural subject "any owl." The correct sentence would be "Any owl hunt mice."
+0	Semantics	The sentence is semantically incorrect. The word "any" is typically used in negative or interrogative sentences to indicate a negative response. However, in this sentence, the combination of "any" with the negative verb "didn't" results in an affirmative statement, which is not grammatically correct. To maintain the same meaning, you could rephrase the sentence as "No man ate dinner."
+1	Correct	The sentence is grammatically correct and meaningful.
+1	Syntax	The sentence is syntactically correct and follows the rules of English grammar. The use of "whoever" is appropriate as a pronoun that can be used to refer to any person or people in a non-specific way. The sentence structure is also correct, with the dependent clause "who attended last week's huge rally" modifying "Everybody" and the main clause "signed the petition" expressing a complete thought.
+1	Syntax	The sentence follows the correct syntax and the sentence structure is correct.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct subject-verb-object order and the verb agrees with the subject.
+1	Syntax	The sentence follows the correct syntax and the structure is correct.
+1	Syntax	The sentence is syntactically correct and follows the correct subject-verb agreement and word order.
+1	Syntax	The sentence is syntactically correct and follows the subject-verb-object pattern.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object word order.
+0	Syntax	The sentence is syntactically incorrect. The use of "who" is not appropriate here as it is used to refer to people, and in this sentence, it is referring to "the man." A possible correction could be: "The man whom Mary loves and Sally hates computed my tax."
+0	Syntax	The sentence is syntactically incorrect. The relative clause "which Mary made and Fido sleeps in" modifies the noun "kennel," but the verb "sleeps" does not agree in number with the subject "Fido." To correct the sentence, it should be changed to "The kennel which Mary made and in which Fido sleeps has been stolen."
+0	Syntax	This sentence is syntactically incorrect. The correct sentence should be: "Tom said he would and Bill actually did eat a raw eggplant." Here, the subject of the second clause is Bill, so the verb "did" should be used instead of "do" to agree with the singular subject.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence follows the correct subject-verb-object structure and is free of syntax errors.
+1	Other Category	The sentence is correct.
+1	Syntax	The sentence follows the correct subject-verb-adjective order and is syntactically correct.
+1	Syntax	The sentence follows correct syntax and is grammatically correct.
+1	Other Category	The sentence is grammatically correct and adheres to the rules of syntax, semantics, and morphology.
+0	Syntax	The sentence is syntactically incorrect. In English, a yes/no question is formed by inverting the verb and the subject. So the correct form would be, "She asked if Alison was coming to the party."
+0	Syntax	The correct sentence would be: "They realized that Sir Thomas had never been so offended." The auxiliary verb "had" should be placed after the subject "Sir Thomas" to maintain the correct word order in the sentence.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the rules of English word order and structure.
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Syntax	The sentence is syntactically incorrect. It is a fragment and does not contain a complete thought. The correct sentence would be: "To whom did John send the book?" or "Who did John send the book to?"
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "The idea that the Dome was dull dismayed the Prime Minister." In the original sentence, the phrase "that the Dome was dull" is a subordinate clause that modifies "idea," but it is placed incorrectly in the sentence, leading to a syntax error.
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "He came right in without so much as a knock." The word order in the original sentence is unnatural and violates the normal sentence structure of English.
+1	Other Category	The sentence is grammatically correct and adheres to the rules of syntax, semantics, and morphology.
+1	Syntax	The sentence follows the correct syntax and the sentence structure is correct.
+1	Syntax	The sentence is syntactically correct and follows the normal subject-verb pattern of English sentences.
+1	Syntax	The sentence follows the correct subject-verb-object structure and is syntactically correct.
+1	Syntax	The sentence follows the correct syntax and word order for a passive voice sentence in English.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure. The subject is "The fugitive", the verb is "lay", and the object is "motionless". The phrase "in order to avoid discovery" is a subordinate clause that describes the purpose of the fugitive lying motionless.
+1	Correct	The sentence is syntactically, semantically, and morphologically correct.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified error categories.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence follows the correct syntax and grammatical structure.
+0	Semantics	The sentence is semantically incorrect because it contains a contradiction. The phrase "very upset" indicates that Pat was unhappy about receiving the award, while the first part of the sentence suggests that receiving the award should be a positive event. This contradiction makes the sentence semantically incorrect.
+0	Syntax	The sentence is syntactically incorrect. It seems like the intention was to convey that Kim alienated people by performing two actions: beating his dog and doing something related to cats. However, the current structure is unclear and does not follow proper syntactic rules. To correct it, one possible revision could be: "Kim alienated people by beating his dog and, strangely, cuddling cats." This revision provides clarity and adheres to the rules of syntax.
+1	Syntax	The sentence follows the correct syntax and word order.
+0	Semantics	The sentence is grammatically correct, but the question doesn't make sense semantically. The phrase "file papers" typically means to organize and arrange documents, not to read them. So, it doesn't make sense to say that Terry filed papers "without reading." The sentence would make sense if it asked about an article that Terry read without filing the corresponding papers.
+0	Morphology	The correct sentence would be: "I want to try to buy some whiskey." The word "try" in this context is a transitive verb and should be followed by the preposition "to" before the verb "buy."
+0	Morphology	The correct sentence would be: "She goes and buys some whiskey." The verb "buy" is incorrect in the original sentence; it should be "buys" because it agrees with the singular subject "she."
+0	Morphology	The sentence is incorrect because the verb "is" should be "are" to agree with the plural subjects "Kim and Terry."
+1	Syntax	The sentence follows the correct syntax and word order, and the sentence structure is correct.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb-object structure.
+0	Syntax	The sentence is syntactically incorrect. It is a run-on sentence, meaning it contains two independent clauses that are not correctly joined. To fix this, one could use a semicolon or a conjunction. Here is the corrected version with a semicolon: "Put a picture of Bill on your desk before tomorrow; this girl in the red coat will put a picture of Bill on your desk before tomorrow."
+0	Syntax	The sentence is syntactically incorrect. It seems like there are two sentences merged into one, which makes the structure unclear and incomplete. The correct sentence could be: "This girl in the red coat will put a picture of Bill on your desk before tomorrow."
+1	Other Category	The sentence is correct.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-adjective-prepositional phrase structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is not grammatically correct. It seems like there is a mistake in the sentence structure. The correct sentence would be: "Which books about cooking does Henri want to buy?" or "Which cooking books does Henri want to buy?"
+1	Syntax	The sentence follows the correct subject-verb-object pattern and the verb agrees with the subject.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and the verb agrees with the subject.
+1	Syntax	The sentence follows the correct subject-verb-object structure and the verb "cut" is in the passive voice, which is appropriate for this sentence.
+1	Syntax	The sentence is syntactically correct and follows the appropriate rules of grammar and sentence structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure. The subject is "two inspectors," the verb is "arrived," and the object is "INS." The word "suddenly" is an adverb that modifies the verb "arrived" and describes the unexpected or abrupt manner in which the inspectors appeared.
+0	Syntax	The sentence is syntactically incorrect. It seems like the sentence is trying to describe the process of the soup cooking and thickening, but the current structure is incomplete and lacks a subject or a main verb. To correct the sentence, you could consider adding a verb or providing more context to clarify the intended meaning. For example, you could say, "The soup is cooking and thickening."
+1	Syntax	The sentence follows the correct subject-verb-object pattern and is free of errors in word order or sentence structure.
+0	Syntax	The provided sentence is syntactically incorrect. In English, a sentence must contain a subject and a predicate. While "John" is the subject of the sentence, the predicate is missing. A possible correction could be "John asked a question."
+0	Semantics	The sentence is syntactically correct, but the use of "even" suggests that the speaker is emphasizing that they saw the student, possibly in contrast to other things or people they did not see. However, without additional context, the sentence as it stands sounds incomplete or lacking in a broader context that would give meaning to the use of "even."
+0	Syntax	The sentence is syntactically incorrect. It seems to be missing a word, such as "that" or a comma after "John". To correct the sentence, it could be changed to either "John whispered that Mary had left" or "John whispered, Mary left."
+0	Syntax	The correct sentence would be "Mary wonders if Bill will come." The word "that" is incorrect in this context and should be replaced with "if."
+0	Syntax	The sentence "Sophie will theater" is syntactically incorrect. It seems like there is a verb missing after "will," which is usually followed by a verb in the base form. To correct the sentence, you could say, "Sophie will go to the theater" or "Sophie will attend the theater."
+1	Syntax	The sentence is syntactically correct and follows the normal subject-verb-object pattern.
+0	Syntax	The sentence is syntactically incorrect. In this sentence, the reflexive pronoun "herself" is used incorrectly. Reflexive pronouns are used when the subject and the object of a sentence refer to the same person or thing. In this case, "herself" is used as the subject of the sentence, which is not grammatically correct. The correct sentence would be "Mary's mother likes herself."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Morphology	The sentence is incorrect because the reflexive pronoun "himself" should be "herself" to agree with the antecedent "John's mother."
+0	Semantics, Morphology	The sentence is incorrect because the pronoun "himself" does not agree in gender with the antecedent "Mary," which is typically a feminine name. To correct the sentence, the pronoun should be changed to "herself" to maintain gender agreement.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence follows the correct syntax and word order.
+1	Syntax	The sentence follows the correct syntax and word order for a sentence in the active voice, and all the necessary components of a sentence are present.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Semantics	The sentence is semantically incorrect. The phrase "consider oneself proud of someone" is not idiomatic and does not make sense in this context. A more correct phrase would be "be proud of someone." A possible correction could be "John is proud of Mary."
+0	Syntax	The sentence "You should sit before there" is syntactically incorrect. The word "there" is a pronoun that refers to a place, and it is not typically used as a preposition. The sentence should be corrected to use the preposition "there" instead. For example, you could say, "You should sit over there."
+1	Syntax	The sentence follows the correct syntax and is grammatically correct.
+0	Syntax	The sentence is syntactically incorrect. The verb "hopes" requires a noun or a pronoun as its object, but the phrase "everyone to sleep" is not a valid noun phrase. To correct the sentence, you could say, "Everyone hopes that everyone will sleep."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the subject-verb-object pattern.
+0	Morphology	The sentence is not correct because the word "promise" is used as a verb, but it is not in the correct form. The correct form of the verb "promise" in the present tense is "promises". The correct sentence would be: "John promises Mary to shave himself."
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+0	Syntax	The sentence is syntactically incorrect. It seems to be a fusion of two ideas that are not properly combined. A possible correction could be: "I saw Bill while you did the same to Mary."
+0	Syntax	The sentence is syntactically incorrect. A possible correction could be: "What Mary did was give Bill a book."
+0	Semantics	The sentence is not semantically correct as it is incomplete and does not convey a complete thought or idea. It seems like the sentence is missing a crucial part, such as an object or a phrase that describes what the bears were sniffing. To make the sentence grammatically and semantically correct, you could say, for example, "The bears sniffed the air" or "The bears sniffed for food."
+1	Syntax	The sentence follows the correct subject-verb-object structure and word order.
+0	Semantics	The sentence "Anson demonized" is not correct as it is a sentence fragment and doesn't convey a complete thought. It seems like something is missing, and it's not a well-formed sentence on its own.
+0	Morphology	The correct sentence would be "You kicked yourself." The verb "kick" is an irregular verb, and its past tense form is "kicked." The reflexive pronoun "yourself" is used because the subject and the object of the sentence are the same person.
+0	Syntax	The sentence is syntactically incorrect. It contains a sentence fragment and is not a complete sentence. It should be corrected to something like: "I will never read that book that I mentioned."
+0	Morphology	The word "demonized" is not used correctly in this sentence. It seems that the verb "demonize" is intended, which would be appropriate in the context of portraying someone or something in a negative light.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb-object word order.
+0	Syntax	The sentence "Kick you!" is missing a subject and is not grammatically correct. It is a imperative sentence and should be structured as a command, but it lacks the necessary subject ("you") to make sense.
+1	Other Category	The sentence is grammatically correct and does not fall into any of the mentioned categories.
+0	Syntax	The correct sentence would be: "Whom did you get an accurate description of?" The word "whom" is the objective case of the pronoun "who," and it is used as the object of a verb or preposition. In this sentence, "whom" is the object of the preposition "of," so it is the correct form to use.
+1	Correct	The sentence is grammatically correct and does not contain any errors in syntax, semantics, or morphology.
+0	Morphology	The sentence is not grammatically correct as it is a sentence fragment. A sentence fragment is a group of words that resembles a complete sentence but does not express a complete thought. In this case, the sentence is missing a subject and a verb. To correct it, additional information is needed to provide context and complete the thought. For example, you could say, "The government's imposition of a fine on the company was widely criticized by the public."
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified categories.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Semantics	The sentence is grammatically correct, but the word "demonized" has a negative connotation and implies that Anson portrayed David in a negative light or as a villain on a regular basis. This sentence may be factually incorrect or may contain misleading information if the context suggests that Anson and David had a positive relationship or if Anson did not intentionally portray David negatively.
+0	Syntax	The correct sentence would be: "There is a programme about Euripides on Radio 4 tonight." The word "a" before Radio 4 is unnecessary and incorrect in this context.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is grammatically correct and does not fall into any of the specified error categories.
+0	Morphology	The sentence is not correct because of the incorrect use of the word "frantically". The word "frantically" is an adverb, and adverbs are used to modify verbs, adjectives, or other adverbs. In this sentence, "frantically" is being used as an adjective to modify the adverb "extremely," which is incorrect. A possible correction could be: "Anson danced at Trade in an extremely frantic manner."
+0	Syntax	The sentence is syntactically incorrect and should be structured as "Who did you ask that Medea gave to?" or "To whom did you ask Medea gave?"
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The sentence is syntactically incorrect. It seems like a confusion of two different sentence structures: "Medea tried to poison her children" and "Medea tried the nurse (by doing something to her)." To correct the sentence, provide more clarity on the intended action: "Medea tried to get the nurse to poison her children."
+0	Morphology	The correct sentence would be "I felt that I knew you." The verb 'know' is incorrect in this sentence because it is not consistent with the past tense of the verb 'felt'. The verb 'know' should be changed to its past tense form, 'knew', to maintain grammatical agreement and convey the intended meaning accurately.
+0	Syntax	The sentence is syntactically incorrect. The correct sentence would be: "Will he be able to do it?" or "Can he do it?"
+0	Syntax	The sentence "I ate that she was happy" is syntactically incorrect. It seems like there is a confusion between the verbs "ate" and "thought," which could result in the correct sentence "I thought that she was happy."
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-prepositional phrase structure.
+0	Syntax	The sentence is not syntactically correct. A correct version could be: "Gilgamesh has fought the dragon." or "Gilgamesh fought the dragon." The original sentence uses the verb "to be" along with the present participle "having fought," which is not the correct form for the present perfect progressive tense.
+0	Morphology	The sentence is incorrect because of the wrong use of the reflexive pronoun "himself." The correct sentence would be "Anson thought that he was happy."
+1	Other Category	The sentence is grammatically correct and does not fall under any of the mentioned categories.
+0	Morphology	The correct sentence would be: "I might not be going to the party but washing my hair." The word "not" is necessary to convey the correct meaning and should not be omitted.
+0	Morphology	The correct sentence would be "I thought he liked me." The reflexive pronoun "myself" is not needed in this sentence as the object of the verb "liked." Reflexive pronouns are used when the subject and the object of a sentence refer to the same person or thing. In this sentence, "I" is the subject and "me" is the object, which refer to different people.
+1	Correct	The sentence is syntactically, semantically, and morphologically correct.
+0	Semantics	The sentence is semantically incorrect. The phrase "happen to" combined with "appear to" makes the sentence redundant and confusing. It is better to use either "happen to" or "appear to" but not both in the same sentence.
+0	Syntax	The sentence is syntactically incorrect. It seems to be a blend of two questions: "What did you ask?" and "Who did you see?" To correct the sentence, it should be restructured as either "What did you ask?" or "Who did you see?".
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+0	Syntax	The sentence "He can will go" is syntactically incorrect. The correct sentence would be "He will go."
+0	Syntax	The sentence is not grammatically correct and requires correction. It should be "How fierce was the battle?" to maintain correct subject-verb agreement and sentence structure.
+0	Syntax	The correct sentence would be: "Which king did you ask about the invasion of which city?" or "Which king did you ask which city had invaded?" The provided sentence has a syntax issue due to the double "which" structure, which makes it confusing.
+0	Semantics	The sentence is grammatically correct, but the word choice makes the sentence semantically nonsensical. It seems that the word "pigs" was used incorrectly instead of "potatoes" or another similar vegetable, as the sentence refers to something that humans eat and that can be found in ditches.
+0	Syntax, Semantics	The sentence is not correct syntactically and semantically. In standard English sentence structure, a noun (in this case, "the monkey") typically follows a transitive verb (such as "is eating"), indicating who or what is performing the action. The correct sentence would be: "That monkey is eating the banana."
+0	Semantics	The phrase "Burn them!" is a command to set fire to someone or something. This sentence does not make sense and is not a correct or meaningful phrase in the given context.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+1	Other Category	The sentence is grammatically correct and does not fall under any of the specified error categories.
+1	Syntax	The sentence follows the correct syntax and word order for a question in the simple present tense.
+1	Syntax	The sentence is syntactically correct and follows the proper subject-verb-object structure.
+0	Syntax	The correct sentence would be: "I inquired as to when we could leave." or "I inquired about when we could leave."
+1	Syntax	The sentence "They kicked them" is syntactically correct and follows the standard subject-verb-object structure.
+0	Syntax	The correct sentence would be: "The monkey is eating the banana." The sentence as provided does not adhere to standard English syntax rules.
+0	Morphology	The correct sentence would be: "I would like to be able to swim." The phrase "I would like" is followed by the infinitive form of the verb, which in this case is "to be able to swim." The word "could" is incorrect in this context.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb structure.
+0	Semantics	The sentence is not semantically correct because it doesn't make sense as a stand-alone sentence. It seems incomplete and requires additional context or information to be understandable.
+1	Syntax	The sentence is syntactically correct and follows the standard subject-verb-object structure.
+0	Morphology	The sentence is not correct because of the incorrect use of the adjective "muscle-bound." The correct sentence would be: "Anson became muscle-bound."

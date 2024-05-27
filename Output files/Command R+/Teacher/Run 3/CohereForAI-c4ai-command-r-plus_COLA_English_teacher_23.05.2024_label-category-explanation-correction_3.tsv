@@ -1,0 +1,528 @@
+label	category	explanation	correction
+1	Semantics	The sentence is semantically correct and makes sense in the context of sailors navigating their ship. The phrase "rode the breeze" suggests that the sailors skillfully used the wind to their advantage, likely by adjusting their sails to catch the breeze and steer clear of the rocks. This phrase is a figurative expression that describes the sailors' ability to navigate using the wind. The sentence effectively conveys the image of sailors skillfully navigating their ship using the wind while avoiding the rocks, creating a poetic and vivid description of their actions.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in the context of physics and mechanics. It conveys a clear and coherent idea.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The phrase "wriggle loose" is often used to describe someone or something that is trying to break free from something that is holding them back. In this case, the mechanical doll is trying to break free from whatever is restraining it, which is implied by the use of the word "loose."	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and expresses a logical statement about the relationship between eating more and wanting less.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The phrase "as you eat the most" suggests that the amount of food consumed is at its highest, while "you want the least" indicates a desire for a small amount or intensity of something. These two parts of the sentence contradict each other, and the overall meaning is confusing.	As you eat more, you want less.
+0	Semantics	The sentence is semantically correct and expresses a coherent thought. The use of "the more" and "the less" indicates a inverse relationship between wanting and eating.	The sentence is already correct.
+0	Morphology	The sentence is not correct because of the incorrect use of the comparative form "more." When using "the more," the following clause should use the infinitive form of the verb, in this case, "to eat" instead of "eat."	I demand that the more John eats, the more he pays.
+0	Syntax	The sentence is not correct syntactically. It contains a comma splice, which is a comma incorrectly separating two independent clauses.	Mary listens to the Grateful Dead, and she gets depressed.
+1	Semantics	The sentence is already semantically correct. The comparative correlative conjunction "the...the..." is used to express that two things happen in a similar way, with the first part showing the increase of the anger and the second part showing the resulting increase in the action of looking at pictures.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense contextually.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in context. It uses a comparative construction with "the more" and "the less" to express a proportional relationship between Fred's obnoxious behavior and the suggested response of paying less attention to him.	The sentence is already correct.
+0	Morphology	The sentence contains a morphological error. The phrase "lots more" is incorrect and should be replaced with "much more" or "far more."	John was much more obnoxious than Fred.
+1	Semantics	The sentence is semantically correct and logical. It implies a causal relationship between drinking beer and getting sick, which is reasonable in this context.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the use of "the more" at the beginning of the sentence requires a comparative structure, but the sentence instead uses a non-comparative structure ("does Bill smoke").	The more Bill smokes, the more Susan hates him.
+1	Semantics	The sentence is semantically correct and meaningful. The use of "the more... the more..." construction is appropriate and expresses a proportional relationship between the number of pictures of John appearing in the news and his level of embarrassment.	The sentence is already correct.
+0	Semantics	The sentence is not correct because it uses the pronoun "he" to refer to a senator, which assumes that all senators are male. This is not accurate as there are female senators as well.	The more lobbyists a senator talks to, the more corrupt they seem to become.
+0	Syntax	The sentence is syntactically incorrect. It contains a grammatical error due to the incorrect use of the relative pronoun "who." The relative pronoun "who" is used to refer to people, but in this sentence, it is not referring to a person but rather the reason for John's visit.	N/A The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are in the right order and it makes sense.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. In English, the verb "look up" is followed by a noun or a pronoun in the objective case, but not a pronoun in the subjective case ("it").	Mickey looked it up.
+1	Semantics	The sentence is semantically correct and natural. The phrase "There tended to be" is often used to describe a recurring event or situation, and it is suitable in this context.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. It expresses a complete thought and makes sense in context.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in a way that makes sense and follows the rules of English grammar.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect because the subject and verb are not in the correct order, and the preposition "by" is used incorrectly.	Gas escaped from the tube.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It has a subject ("The tub"), a verb ("leaked"), and a direct object ("water"). The sentence is structured correctly and has a clear meaning.	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. The verb "did" requires a verb in the infinitive form without the particle "to" as its complement, but the sentence uses the verb "fill" with the preposition "to," which is not the correct form.	What the water did to the bottle was fill it.
+0	Semantics	The sentence is semantically incorrect because it uses the verb "fill" in a way that is not grammatically correct or natural. A more correct version would be: "What the water did to the whole bottle was fill it up."	What the water did to the whole bottle was fill it up.
+0	Semantics	The sentence is semantically incorrect because the phrase "leaked free" suggests that the fluid was able to escape from the tank without any restrictions or obstacles, which is not the typical use of the word "leaked" and may confuse the reader.	The tank leaked the fluid freely.
+0	Syntax	The sentence is not correct syntactically. The verb "lay" is a transitive verb and requires a direct object. In this sentence, the direct object should be "the ball," but it is missing.	John laid the ball in the box.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in the context of persuasive language.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect due to the incorrect use of the comma and the misplaced modifier "even though the courts didn't actually find." The correct sentence should address these issues to improve clarity and adherence to grammatical rules.	Most people probably consider Klaus guilty of murder, even though the courts didn't actually find him guilty.
+0	Semantics	The sentence is semantically incorrect because the word "beautifully" is an adverb that describes the manner in which Mary plays the violin. However, the sentence implies that Mary herself is beautiful, which is not the intended meaning.	Mary plays the violin beautifully.
+0	Semantics	The sentence is semantically correct and meaningful. The use of the word "clearly" suggests that the speaker believes John will definitely learn French, and the word "probably" adds a level of uncertainty to the statement. While the sentence is correct, the combination of "clearly" and "probably" may sound awkward or contradictory in certain contexts.	The sentence is already correct.
+0	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The word "all" here is used to emphasize that every single one of the men will leave, which is a common and acceptable usage in English.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in the right order and it makes sense.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The phrase "represented ... to the dean" is not correct as it stands. It should be rephrased to convey the intended meaning clearly.	They seriously represented Mary to the dean as a genuine linguist.
+0	Morphology	The sentence is incorrect because the pronoun "us" is not in the correct form. The correct form of the pronoun in the nominative case is "we."	We love them.
+1	Syntax	The sentence follows the correct subject-verb-adverb order and is a valid statement.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and has the same meaning as "I remembered that I had kissed Mary."	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and has the right context.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in the context of the provided information. The use of "also" indicates that the speaker shares John's desire to read Fred's story.	The sentence is already correct.
+0	Semantics, Syntax	This sentence is semantically and syntactically incorrect. The phrase "decide to" is not a correct collocation and should be changed to "decide on." Additionally, the sentence is syntactically incorrect because the verb "invite" is transitive and requires an object. In this case, the object would be "someone," but the sentence lacks a finite verb.	We wanted to invite someone, but we couldn't decide on who.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect due to the incorrect use of the comma, which makes the sentence ambiguous.	Mary claimed that Holly shouldn't eat cabbage.
+0	Semantics	The sentence is semantically incorrect because the phrase "came to be" is used incorrectly in the second part of the sentence. It should be changed to maintain the correct meaning.	Mary came to be introduced by the bartender, and I also came.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it suggests that Sally is a source of bother to Joe's patrons in the same way that Joe's neuroses are, which may not be the intended meaning.	Joe's neuroses bother his patrons, and so does Sally.
+0	Semantics	The sentence is semantically incorrect because the use of "did it" is ambiguous and can have multiple interpretations. It could be interpreted as Lilly reading the book for José, or it could suggest that Lilly performed an unspecified action related to the book. To make the sentence clear and unambiguous, it needs to be rephrased.	I know which book José didn't read for class, and Lilly read it for him.
+0	Syntax	The sentence is syntactically incorrect. The second part of the sentence is not grammatically correct: "this is the one which Fred won't do." The verb "do" is not in the correct form and the sentence structure is awkward.	This is the book that Bob reviewed, and this is the one that Fred won't review.
+0	Syntax	The sentence is syntactically incorrect. It contains a relative clause that is not properly constructed. The relative pronoun "which" is used incorrectly and the verb "hadn't" is not in the correct form.	I know which book Mag read and which book Bob said you hadn't read.
+0	Syntax	The sentence is syntactically incorrect. The relative clause "that you hadn't" at the end of the sentence is not grammatically correct and does not make sense in the context.	I know which book Mag read and which book Bob read my report, and you hadn't read either of them.
+1	Semantics	The sentence is semantically correct and expresses the intended meaning clearly.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. The correct form would be to use either the construction "not until" with the present perfect or the construction "only after" with the simple past.	Rusty talked about himself not until Mary had talked about him. or Rusty talked about himself only after Mary talked about him.
+0	Syntax	The sentence is not correct syntactically. The use of "did" after "before" is redundant and makes the sentence sound awkward.	Fred talked about everything before Rusty talked about something.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the word "problem" cannot perceive. Only entities with senses or cognitive abilities can perceive something.	The problem is easily understandable.
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the pronoun "me" is used as the object of the verb "elected," which requires a subject pronoun like "I" or "we."	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The use of "which" implies that there is a specific report being referred to, but the sentence does not provide any information about which report is being submitted. It would be correct if it was rewritten to include a specific report, for example: "Which of the reports that John was incompetent did he submit?"	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in the right order and it follows the subject-verb-object pattern.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the use of "which" to describe the cats suggests that there is additional information about the cats that will be provided, but this does not happen in the rest of the sentence.	He let the whining cats out.
+1	Semantics	The sentence is correct. It is a question that asks about the object of Bill's purchase.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	This sentence is syntactically incorrect due to the absence of a verb after the word "made." The phrase "was giver" is also not grammatically correct and needs to be revised.	A proof that the claim had been made was given, revealing that John had lied.
+0	Syntax	The sentence is not syntactically correct due to the incorrect use of the phrase "attributed to." The correct phrase would be "attributed to something." In this case, the word "short circuit" is the object of the preposition "to," so the correct phrase would be "He attributed the fire to a short circuit..."	The sentence is already correct.
+0	Semantics	The sentence is correct. The phrase "regarded as" is a set phrase meaning "considered to be," and so it is appropriate to use it in this sentence.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the use of "want" implies a desire for something to happen, but the sentence structures it as though the event has already occurred.	I want Bill to leave and for it to remain a secret.
+0	Syntax	The sentence is not syntactically correct. The phrase "as drives" is not a standard phrase in English and does not make sense in this context. It seems that there is a missing word or words that would clarify the intended meaning.	The sentence requires correction for it to be syntactically correct and understandable. However, without further context, it is challenging to determine the intended meaning and provide an accurate correction.
+0	Syntax	The sentence is syntactically incorrect due to the incorrect subject-verb agreement. The subject "drowning cats" is plural, so the correct verb form should be "are" instead of "is."	Rescuing drowning cats, which is against the law, is hard.
+1	Semantics	The sentence is semantically correct and has the correct meaning.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the reflexive pronoun "himself" cannot be used as the subject of a sentence. A reflexive pronoun should be preceded by an appropriate antecedent and should refer back to that antecedent. In this sentence, there is no clear antecedent for "himself," which makes the sentence nonsensical and semantically incorrect.	Rutherford understands himself.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Morphology	The correct article for the word "proof" in this context is "a" because it is a countable noun used in the singular form.	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. It contains a modifier error. The phrase "which Henry plays the lute and sings" is a relative clause that modifies "madrigals," but the way it is constructed makes the sentence ambiguous and unclear.	The madrigals that Henry plays on the lute and sings sound lousy.
+0	Semantics	The sentence is semantically incorrect because of the ambiguity of the phrase "these grapes." It is not clear if "these grapes" in the last part of the sentence refers to the grapes that Tom picked or the turnips that the speaker washed.	Tom picked these grapes, and I washed some turnips. Suzie will prepare the turnips.
+1	Semantics	The sentence is semantically correct and meaningful. It is an example of a complex sentence with two clauses: "Where did you go?" and "Who ate what?" The sentence is often used as a joke or riddle, as it is meant to confuse the listener with its ambiguous structure.	The sentence is already correct.
+0	Syntax, Morphology	The sentence is not correct syntactically and morphologically. There are issues with the use of apostrophes and the structure of the sentence.	Which boy did we elect as the guardian's employer's president?
+1	Semantics	The sentence is already correct. It is a common expression used to ask about someone's mental health or state of mind. The word "sane" refers to being mentally healthy or rational, and the phrase "How sane is Peter?" is asking to what extent Peter is considered mentally healthy or rational.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it is ambiguous. The use of "the River" and "the Hudson River" could suggest that they are two different rivers, when in fact they are referring to the same river. This could be confusing for the reader.	I live at the place where Route 150 crosses the Hudson River, and my dad lives there too.
+0	Semantics	The sentence is semantically incorrect because the use of "it" in the sentence is ambiguous and can refer to either "the place" or "Route 150," which could be confusing for the reader.	I live at the place where Route 150 crosses the Hudson River and my dad lives there too.
+0	Semantics	The sentence is semantically incorrect because the phrase "make up to" is not typically used with the preposition "to" in this context. It should be "make up with."	Who is she trying to make up with now?
+0	Semantics	The sentence is semantically incorrect because the phrase "wind was gotten" does not make sense in this context. It seems that you might want to use the word "word" instead of "wind" here.	Word was gotten of a plot to negotiate an honorable end to the war in Vietnam.
+0	Semantics	The sentence is semantically incorrect because the prepositional phrase "to my friends" suggests that Mike's friends were the ones talking about politics, whereas the sentence intends to convey that Mike was talking to the friends of the listener.	Mike talked to my friends about politics yesterday.
+0	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the use of the pronoun "she" to refer to Mike is inconsistent in gender. It should be either "he" or a gender-neutral pronoun if Mike is transgender or non-binary.	The sentence cannot be corrected without additional context regarding Mike's gender preference.
+0	Semantics	The sentence is semantically incorrect. The word "quip" is used incorrectly in this context, as it typically means a witty or humorous remark, but the sentence seems to be asking a question about which girl Mike was referring to, which is not the same as making a witty remark.	Which girl did Mike mention never wore this hat?
+0	Semantics	The sentence is semantically incorrect. The phrase "for the convicts to build cages with" suggests that the purpose of donating wire was for the convicts to use it to build cages. However, the use of the word "convicts" implies that the recipients of the donation are prisoners, which may not be the intended meaning.	We donated wire for building cages, which we gave to the convicts.
+0	Semantics	The sentence is semantically incorrect because the phrase "have some money" implies possession or availability of money, which contradicts the initial negative statement "I won't."	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in the context of asking for someone's opinion about a statement.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the pronouns "I," "he," and "her" are used inconsistently, making the sentence confusing.	I won't ask you to believe that he tried to force me to give him money.
+1	Semantics	The sentence is semantically correct and coherent. The use of the phrase "must have" indicates a conclusion or inference, and the structure "That...must have..." is a valid construct in English.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The use of "that" at the beginning of the sentence is redundant and makes the sentence sound awkward.	The fact that the fuzz wanted him worried John, but it didn't worry Mary that the fuzz wanted her.
+0	Semantics	The sentence is semantically incorrect because it uses the phrase "if Sam will be working on it" as a condition for the speaker's willingness to work on something, but the future tense "will be working" indicates that Sam's action is likely to occur, making the condition sound unrealistic or contradictory.	I'll work on it if Sam is working on it.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The preposition "with" is followed by the subordinate clause "which for you to cut up the onions," which is not a correct construction.	Here's a knife for you to cut up the onions with.
+0	Syntax	The sentence is not correct syntactically. The relative pronoun "which" is used incorrectly in this sentence. It should be replaced with "that" or omitted along with the preposition "that".	Fluffy is sick, which not everybody knows. or Fluffy is sick, something that not everybody knows.
+1	Semantics	The sentence is semantically correct and expresses a complete thought. The word "quite" is used as an adverb to modify the verb "is," describing Maxwell's capability as a doctor.	The sentence is already correct.
+0	Syntax	The sentence is incorrect syntactically due to the presence of the extra comma and the lack of a conjunction to join the two clauses properly.	The younger woman might have been tall and blond, and the older one definitely was.
+0	Syntax, Morphology	The sentence has syntax and morphology errors. The use of the comma after "blond" is incorrect, and the verb "be" is missing after "may." The sentence also lacks a clear subject for the clause "definitely is blond."	Sally is tall and may be blond, and Sheila is short and definitely blond.
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+0	Syntax, Semantics	This sentence is incorrect syntactically and semantically. Prepositions are repeated, and the phrase "to be planned" doesn't make sense in this context.	The socks are ready for you to put on.
+1	Semantics	The sentence is semantically correct and makes sense.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The phrase "my father and" at the end is incomplete and does not make sense in the context of the sentence.	My mother is easy to please. My father, on the other hand, is not.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. It contains a sentence fragment, "That robbery," which does not form a complete sentence by itself and interrupts the flow of the main clause.	It's terrible that the cops spoke to the janitor about that robbery yesterday.
+0	Syntax	The given sentence is not grammatically correct due to a issue with the use of the conjunctive adverb "and." To correct the sentence, we need to ensure that the two parts of the sentence connected by "and" are complete and independent clauses.	Every student who wears socks is a swinger.
+0	Semantics	The sentence is semantically incorrect because the use of "that" to refer to a person is dehumanizing and should be avoided.	That girl was given my binoculars by him. (To maintain the same meaning while avoiding the use of "that" to refer to a person, you could consider rephrasing the sentence to identify the girl or provide additional context.)
+1	Semantics	The sentence is semantically correct and has the correct meaning.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the phrase "who ever" is ambiguous and can change the meaning of the sentence. It can be interpreted as "everyone who ever buys anything on credit" or "everyone who buys anything on credit ever."	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful. The use of "somebody" and "had" is appropriate and conveys the intended meaning.	The sentence is already correct.
+0	Syntax	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The correct conjunction to use in this case is " neither ... nor" before the nouns "writer" and "playwright" because they are functioning as subjects of the sentence.	Neither writer nor any playwright meets in Vienna.
+0	Semantics	The sentence is semantically incorrect. The use of "any student" suggests that the person is willing to marry any student, which contradicts the notion of uncertainty conveyed by "is not certain."	That you will marry a student is uncertain.
+0	Semantics	The sentence is semantically incorrect because the phrase "kicked the ball off the bench" suggests that Felicia kicked the ball while it was on the bench, which is not a typical or clear description of an action. It could be made more clear by specifying where Felicia was in relation to the bench when she kicked the ball.	Felicia kicked the ball from the bench.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The phrase "gave out" can mean to "release" or "hand over," which makes sense in the context of the sentence.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the phrase "offered out" doesn't make sense in this context. A possible correction could be "took" or "removed."	Sam took the ball out of the basket.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence follows the correct subject-verb-object pattern and is syntactically correct.	The sentence is already correct.
+0	Syntax	The sentence is incorrect because the preposition "to" is unnecessary and makes the sentence awkward.	No one can forgive that comment about you.
+0	Semantics	The sentence is semantically incorrect because the phrase "blew up" typically means "exploded," which is not a desirable outcome for a rocket launch.	We launched the rocket toward the moon, but it malfunctioned and exploded before it reached its destination.
+1	Semantics	The sentence is semantically correct. It conveys a complete thought with the subject, verb, and object in agreement, and the meaning is clear and logical.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the word "partway" doesn't fit in this context and doesn't make sense with the word "book." It seems like there might be a missing word or a different word intended.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in the right order and it follows the subject-verb-object pattern.	The sentence is already correct.
+0	Semantics	The sentence is semantically ambiguous. It can be interpreted in two ways: either the farmer dumped the cart that contained apples, or the farmer dumped the cart and as a result, the apples fell out.	The sentence is already correct, but to avoid ambiguity, it could be rewritten as: "The farmer dumped the cart, spilling the apples."
+1	Semantics	The sentence is semantically correct. The verb "carve" can be used with two objects: the thing being carved and the material it is being carved from. In this sentence, "toy" is the object being carved and "wood" is the material.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful. The verb "cut" can be used as a transitive verb (e.g., "cut the bread") or an intransitive verb (e.g., "the bread cuts easily") in the passive voice. In this sentence, "cuts" describes the property of the bread, indicating that it can be easily divided or sliced.	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. The prepositional phrase "on the finger" is not appropriate in this context and makes the sentence unclear.	The sentence is not correct syntactically. It can be corrected in multiple ways depending on the intended meaning: "Janet broke Bill's finger." or "Janet broke her finger on Bill."
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. It conveys a clear and meaningful message with the correct use of words and grammar.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in context. The word "shocks" is used correctly to describe the impact the movie has on people.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and has the right word choice and sentence structure to convey the intended meaning. The use of the word "shocks" suggests that the movie has a surprising or thrilling effect on the audience.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. In English, the verb "come" is used with the preposition "to" to indicate movement towards a place.	Sharon came to the room.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It describes a transformation or change of form, possibly in a fictional or fantastical context, but it is grammatically and syntactically valid.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are in the correct order and agree with each other grammatically.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the action of "threw" implies that Brian was attempting to propel or hurl something through the air. However, it is unclear how one could throw a fence, as it is typically a stationary object firmly fixed to the ground.	Brian threw the stick at the fence.
+1	Semantics	The sentence is semantically correct and does not require any changes.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It conveys a clear and coherent meaning, and there are no issues with the logical structure or the choice of words.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the word "dedication" is a noun and should be used with a noun phrase, not a pronoun like "in the volunteers."	They praised the dedication of the volunteers.
+1	Semantics	The sentence is semantically correct. It uses the passive voice correctly and has a logical structure.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The phrase "a charming smile" is used as a noun phrase to describe the smile that Sarah smiled. It is a common expression to describe someone's smile as charming, delightful, or beautiful.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically because it uses the incorrect form of the verb "to be" with the pronoun "Sandra."	Sandra beamed a cheerful welcome.
+1	Semantics	The sentence is semantically correct and has the right meaning.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the verb "lift" is not used correctly in this context. A more appropriate verb to use here would be "placed" or "put."	Paperback books are easily placed on the table.
+0	Semantics	The sentence is semantically incorrect because inanimate objects such as books cannot lift themselves. The sentence implies that the books lifted themselves onto the table, which is not possible.	The books were lifted onto the table.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. All the words in the sentence are used correctly and convey a coherent meaning.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the verb "crammed" is not used correctly in this context. A more appropriate verb would be "loaded" or "packed".	Jessica loaded boxes into the truck.
+0	Morphology	The sentence is not correct because of the wrong use of the preposition "at." In this context, the correct preposition to use is "on."	Lora buttered toast.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. The verb "slid" accurately describes the action of Carla smoothly moving the book.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the preposition "at" doesn't make sense with the verb "slid." A person can slide "toward" or "on" a book, but not "at" a book.	Carla slid toward the book.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the word "packages" (plural noun) suggests multiple objects, while the verb "drives" (singular) indicates a single subject performing the action.	Packages are easily driven to New York.
+0	Syntax	The sentence is not correct syntactically. In a sentence, the subject typically performs the action denoted by the verb. In this sentence, the subject is "The chair," which is typically not capable of performing the action of pushing. For the sentence to be grammatically correct and make sense, it should be structured as "Someone/something pushed the chair."	The sentence requires modification to make sense and be grammatically correct. For example, "John pushed the chair."
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. It seems like something is missing, perhaps a subject or a verb phrase to clarify who is offering the job and to whom.	A job is being offered.
+1	Semantics	The sentence is semantically correct. It conveys a meaningful idea and follows the standard word order of Subject-Verb-Object in English.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are in the correct order and it makes sense structurally.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful. All the words are used appropriately and the sentence adheres to the rules of semantics.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are in the right order and agree with each other grammatically.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The phrase "differ apart" is redundant and incorrect. The verb "to differ" already conveys the idea of things being separate or apart, so adding "apart" after "differ" is unnecessary and makes the sentence semantically incorrect.	This flyer and that flyer differ.
+0	Semantics	The sentence is semantically incorrect because the verb "scribbled" is not typically used with the object "contract" in this context. A more appropriate verb would be "signed".	The jeweller signed the contract with his name.
+0	Semantics	The sentence is semantically incorrect because growing an acorn into an oak tree is not something a gardener does; an acorn becomes an oak tree naturally. A more accurate sentence would be: "The gardener nurtured the acorn, which grew into an oak tree."	The sentence requires modification for better semantic accuracy: "The gardener nurtured the acorn, which grew into an oak tree."
+1	Semantics	The sentence is already semantically correct. The verb "shaped" agrees with the singular noun "loaf" in number.	The sentence is already correct.
+0	Syntax	This sentence is syntactically incorrect because it is a sentence fragment. A complete sentence should have a subject and a verb, but this sentence is missing a subject.	The children were amused.
+1	Correct	The sentence is already correct. It follows standard English grammar and syntax, and there are no errors in word choice or morphology.	The sentence is already correct.
+0	Syntax	The preposition "at" is not typically used with the verb "whisper." A more common construction would be "Susan whispered to Rachel."	Susan whispered to Rachel.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	This sentence is not syntactically correct. It seems like there is a part of the sentence missing after the word "said." To make the sentence complete, you need to provide more information about what Ellen said about the present conditions.	The sentence is not correct. A possible correction could be: "Ellen commented on the present conditions."
+1	Semantics	The sentence is semantically correct. It conveys a meaningful message and follows the rules of grammar.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are in the right order and it follows the standard subject-verb-object structure.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. The phrase "winked her lip" is not a standard expression and does not make sense in this context. The verb "wink" is typically used with an eye as the object, not a lip.	Linda winked.
+0	Semantics	The sentence is semantically incorrect because the heart cannot physically pound a person.	My heart is pounding.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It has a subject ("the witch"), a verb ("poisoned"), and an object ("the children"). The sentence is also logically correct as it describes a possible event.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Morphology	The verb "squeak" is not used with the preposition "on". It should be used with the preposition "of" or as a transitive verb followed by a noun.	I squeaked open the door.
+1	Semantics	The sentence is semantically correct and meaningful. All the words are used appropriately and convey a clear image of a stew bubbling over a fire, creating a sensory impression with the word "fragrant."	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the word "fort" is a static structure and cannot flutter.	The fort was adorned with many fluttering flags.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The use of "There" as a dummy subject is not appropriate in this context.	A wonderful opportunity presented itself yesterday.
+1	Semantics	The sentence is already semantically correct. All the words are used appropriately and convey a clear meaning without any ambiguity or confusion.	The sentence is already correct.
+0	Syntax	The sentence is correct. Although it may sound unusual to use the preposition "out" with the verb "jump," it is grammatically correct and describes the rabbit's action of jumping out of the box.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Morphology	The sentence is incorrect because the plural form of "information" is used with the singular verb "was." In English, the verb must agree with the subject in number.	Much information was provided. or Many pieces of information were provided.
+0	Morphology	The word "advice" is uncountable in standard English, so it doesn't combine with a number or a count word. To make the sentence correct, "many" should be replaced with "much".	John offers much advice.
+1	Semantics	The sentence is semantically correct and makes sense in context.	The sentence is already correct.
+0	Syntax	The sentence is correct. The phrase "to eat less cake and pastry" is a direct object of the verb "recommend," and it is not an indirect object as some might assume. The sentence is expressing a recommendation to do something, which is a correct grammatical construction.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The use of "her" indicates that the person being washed is female, which is consistent and logical.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. In English, the subject and verb need to agree, and in this case, the singular verb "wash" does not agree with the implied second-person singular subject "you."	Wash yourself!
+0	Semantics	The sentence "They have no in" is not correct because it is missing a word or context that would make its meaning clear. It seems like there is a missing word or phrase after "no" that would complete the idea. As it stands, the sentence is semantically incomplete and does not convey a comprehensible thought.	The sentence requires additional context or a word after "no" to make sense. For example, "They have no idea" or "They have no time" would be correct sentences with clear meanings.
+0	Morphology	The correct word to use in this sentence would be "some of," not just "some." This is because "some" is a quantifier and should be followed by a noun or a pronoun.	Some of my jobs are in jeopardy.
+0	Syntax	The sentence is syntactically incorrect due to the incorrect placement of the verb "met" and the lack of a clear subject-verb relationship.	The policeman met several young students in the park last night.
+0	Semantics	The sentence is semantically incorrect because it is incomplete and does not convey a complete thought. It is missing crucial information, such as the subject or the person(s) whom the policeman met. To correct the sentence, additional information is needed to provide context and complete the thought.	Did the policeman meet someone in the park?
+1	Semantics	The sentence is already semantically correct. All the words in the sentence are used correctly and convey a coherent meaning.	The sentence is already correct.
+0	Morphology	The sentence is not correct because the word "proud" is not in the correct form. It should be an adjective and agree with the subject "monkeys" in number, so the correct form would be "proud" instead of "prouds".	The monkeys are proud of their leader.
+0	Semantics	The sentence is incomplete and does not make sense as it is. It needs more context or information to convey a complete thought.	The sentence is not correct semantically. To make it correct, additional information is needed. For example, "John sounded very tired after his long shift at work."
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically ambiguous. It can be interpreted in two ways: either John bought a book that was on the table, or he bought a book about tables.	The sentence is already correct. To disambiguate the sentence, additional context or modification would be needed.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and expresses a complete thought.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The phrase "remain a friend" is often used in the passive voice, but the sentence provided is not structured correctly for the passive voice.	He has left me with a good friend.
+1	Syntax	The sentence is already syntactically correct. All the words are in the right order and it makes sense.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. The word "smith" refers to a person who works with metal, so the sentence describes a person hammering metal, which is a correct and logical description.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It conveys a clear and coherent meaning, with the subject "Benny" performing the action of "worked" in a specific context of "a shoe factory" during his student days.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and adheres to the rules of semantics, conveying a meaningful and understandable message.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The preposition "under" should be used with a noun or a noun phrase, but it is instead followed by the phrase "the bathtub," which is not a noun or a noun phrase.	John put the toy duck under the bathtub.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The verb "depend" is used intransitive in the sentence, but it should be used as a transitive verb and be followed by "on" to introduce the person or thing that someone relies on.	Kim depends on Sandy.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it is missing a direct object that describes what Kim put in the box.	Kim put the gift in the box.
+1	Semantics	The sentence is semantically correct and makes sense.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. It seems to be missing a word or phrase that would clarify the relationship between "That Fred was unpopular" and "nominated Bill." Without additional context, the sentence is not grammatically correct and does not make sense.	The sentence needs to be restructured to make sense syntactically. However, without additional context, I cannot provide the correct version.
+1	Semantics	The sentence is already correct and meaningful.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The phrase "paid against" is not commonly used and does not make sense in this context. A preposition like "for" would be more appropriate here.	John paid me for the book.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The phrase "make someone be" is not commonly used and sounds unnatural. To express that someone was forced to act in a certain way, it is more common to use the phrase "made someone act."	We made them act rude.
+1	Semantics	The sentence is semantically correct and makes sense. The verb "threw" accurately describes the action of Judy discarding the pamphlet.	The sentence is already correct.
+0	Morphology	The verb "reads" should be in plural form to agree with the plural subject "students."	Students studying English read Conrad's Heart of Darkness while at university.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The word "most" indicates a quantity that is greater than half, which is consistent with the context of the sentence.	The sentence is already correct.
+0	Morphology	The correct phrase should be "Neither of the students" or "Neither of those students" because the verb "failed" requires a noun or noun phrase as its subject. The word "students" is plural and does not need an article before it.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. In English, we use the article "the" before a noun when it is clear which specific thing or group of things is being referred to. In this case, the word "water" is a noun and is being referred to specifically, so the correct article to use is "the."	I drank some water.
+0	Semantics	The sentence is semantically incorrect because the color adjective "golden" typically describes a person's hair, not just a single strand of hair. To make the sentence grammatically correct, you need to specify that you are talking about a person's hair as a whole, rather than an individual strand.	Someone has golden hair.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in a way that makes sense and follows the rules of English grammar.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it is illogical for a dog to try to bite itself. The use of "even" suggests that biting itself is a surprising or extreme action, but it is nonsensical in this context.	The sentence is already correct.
+0	Semantics, Morphology	The sentence is semantically and morphologically incorrect. The reflexive pronoun "yourself" should be replaced with the objective pronoun "himself" to agree with the subject "He."	He washed himself.
+0	Syntax	The sentence is not syntactically correct. It seems like the intention was to say that John easily pleases Kim, but the current structure is not standard and does not convey that meaning effectively.	John easily pleases Kim.
+0	Semantics	The sentence is semantically incorrect because the verb "seem" requires a complement that completes the idea, but the sentence abruptly ends after "intelligent." It seems there is a missing part to the sentence that would provide the intended meaning.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the word "fountain" is used incorrectly in this context. It should be replaced with a more suitable word to describe a person.	We believed John to be a statue in the park.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the verb "believe" requires a that-clause or a to-clause after it, but not both. In this sentence, the verb "is believed" is followed by the to-clause "to be sheep," which is not grammatically correct.	It is believed that there are sheep in the park.
+0	Syntax	The sentence is syntactically incorrect. The correct phrase would be "I hope (that) I would study in France." The original sentence mixes the tenses and verb forms, which makes it incorrect.	I hope (that) I would study in France.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the verb "rain" is used incorrectly in this context. The verb "rain" is typically used to describe the falling of water from the sky, and it is not typically used to describe an action that a person can do.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The correct phrase would be "We expect there to be rain" or "We expect it will rain." The phrase "to will" is not grammatically correct in this context.	We expect there to be rain.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Morphology	The sentence is incorrect because the verb "to be" is used incorrectly. In the present perfect tense, the correct form should be "has been" or "have been" depending on the subject.	Has the child been in the school?
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it uses a double negative ("not to leave") which changes the intended meaning.	John doesn't want to leave the town.
+1	Semantics	The sentence is semantically correct. It expresses a contrast between Mary's and Bill's preferences for touring art galleries. The use of "but" indicates the contrastive nature of the sentence, and the verb "hate" emphasizes Bill's strong dislike for the activity.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It uses the present perfect verb form "has spent" to describe an action that occurred in the past but has results that are relevant in the present (indicated by "a lot of money"). The tag question "hasn't he?" is also appropriate for a positive statement with a negative question word.	The sentence is already correct.
+0	Semantics	The sentence is not correct because the use of "scarcely" and "could" together is redundant and makes the sentence awkward.	As a statesman, he could scarcely do anything worth mentioning.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in the context of the provided information.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It conveys a complete thought and makes sense in the context of the provided information.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful. The phrase "The bed was slept in" suggests that someone slept in the bed, and it is a common and acceptable way to convey this idea.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it implies that the book performed the action of weighing the pound, which doesn't make sense.	The book weighed a pound.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. It seems that there is a preposition missing after the word "politician." A possible correction could be: "Fed knows which politician to vote for."	Fed knows which politician to vote for.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It uses the relative pronoun "whose" to refer to the efforts of the committee, and the verb "knows" indicates that the committee has knowledge or awareness of something. The sentence structure and word choice are appropriate and convey a clear meaning.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. In English, we use the preposition "in" to describe a static location, such as the place where someone lives.	Which house does your friend live in?
+1	Syntax	The sentence is already syntactically correct. Relative clauses, such as "from whom I bought these bagels," are correctly attached to nouns and serve to provide additional information about the referenced noun.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. The correct preposition to use with "whom" in this context would be "with," not "with whom."	Jack is the person with whom Jenny fell in love.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in the right order and it follows the subject-verb-object pattern.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are in the right order and agree with each other grammatically.	The sentence is already correct.
+0	Semantics	The sentence is grammatically correct, but the use of "his" instead of "her" or "their" may not be appropriate or inclusive depending on the context and the gender of the person referred to.	Which topic did you choose without getting their approval?
+0	Syntax	The sentence is not correct syntactically. It seems to be missing a word, and the structure is unclear. It should include a noun or noun phrase after the word "bored."	Which topic did you get bored of because Mary talked about it for so long?
+1	Semantics	The sentence is semantically correct and has the correct meaning.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. The phrase "It bothers me" indicates that the speaker is annoyed or irritated by the action that follows, which in this case is John's coughing.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and natural. It expresses the idea that pleasing John is easy for the speaker or in general.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the use of the word "that" suggests a distance or removal from the action of invading Iraq, which may not be appropriate or reflect the speaker's true feelings about the event.	Invading Iraq really bites.
+1	Semantics	The sentence is semantically correct and expresses a complete thought. The word "annoys" indicates irritation, and the use of "that" introduces a clause that explains the reason for the annoyance.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The use of "who" as a relative pronoun is not appropriate in this context as it is used to refer to people, and it should be followed by a verb.	Angela achieved the best result.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. The phrase "hard to find anyone to look after" is not a standard English construction and is not typically used to describe a person.	It's hard to find anyone who can look after that kind of person.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in the right order and it makes sense when read.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The phrase "each author" indicates that the statement applies individually to all authors, and the condition "whose contribution is written in any language other than English" is clear and specific. The verb "will provide" indicates a future action, and the phrase "a summary in English" is the object of the sentence, describing what each author will provide.	The sentence is already correct.
+0	Semantics	The sentence is grammatically correct, but the use of "even" doesn't make sense in this context. It might be a mistake, and the intended word could be "ever."	I'm sure we ever got these tickets! or I'm sure we got these tickets!
+0	Semantics	The sentence is semantically incorrect because of the use of the word "even." The word "even" suggests surprise or uncertainty, which doesn't match the intended meaning of the sentence.	I'm sure we got these tickets!
+0	Semantics	The sentence is semantically incorrect because the use of the word "guerillas" suggests that the speaker is referring to members of a military or paramilitary group operating in an urban environment. However, the word "sympathy" indicates that the speaker feels sorry for or empathizes with someone. These two ideas do not logically connect.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. It seems that the sentence is trying to convey that John whined about being hungry, but the current structure is not standard or clear.	John whined that he was hungry.
+0	Syntax	The sentence is syntactically incorrect. The verb "gave" should be followed by the subject "I" and the direct object "a book" in the correct order.	I gave Mary a book after the party.
+0	Syntax	The sentence is not correct syntactically. The phrase "as for" is used to single out a particular person or thing from a group, and it is typically followed by a noun or noun phrase. In this sentence, "as for" is followed by a noun ("Mary"), but the structure of the sentence is not correct.	As for Mary, I really like her because she's so pleasant.
+1	Semantics	The sentence is semantically correct and coherent. The use of "those that" as a relative pronoun to refer to people who criticize Carter is grammatically correct and commonly used in English.	The sentence is already correct.
+0	Syntax	The sentence "With no job would John be happy" is not correct syntactically. It seems like a fragment and is not a complete sentence. The correct sentence would be "John would not be happy if he had no job."	John would not be happy if he had no job.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The phrase "any trouble" suggests a general statement about not wanting any kind of trouble, but the use of "is" before "what I don't want" treats "any trouble" as a specific thing that is being identified. This combination of ideas is confusing and not idiomatic.	I don't want any trouble.
+1	Semantics	The sentence is semantically correct and meaningful.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The phrase "as many as" is used to indicate an upper limit, and it should be followed by a number lower than or equal to the reference number. In this case, the phrase "as 20" is not idiomatic and does not convey the intended meaning accurately.	Some of them made up to 20 errors.
+0	Morphology	The pronoun "himself" is incorrect because it is a male pronoun, but the antecedent "Sally" is female.	Sally kissed herself.
+1	Semantics	The sentence is semantically correct. It expresses the belief of Drew about Rosie's love for magazine ads from your perspective.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and expresses a hope for a winter without snow.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the subject "Blue leather" is not a person and therefore cannot show something to herself.	Blue leather shows everyone that Betsy is pretty.
+1	Syntax	The sentence is already syntactically correct. All the words are in the right order and it makes sense.	The sentence is already correct.
+0	Syntax	The sentence is ungrammatical due to a syntax error. It seems there is a missing word or the sentence is not structured correctly.	I thought that you knew the answer.
+1	Semantics	The sentence is semantically correct and meaningful. It is a common expression used to express surprise, confusion, or exasperation at a situation, and both options presented ("losing one's wallet" and "losing one's mind") are understandable and appropriate in this context.	The sentence is already correct.
+1	Syntax	The sentence follows the correct syntax and word order for a declarative sentence in English.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It expresses the subject's preferences for cookies and crumb cake using the appropriate verbs ("likes" and "hates").	The sentence is already correct.
+1	Syntax	The sentence is already correct syntactically.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and has the correct meaning.	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. It seems that there is a missing noun or noun phrase after "poems" that would clarify the sentence.	The book of poems and the one from Blackwell take a very long time to read.
+0	Semantics	The sentence is semantically incorrect because it is not clear what "the one" refers to, and the use of "a" before "red cover" suggests that there could be multiple items with red covers, which makes the sentence ambiguous.	The book with a red cover takes a very long time to read.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect due to the incorrect use of the possessive pronoun "The building's." The sentence structure is also unclear.	The building's roof is leaking.
+0	Syntax	This sentence is not correct syntactically. The correct sentence would be "The panther's coat is dark black." In the original sentence, the article "the" is incorrectly placed before the possessive noun "panther's."	The panther's coat is dark black.
+1	Semantics	The sentence is semantically correct. It uses the correct word order and the words are appropriate and make sense together.	The sentence is already correct.
+0	Semantics	The sentence is semantically ambiguous. It can be interpreted in two ways: either the man who got into the cab robbed the bank, or the man I saw robbed the bank and then got into the cab.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It has a clear subject, verb, and object, and the relationships between the words make sense. The sentence conveys a complete thought and has correct word choice and agreement.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect due to the missing verb after "Andy." In English, a sentence must have a subject and a verb to be complete and make sense.	Heidi thinks that Andy eats salmon-flavored candy bars.
+1	Semantics	The sentence is semantically correct and meaningful.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. The verb "did" requires an explicit subject, but the sentence is missing a clear subject for the verb. It should be corrected to specify who performed the action of doing the homework.	Did Calvin do his homework?
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence follows the correct syntax and grammatical rules. The use of the conditional "if" statement and the past tense verb "buy" in the consequence clause is appropriate and commonly used in English.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. It uses the subjunctive mood to express a hypothetical situation, and the content of the sentence is logically consistent and meaningful.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. It follows the standard subject-verb structure and is a complete, meaningful phrase.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically because it is a verb without a subject, which is not a complete sentence.	The ship was sunk.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful. All the words are used correctly and appropriately to convey a clear message.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it implies that the four men arrived at the station at the exact moment you pulled up, which is unlikely and not what the sentence intends to convey.	Four men had arrived at the station by the time I pulled up.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence follows the correct subject-verb-object structure and is syntactically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in the right order and it follows the standard sentence structure of English.	The sentence is already correct.
+0	Syntax	The sentence is correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because John thinks that Mary loves "himself," which is not logically possible. The sentence should use the reflexive pronoun "herself" to refer to Mary.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because not all owls hunt mice. Only some owls do.	Some owls hunt mice.
+0	Semantics	The sentence is semantically incorrect because it uses a double negative ("any" and "didn't") which makes the sentence logically incorrect.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense in the given context. The phrase "whoever they were" is used correctly to refer to any person, regardless of their identity, who attended the rally and signed the petition.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It describes a general characteristic of albino tigers, which is that they have orange fur with black stripes.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It uses the modal verb "must," which indicates obligation or requirement, and the sentence structure "You must [verb]" is commonly used to express something the listener has to do. The sentence means that the listener is required to pick any flower they see.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It conveys a coherent and meaningful message.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and coherent. It conveys a clear message and the usage of words is appropriate and meaningful.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It states that the Dodgers had two different outcomes in their games against the Red Sox and the Giants, which is logically consistent.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the use of the phrase "computed my tax" suggests that the man was involved in calculating the tax for the person speaking or writing the sentence, which is not the typical use of the phrase "my tax." A more typical phrase would be "he computed his tax" or "he computed her tax." Additionally, the sentence is ambiguous because it is not clear if "computed" is being used as a transitive verb (taking a direct object) or an intransitive verb (not taking a direct object). If "computed" is transitive, then the sentence is missing a direct object and is syntactically incorrect. If "computed" is intransitive, then the sentence is grammatically correct but still semantically odd because it suggests that the man's action of computing something (his tax or someone else's tax) is being emphasized, which is not a common way to use the word "compute" in this context.	The man who Mary loves and Sally hates, computed his tax.
+0	Syntax	The sentence is not syntactically correct due to the incorrect use of the relative pronoun "which." The relative pronoun should refer to something, but in this sentence, it seems that it doesn't refer to any specific noun. It might be better to use the relative pronoun "that" or rewrite the sentence to clarify the referent of "which."	The kennel that Mary made, in which Fido sleeps, has been stolen.
+0	Syntax	The sentence is syntactically incorrect. It seems that there is a subject-verb agreement issue and a lack of parallelism in the sentence.	Tom said he would, and Bill actually did, eat a raw eggplant.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It conveys a meaningful idea, and the word "stole" indicates that the dog took the turkey without permission, which is typically associated with an act of theft.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It expresses a simple statement about the attribute of a building being tall.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. In English, when a sentence is in the passive voice, the auxiliary verb comes before the subject. In this sentence, "was" is the auxiliary verb and "she" is the subject, which is incorrect.	She asked if Alison was coming to the party.
+1	Semantics	The sentence is semantically correct and uses the correct verb form of "realize" for the British English variety.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the phrase "knowing the country well" suggests that the subject has a good understanding of the country's geography, which should mean that he would be able to navigate effectively. However, taking a shortcut implies that he might have made a mistake in navigation or taken an unnecessary risk.	Knowing the country well, he didn't need to take a short cut.
+1	Semantics	The sentence is semantically correct and meaningful. All the words are used correctly and the sentence structure adheres to the rules of grammar.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. It is a fragment and does not have a verb. To correct it, you could say, "To whom did John send the book?" or "Who did John send the book to?"	To whom did John send the book? / Who did John send the book to?
+0	Syntax	The sentence is not syntactically correct because it contains a sentence fragment. The subordinate clause "that the Dome was dull" is not grammatically complete and correct as a sentence on its own, and it is not properly subordinated to the main clause.	The idea that the Dome was dull dismayed the Prime Minister.
+0	Syntax	The sentence is not correct syntactically. The word order is incorrect and makes the sentence hard to understand.	He came right in without so much as a knock.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and does not contain any errors in the meaning or usage of words.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in a way that makes sense and follows the rules of English grammar.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful. The word "fugitive" refers to a person who is fleeing or hiding from the law, and the phrase "lay motionless" indicates that the fugitive is remaining still to avoid being seen or found. The sentence effectively conveys the idea that the fugitive is trying to evade capture by staying completely still.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and meaningful. All the words are used appropriately and convey a clear message.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and makes sense. The use of "might" indicates a possibility that Fiona will be there by 5 o'clock.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and expresses the speaker's expectation and opinion about the job.	The sentence is already correct.
+0	Semantics	The sentence is not correct because the word "very" does not fit semantically in this context. It seems that Pat is not happy about receiving the award, so the sentence should be corrected to reflect that.	Pat was awarded the Golden Fleece Award and was upset about it.
+0	Syntax	The sentence is not syntactically correct. It seems that the verb form is incorrect and the sentence structure could be improved for clarity.	Kim alienated people by beating his cat and dog.
+1	Semantics	The sentence is semantically correct and makes sense contextually.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It uses the past tense of the verb "file" correctly and has a clear subject and object. The sentence structure is also proper, and the sentence conveys a complete thought.	The sentence is already correct.
+0	Semantics	The sentence uses the word "try" in an incorrect context. The phrase "try and buy" suggests that the speaker is attempting to buy whiskey, which is not the intended meaning.	I plan to buy some whiskey.
+0	Syntax	The sentence is not correct syntactically. In the present progressive tense, the correct form is "go and buy," not "go and buying."	She goes and buys some whiskey.
+0	Morphology	The verb "is" should be "are" because the sentence is about two people, Kim and Terry, so the verb should be in the plural form.	Kim and Terry are happy.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in a way that makes sense and follows the rules of English grammar.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect due to the use of the comma after the word "tomorrow." This results in a run-on sentence, which is a sentence that contains two independent clauses that are not correctly joined.	Put a picture of Bill on your desk before tomorrow. This girl in the red coat will put a picture of Bill on your desk before tomorrow.
+0	Semantics	The sentence is semantically incorrect because the phrase "Picture of Bill" is ambiguous and can be interpreted in two ways: as a request for a picture of Bill or as an introduction to the person who will put a picture of Bill on the desk. To correct the sentence and convey the intended meaning, it needs to be rewritten for clarity.	This girl in the red coat, Picture of Bill, will put a picture of Bill on your desk before tomorrow.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and has the correct meaning.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. The phrase "which books" is a dependent clause and should be placed after the noun it describes, in this case, "books."	Which books about cooking does Henri want to buy?
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. The word "loaned" is the past tense of "loan" and means to temporarily give something to someone on the condition that it or its equivalent will be returned. The sentence accurately describes an action in the past tense and conveys the intended meaning without any semantic errors.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. The sentence structure and word choice effectively convey the intended meaning, and the sentence adheres to the rules of grammar and syntax.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct. It uses the phrase "from six to nine" to describe the duration or timeframe of an event. This phrase is commonly used to indicate a specific time range, indicating that the event lasted for three hours, starting at 6 and ending at 9.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct. The word "suddenly" is an adverb that describes the unexpected or abrupt arrival of the two inspectors. It modifies the verb "arrived" and indicates that the arrival of the inspectors happened swiftly and without warning.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it is incomplete and does not convey a complete thought. It seems like the sentence is trying to describe the process of the soup cooking and thickening, but it is not grammatically structured as a complete sentence.	The soup is cooking and thickening.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is incomplete as it is just a phrase and does not convey a complete thought. A sentence should express a complete thought and make sense on its own.	John asked a question.
+0	Semantics	The sentence is semantically incorrect. The use of "even" suggests that the speaker is emphasizing that they saw the student, despite some expectation or possibility that they might not have. To correct the sentence, provide additional context to clarify why the use of "even" is meaningful.	I saw even the student who was hiding.
+0	Semantics	The sentence is semantically ambiguous. It can be interpreted as "John whispered something to Mary and then she left" or "John whispered to someone that Mary had left."	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. The word "that" is missing after "wonders".	Mary wonders that Bill will come.
+0	Syntax	The sentence is not syntactically correct. It seems like something is missing after the word "will." Perhaps the sentence should be "Sophie will go to the theater" or "Sophie will attend the theater."	The sentence needs to be corrected to provide context and complete the thought.
+1	Syntax	The sentence is already syntactically correct. It follows the proper word order and structure for a simple sentence in English.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the reflexive pronoun "herself" should not be used as the subject of a sentence when "Mary's mother" is the intended subject. Reflexive pronouns are used when the subject and the object of a sentence refer to the same person or thing. In this case, "herself" does not refer back to "Mary's mother," so it is not the appropriate pronoun to use.	Mary's mother likes herself.
+1	Semantics	The sentence is semantically correct and logical. It states that there was a fight among multiple boys, with each boy engaging in the fight with a subset of the larger group.	The sentence is already correct.
+0	Morphology	The sentence is incorrect because the reflexive pronoun "himself" should be "herself" to agree with the antecedent "John's mother."	John's mother likes herself.
+0	Semantics	The sentence is semantically incorrect because the pronoun "himself" does not agree in gender with the antecedent "Mary," which is typically a feminine name.	Mary revealed herself to John.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the phrase "proud of" indicates a feeling of pride toward someone or something. In this case, the sentence suggests that John is proud of himself because of Mary, which doesn't make sense in this context.	John considers himself proud to be with Mary.
+0	Syntax	The sentence "You should sit before there" is not correct syntactically. The word "there" is an adverb that indicates place, and it doesn't make sense to use it as a prepositional phrase with "before."	You should sit there.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect because the verb form "hopes" requires a gerund or an infinitive as its complement, but it is followed by a noun phrase "everyone" instead.	Everyone hopes that everyone will sleep.
+1	Semantics	The sentence is semantically correct and does not violate any rules of semantics or word meaning.	The sentence is already correct.
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. In English, the verb "promise" is followed by a gerund, which is a verb form ending in "ing" that functions as a noun. In this case, the correct form should be "promising."	John promised Mary to shave himself.
+1	Semantics	The sentence is semantically correct. It conveys a meaningful idea and follows a logical structure.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The correct phrase would be "I saw Bill while you did so and Mary." or "I saw Bill and Mary while you did so." as it stands, the sentence is fragmented and lacks a clear subject-verb relationship.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. It seems to be a mix of two sentence structures, resulting in confusion about the subject and the object.	What Mary did was give a book to Bill.
+0	Semantics	The sentence is incomplete and, thus, semantically incorrect.	The sentence is not correct. A correct version could be: "The bears sniffed the air warily before emerging from their cave."
+0	Semantics	The sentence is semantically incorrect because it is a fragment. A sentence fragment is a group of words that does not express a complete thought. In this case, the sentence is missing a subject. A possible correction could be to add "It" as the subject.	It is dangerous to steal talismans from witches.
+0	Semantics	The sentence is not correct semantically because it is incomplete. It seems like a verb is missing after the word "Anson."	A more complete sentence would be needed to provide a correction.
+0	Syntax	The sentence is not correct syntactically because the pronoun "yourselves" is plural, but the verb "kicked" is singular. To fix this, the pronoun and verb need to agree in number.	You kicked yourself.
+0	Semantics	The sentence is not correct because the use of the phrase "that I said that I'd never read" is redundant and awkward. It can be simplified for a clearer meaning.	The book I said I'd never read.
+0	Semantics	The sentence is semantically incorrect. The phrase "demonize up" is not commonly used and does not make sense in this context.	The sentence is already correct.
+1	Semantics	The sentence is semantically correct and expresses a denial of a possible future event. The use of "might" indicates a possibility, and the phrase "It is not true" negates that possibility.	The sentence is already correct.
+0	Syntax	The sentence "Kick you!" is not correct syntactically. It is a sentence fragment and does not contain a complete subject and verb. To correct it, we need to provide a complete subject or ensure the verb agrees with the understood subject.	Kick you! (This sentence requires context to determine the appropriate correction.)
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically correct. The use of "The Peter" with a following relative clause is a correct way to specify which Peter is being referred to.	The sentence is already correct.
+0	Other Category	The sentence is a fragment and not a complete sentence. It is lacking a subject and a verb.	The government's imposition of a fine is a punitive measure.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is already semantically correct. The word "demonize" means to portray someone as evil or threatening, and the sentence conveys that Anson portrayed David in a negative light on a regular basis.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. It seems to be a question, but there is no rising intonation indicated, and the use of the full stop at the end suggests it should be a statement. Also, the use of "a" before "Radio 4" is incorrect and should be removed.	Is there a programme about Euripides on Radio 4 tonight?
+1	Semantics	The sentence is already correct.	The sentence is already correct.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the phrase "extremely frantically" is redundant. These two adverbs have similar meanings, and using them together adds no additional meaning to the sentence.	Frantically, Anson danced at Trade.
+0	Syntax	The sentence is not correct syntactically. It seems to be missing some words or has an incorrect word order, which makes it hard to understand the intended meaning.	Who did you ask about what Medea gave?
+1	Syntax	The sentence is already syntactically correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The verb "try" requires a direct object, but in this sentence, "the nurse" is the subject of the verb "try" and "her children" is the direct object. To correct the sentence, you need to ensure that "Medea" is the subject and performs the action of trying to poison her children, with the nurse possibly being the indirect object.	Medea tried to poison her children, with the help of the nurse.
+0	Morphology	The sentence is incorrect because of the wrong use of the verb "know." The correct verb form in this sentence should be "knew" instead of "know" to convey the past tense.	I felt that I knew you.
+0	Syntax	The sentence is not correct syntactically. The auxiliary verb "will" is used to express the future tense, and it cannot be followed by another auxiliary verb "can" in this context.	Will he be able to do it?
+0	Syntax	The sentence "I ate that she was happy" is not grammatically correct and does not adhere to proper syntax rules. It seems like there might be a missing word or phrase that would clarify the intended meaning.	N/A
+1	Syntax	The sentence is already syntactically correct. All the words are arranged in the right order and it makes sense when read.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because it is ambiguous and can be interpreted in multiple ways. It can mean that they arrived at six o'clock or that they arrived around six members who were named 'O'Clock'.	The sentence is already correct grammatically, but to avoid ambiguity, it is better to rewrite it as: "We arrived at around six o'clock."
+0	Syntax	The sentence is not syntactically correct. The verb "to have" is used as an auxiliary verb and is followed by a past participle, but in this sentence, the structure is incorrect.	Gilgamesh has fought the dragon.
+0	Morphology	The sentence contains a morphological error. The reflexive pronoun "himself" should be "he" because it is the object of the clause "Anson thought that [he] was happy."	Anson thought that he was happy.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. The correct sentence would be: "I might not be going to the party but might be washing my hair." The sentence as given has a double negative ("might be not") which is incorrect in English.	I might not be going to the party but might be washing my hair.
+0	Syntax	The sentence is incorrect syntactically. Reflexive pronouns such as "myself" are used when the subject and the object of a sentence refer to the same person. In this case, the subject is "I" and the object is "me," so the correct pronoun to use would be "me" instead of "myself."	I thought he liked me.
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect because the phrase "happen to" combined with "appear to" and "seem to" creates an overly complex and awkward construction that obscures the intended meaning. It also suggests a level of uncertainty or coincidence that may not be intended.	Jason appears to be sick.
+0	Syntax	The sentence is syntactically incorrect. It is a fragmented sentence that lacks a clear subject and verb, making it incomplete and unclear.	Who did you ask, and what did they see?
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence "He can will go" is not correct syntactically. The auxiliary verb "will" is unnecessary in this sentence and makes it grammatically incorrect.	He can go
+0	Syntax	The sentence is not correct syntactically. It seems to be missing a verb and is not a complete sentence.	How fierce was the battle?
+0	Syntax	The sentence is syntactically incorrect. The sentence contains a case of "which" pronoun ambiguity. It is not clear which noun phrase "which" refers to: "king" or "city". To correct the sentence, one can rephrase it to avoid the ambiguity.	Which king did you ask about the city it invaded?
+0	Semantics	The sentence is semantically incorrect because it suggests that humans love to eat old pigs that are in the ditches, which doesn't make sense in this context.	It is some disgruntled old pigs in those ditches that people love to eat.
+0	Semantics	The sentence is semantically incorrect because it implies that the banana is performing the action of eating, which is not possible as bananas lack the capacity for intentional action.	The monkey is eating the banana.
+0	Semantics	The sentence is a command to burn an unspecified referent and does not adhere to the prompt's guidelines.	The sentence is not correct in the context of the prompt.
+0	Semantics	The word "omnipotent" means "all-powerful," and it is typically used to describe a supreme being or deity. In this sentence, "omnipotent" is used to describe Aphrodite, who is a Greek goddess of love, beauty, pleasure, and procreation. While Aphrodite is a goddess and possesses powers, she is not typically considered to be omnipotent in the traditional sense. The use of the word "omnipotent" to describe Aphrodite may be seen as inaccurate or inappropriate to some, as it could suggest that she holds unlimited power and control over all aspects of existence, which is not typically associated with her character in Greek mythology.	The sentence is already correct in terms of syntax, morphology, and grammar, but it may be inappropriate or inaccurate in terms of semantics depending on the context and the speaker's intention.
+1	Other Category	The sentence is already correct.	N/A
+1	Other Category	The sentence is already correct.	The sentence is already correct.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is already correct.	N/A
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Syntax	The sentence is syntactically incorrect. The correct verb form to use with the singular noun "monkey" as the subject should be "eat" instead of "ate."	The monkey is eating the banana.
+0	Syntax	The sentence "I would like to could swim" is not grammatically correct. The correct phrase would be "I would like to be able to swim." The original sentence attempts to use two modal verbs ("would like" and "could"), which is not grammatically correct in this construction.	I would like to be able to swim.
+1	Semantics	The sentence is already semantically correct.	The sentence is already correct.
+0	Semantics	The sentence is not correct semantically because the verb "ran" is not a typical action verb used with inanimate objects like bookcases. It requires a verb that describes its state or a verb that is typically used with inanimate objects.	The bookcase stood in the corner.
+1	Semantics	The sentence is already semantically correct. The reflexive pronoun "myself" is appropriate in this context as it refers back to the subject "I" and emphasizes that the action of shaving was performed by the subject on their own body.	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. The phrase "muscle-bound" describes someone with an excessive amount of muscle, often to the point of being bulky or awkward. It is not typically used as a standalone noun. To correct the sentence, you could rephrase it to describe Anson's transformation or provide context for his goal or state.	Anson became muscle-bound.
