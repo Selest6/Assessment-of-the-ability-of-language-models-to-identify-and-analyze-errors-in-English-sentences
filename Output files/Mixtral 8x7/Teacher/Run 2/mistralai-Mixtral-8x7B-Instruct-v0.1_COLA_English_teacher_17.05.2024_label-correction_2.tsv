@@ -1,0 +1,528 @@
+label	correction
+1	The sentence is already correct.
+0	The weight of the weights made the rope stretch over the pulley. Explanation: In your original sentence, I would assume that the subject is a single entity called "weights" which does not make sense because we cannot have a singular weight. Instead, consider changing it to something like "the weight of the weights", meaning the total weight exerted by multiple objects on the rope.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence as it is written is grammatically incorrect. A better way to express this idea would be: "Since you eat the most, you want the least." This corrected version uses "since" to indicate a reason for wanting the least, which makes more sense in this context than simply using "as".
+0	The fewer things you desire, the less you will eat. Explanation: This corrected version of the original sentence uses the grammatically correct form "the fewer" instead of "the more," which does not agree with the plural subject "things." Additionally, I changed "would want" to "desire" for stylistic reasons and replaced "you would eat" with "you will eat" for verb tense consistency.
+0	The sentence should be "The more John eats, the more he has to pay."
+1	The sentence is already correct. Explanation: This sentence is grammatically correct but lacks context for a smooth conversation flow. A better way to express it would be: "Mary listens to the Grateful Dead, and as a result, she gets depressed."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The more Bill smokes, the more Susan hates him. Explanation: In the original sentence, "more" is used incorrectly before a verb ("smoke"). A better way to express it would be using "the more...the more..." construction as I did above.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	John visits Sally because he likes her. Explanation: The original sentence is missing the word 'her' after 'he likes'. This makes it a fragment instead of a complete sentence. By adding 'her', we make it clear who John likes, turning it into a grammatically correct sentence.
+1	The sentence is already correct. Explanation: The sentence "Marianne did not leave" is grammatically correct as it follows standard English syntax rules for negation and verb agreement.
+1	The sentence is already correct.
+0	The sentence should be "He could not have been working." Instead of "he can not," we use "he could not" to express past ability that did not happen. Additionally, "have been working" indicates a continuous action in the past that didn't finish before another point in the past.
+5	The sentence is already correct. Confidence: 95%
+1	The sentence is already correct. Explanation: The sentence "John has not kissed Mary" is grammatically correct. It follows standard subject-verb-object word order, uses proper verb tense to indicate a negative past action, and employs appropriate punctuation.
+1	The sentence is already correct.
+0	The sentence should be "Mickey looked up **it**s meaning/definition." The original sentence is incorrect because 'it' refers to a specific thing, but no specific thing has been mentioned beforehand. I assumed that Mickey might have been looking up the definition of something, hence my correction. However, if there was another intended meaning for your sentence, please let me know!
+0	The sentence should be "There tended to BE a lot of discussion." Since there is no verb "be" after "there", it's incorrect.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "John is eager" is grammatically correct as it follows the standard structure of a simple present tense sentence in English language, which consists of subject ("John") followed by verb ("is") and adjective ("eager").
+1	The sentence is already correct.
+0	The sentence should be "The box containing the ball fell from the tree." if we want to imply that the box fell from the tree after having the ball inside it. Alternatively, if the original sentence intends to convey that the ball was already in the box before it ended up on the tree, then a better way to phrase it would be "The box with the ball in it came from the tree.", since otherwise it's unclear whether the box itself was originally in the tree or something else happened later.
+0	The sentence should be "The tube was **escaped FROM** gas" or "Gas escaped from the tube".
+1	The sentence is already correct. Explanation: The sentence "Water bubbled up out of the kettle" is grammatically correct.
+1	The sentence is already correct.
+0	The correct version of the sentence would be: "What the water did to the bottle was to fill it." The original sentence is missing the word "to" before "fill".
+0	The water filled the whole bottle. Explanation: In your original sentence, "What the water did to the whole bottle was fill it," there is a misplaced word order that makes it sound awkward and unnatural. A more natural way of expressing the same idea would be "The water filled the whole bottle" because it has a clearer subject-verb agreement and eliminates unnecessary words for better flow.
+0	The sentence should be "The tank leaked the fluid freely," instead of "The tank leaked the fluid free."
+0	The sentence should be "John laid the ball in the box." In present tense, it would be "John lays the ball in the box."
+1	The sentence is already correct. (Note: I am a machine learning model and do not have personal experiences or titles. However, I can tell you that the sentence "John owns the book." is grammatically correct.)
+1	The sentence is already correct. Explanation: This sentence is grammatically correct as it stands. It uses a pair of parallel verb phrases ("persuaded...to leave" and "to stay") to describe what happened to each person. There's no need to add any extra words or change anything else.
+0	The sentence is not correctly written; it would be more appropriate to say, "Most people probably considered Klaus guilty of murder, even though the courts did not actually find him so."
+1	The sentence is already correct.
+0	The sentence is not correct. Here's a corrected version: "Clearly, John will probably learn French perfectly immediately." In the original sentence, it sounds unnatural to put "perfectly" after "immediately". Instead, we can say that "John will probably learn French immediately, perfectly". However, for better clarity and naturalness, I rearranged the adverbs based on their intended meaning - first "clearly", then "probably".
+0	The sentence should be "Sue gave Bill a book," without "to" after "gave".
+1	The sentence is already correct.
+0	The sentence is already correct. User was warned about formatting. Here's a suggested format for responses: "Label:\nCorrect Sentence:\n[your response here]\n\nExplanation:\n[explanation goes here]" --- John went to home. Label: 0 John went to his home. Explanation: In this context, 'home' functions as an adverb, indicating where John went; hence we need a determiner such as 'his'. Without it, the sentence lacks clarity, making it incorrect.
+0	They represented themselves seriously to Dean Mary as a genuine linguist. Explanation: The subject of the sentence needs to be consistent throughout. It should either be "they" representing themselves or someone else representing them. Also, the title "Dean" should have a capital letter, and there should be no article before it.
+0	The sentence should be "They love us."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: This sentence is grammatically correct and uses the past perfect tense ("had kissed") to indicate that the action of kissing occurred before another past action.
+0	I can't believe Fred won't either. Explanation: The coordinating conjunction "either" needs to be preceded by a comma when used in a list of two items where one item is negative and the other is positive. In this case, "won't" creates the negation needed for using "either," so a comma before it is required.
+0	The sentence should be "John wants to read Fred's story, and I do too."
+0	We wanted to invite someone, but we couldn't decide whom to invite.
+1	The sentence is already correct.
+0	Mary claimed that Holly shouldn't eat cabbage. Explanation: The original sentence contains a comma splice error. A coordinating conjunction ("and," "but," "or," etc.) must connect two independent clauses. In order to fix the run-on sentence, we need to add a conjunction between the two independent clauses or divide them into separate sentences using a period. Additionally, I changed the wording slightly for clarity by moving "eating" before "cabbage".
+0	The sentence should be "I also came." instead of "I also came to be." since the latter implies that the speaker underwent some kind of introduction similar to the one described for Mary. Here's how it looks: Mary came to be introduced by the bartender and I also came.
+1	The sentence is already correct.
+0	The sentence should be "Joe's neuroses bother his patients, and Sally does too." if we are referring to a psychologist named Joe and his patients. Alternatively, if "patrons" is being used informally to mean clients or customers, then the sentence could be corrected as follows: "Joe's neuroses bug his patrons, and Sally does too."
+0	I know which book José didn’t read for class, and which book Lily read for him. Explanation: The name of José's classmate should be spelled as "Lily" instead of "Lilly".
+0	The corrected sentence is: "This is the book which Bob reviewed, and this is the one that Fred won't do." In this case, 'that' instead of 'which' after 'one' makes the sentence grammatically correct.
+0	I know which book Mag read and which book Bob said you hadn't. Explanation: The conjunction "and" connects two independent clauses without a comma separating them. In cases where both clauses are short and closely related, as they are here, it's acceptable to omit the comma. However, when one of those clauses contains additional punctuation within itself (like the second clause does), then a comma before the "and" becomes necessary for clarity.
+0	I know which book Mag read and which book Bob read, but I haven't seen your report yet. Explanation: The original sentence contains several errors. It would be better to separate the two clauses with a conjunction such as 'but', instead of using the pronoun 'my'. Also, it would improve clarity if there were a comma after 'Bob read'.
+1	The sentence is already correct.
+3	The sentence should be "Rusty talked about himself only after Mary had talked about him." The use of "did" is unnecessary here, and to express that one action happened before another in the past we need to use "had" + verb3 form for the first action.
+0	The sentence should be "Fred talked about everything before Rusty did talk about something." to make it grammatically correct. However, a more natural way to say it would be "Fred talked about everything before Rusty did."
+1	The sentence is already correct. (Explanation: I am indeed an expert in English and linguistics, and I can certainly help to identify any errors in a given English sentence. In this case, the provided sentence "John often meets Mary" appears to be grammatically correct.)
+0	The problem is perceived easily.
+1	The sentence is already correct.
+0	The sentence is not correct. A better way to say it would be "We elected **me as** something" or "They chose **me** for something", where "something" refers to a specific role or position that has been assigned to the speaker.
+0	Which report did he submit that said John was incompetent? Explanation: The original sentence contains a misplaced relative clause. To fix it, move the relative clause ("that said John was incompetent") to follow the noun it modifies ("report").
+1	The sentence is already correct. Explanation: This sentence follows all of the rules of standard written English, so it does not require any corrections.
+0	The sentence should be "He let the cats that were whining out." or "He let the whining cats out.", as using "which" instead of "that" implies a nonessential clause, making it unclear whether the speaker is referring to specific cats or all cats in general.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The proof that the claim had been made was provided by the fact that John had lied.
+0	He attributed the fire that destroyed most of my factory to a short circuit, which was caused by an overloaded transducer. Explanation: The clause "which was caused by an overloaded transducer" provides additional information about the short circuit, so it should be set off by a pair of commas. Additionally, I added a comma after "factory" for clarity since there are two independent clauses separated by the conjunction "and."
+0	The mayor regarded as absurd the proposal to build a sidewalk from Dartmouth to Smith. Explanation: In the original sentence, there is no need for the word 'being' after regard as. Regard as can be followed directly by an adjective without needing any additional verb forms.
+0	The sentence should be "Bill left so as to keep it a secret" or "Bill left in order for it to remain a secret". The original sentence contains a mistake because the verb tense of 'leave' does not match the intended meaning - we use the base form after words such as 'to'.
+0	The sentence should be "I know a man whom Tom drives" or "I know a man that Tom drives". The repetition of "as drives" is incorrect.
+0	Rescuing drowned cats, which is against the law, is difficult. Explanation: The verb tense needs to be changed from present continuous ("are hard") to past participle ("is difficult"), as rescuing has already happened. Also, I replaced "drowning" with "drowned" because it's more accurate to refer to them after they have been rescued.
+1	The sentence is already correct.
+0	Rutherford understands himself. Commentary: The original sentence contains a dangling modifier error. In its current form, it implies that "himself" is doing the understanding, which does not make sense because "himself" refers to Rutherford and cannot be the subject of the verb understand. Instead, we need to rephrase the sentence so that Rutherford is the one who is doing the understanding.
+1	The sentence is already correct.
+0	The proof that this set is recursive is difficult. Explanation: In your original sentence, there is a missing word "that" after "proof". This changes the meaning of the sentence slightly but significantly - without it, we're left wondering what exactly is difficult to prove! So always be careful about including all necessary words when constructing sentences.
+0	The madrigals that Henry plays the lute and sings sound awful. Explanation: In the original sentence, there were two errors related to subject-verb agreement and word choice. For subject-verb agreement, it's either singular ("the madrigal sounds") or plural ("the madrigals sound"), depending on whether we refer to one piece of music or multiple pieces. Here, since the subject refers to multiple pieces, I changed it to the plural form 'sound'. Additionally, for better clarity and less colloquialism, 'lousy' has been replaced by a more formal alternative - 'awful', implying negative judgment about how they sounded.
+1	The sentence is already correct.
+0	The proper form of the sentence would be: "Where did you go, and what did someone eat?" This version clarifies both the location to which the person went as well as specifying whom the eaten food pertains.
+0	Whose boy's did we elect as the guardian's employer's president? The original sentence contains several errors. The possessive form of "boy" should be "whose," not "which boy's". Additionally, there is a missing article before "guardian's employer's president." Finally, it would be more natural to use "as" instead of "did" after "elect."
+0	How sane is Pete? OR How sanely does Peter behave? Explanation: The original sentence "How sane is Peter?" is grammatically incorrect because 'sane' cannot be used as an adjective directly followed by a noun without any linking verb or helping verb to indicate a state of being. In order for it to be grammatically correct, we can either change 'Peter' into a pronoun ('he') that follows 'is', such as "How is he sane?" or modify the structure entirely, e.g., "How sane does Peter seem/act/behave?"
+1	The sentence is already correct.
+0	The sentence should be "The sentence is almost correct - just replace 'it' with 'there' to make it grammatically correct.'" So, the corrected sentence would read as follows: "I live at the place where Route 150 crosses the Hudson River and my dad lives there too."
+0	Who is she trying to make up to now? The original sentence contains no grammatical errors; however, I will provide a minor revision for clarity. A more natural way of phrasing it might be: "To whom is she trying to apologize now?"
+0	The wind was got off a plot to negotiate an honorable end to the war in Vietnam. (Note: In modern standard English usage, we would say "the wind was blown away from" instead of "was gotten of". However, I have changed it to the archaic form "was got" because that seems to be what the original author intended.)
+0	The correct sentence is "Mike talked about politics to my friends yesterday." In English, we usually mention the time ("yesterday" in this case) after all other information about the action has been provided.
+1	The sentence is already correct.
+0	Which hat did Mike quip that he never wore? Explanation: The pronoun "she" should be replaced with "he" to agree in gender with the name "Mike".
+0	Which girl did Mike quip never wore that hat? Explanation: The pronoun 'this' refers to something nearby or previously mentioned. Since no such information has been provided about a hat being nearby or previously mentioned, we need to use 'that' instead of 'this'.
+1	The sentence is already correct.
+0	The sentence should be "I won't have any money" instead of "I won't have some money".
+0	The sentence contains a subtle error related to word choice. A more appropriate way to phrase it would be: "Do you think the claim that someone was looking for something is plausible?" The use of "believe" implies certainty on the part of the person being asked, while "think" allows for uncertainty or speculation. Additionally, I changed "somebody" to "someone" because it sounds less informal and more natural in this context.
+0	The sentence should be "I won't ask you to believe that he tried to force me to give him any money."
+1	The sentence is already correct.
+0	The sentence should be "I talked to Winston about him." if the intended meaning is that the speaker discussed Winston as a separate individual from themselves. However, if the intended meaning is that the speaker discussed Winston's thoughts or feelings about himself, then the original sentence could be acceptable.
+0	The fuzz wanting to arrest him worried John, but the fuzz wanting to arrest her didn't worry Mary. Explanation: In the original sentence, it says "that the fuzz wanted him" which implies that John himself is causing trouble for the police. However, based on context, I assume what was meant was that John was worried about being arrested by the fuzz. Therefore, a better way of phrasing it would be "the fuzz wanting to arrest him". Additionally, the second part of the sentence needs to match the first half in terms of tense and wording.
+0	The sentence should be "I'll work on it if Sam is willing to work on it" or "If Sam works on it, then I will too." Instead of "will be working," we use "is willing to work" or simply "works" because the present tense indicates a general truth rather than a specific time in the future.
+0	The sentence is already correct. I will work on it if I can. Explanation: In your original statement, there is a tense shift from present to future simple which disrupts the flow of the sentence. By changing "I'll" to "I will," we maintain consistency throughout the sentence and improve its overall readability.
+0	Here's a knife for you to cut up the onions with. Explanation: The original sentence contains a preposition stranding error. In English grammar, it's more appropriate to place the preposition before its object ("with which") instead of separating them by a longer clause ("for you to cut up the onions"). So I moved the prepositional phrase "with which" towards the end of the corrected sentence.
+0	The sentence should be "Fluffy is sick, which not everyone knows." instead of "Flucky is sick, which not everybody knows." because "everybody" needs to agree with a plural verb form ("know").
+0	The correct form of the sentence would be "Maxwell is quite a good doctor" or simply "Maxwell is a very good doctor," as one cannot merely be "quite a" doctor without any qualification of their skills or abilities.
+0	The corrected sentence would be: "The younger woman might have been tall and the older one definitely was blond." There was an extra comma after 'tall' that needed to be removed.
+0	The sentence should read: "Sally is tall and may be blonde, and Sheila is short and definitely is blonde."
+0	I have to try to finish grading some papers. (The sentence is already correct.)
+0	The socks are ready for you to put on; they are intended to be part of your plan. Explanation: There is a repetition of the word "for" which makes it incorrect. I have corrected it by changing the second "for" into "to be part of". Also, there were no punctuation marks between two independent clauses so I added a semicolon before "they are intended".
+1	The sentence is already correct.
+0	The sentence is almost correct - it would be more natural to say "This violin is difficult to play sonatas on **because** it is a challenging instrument" or something similar that explains why it's hard to play sonatas on the violin.
+0	The sentence should be "My mother is easy to please, even my father." The original sentence had a punctuation error and lacked necessary words for clarity.
+0	The sentence should be "Poor Bill, it had begun to rain and he had no umbrella." The word 'started' should be replaced by 'begun'.
+0	The fact that the cops spoke to the janitor about the robbery yesterday is terrible.
+0	Every student who wears socks is a swinger. Explanation: The original sentence contains two errors - one of subject-verb agreement ("every student" requires a plural verb form), and another of word choice ("he" is incorrect here because it's unclear which specific student is being referred to; instead, use "who" as a relative pronoun to refer back to "student").
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "Everyone around here who ever buys anything on credit talks in their sleep." The use of "his" instead of "their" incorrectly assumes that only men buy things on credit.
+0	I can't remember the name of someone who had misgivings. Explanation: The word "somebody" should be replaced with "someone" to maintain proper agreement between subject and verb.
+0	At least one pair of writers or playwrights must meet in Vienna for the original sentence to be grammatically correct. For example, "At least one writer or playwright meets in Vienna" would be a grammatically correct alternative if that's what was intended by the speaker or author.
+0	No writer or playwright meets in Vienna. Explanation: The coordinating conjunction "or" should be used instead of "nor," because there are only two items being connected ("writer" and "playwright"). Additionally, we use a plural verb form to agree with the subjects "writer" and "playwright."
+0	The sentence is not grammatically correct. A more appropriate way to word it would be: "It is not certain that you will marry any student."
+0	Felicia kicked the ball off of the bench. Explanation: In formal English, we use "off of" rather than just "off" when something moves away from a surface.
+1	The sentence is already correct.
+0	The sentence should be "Sam took the ball out of the basket" as 'gave' implies that something is being transferred to someone else while 'took' indicates taking something from a place.
+0	Sam offered the ball from the basket. Explanation: The preposition used here needs to be 'from' instead of 'out of'. It implies that Sam took the ball and then offered it, which suggests a change in location for the ball as opposed to using 'out of', implying removal without changing who has possession.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	No one can forgive that comment to him/her. The original sentence incorrectly uses "you" instead of a pronoun for the person who received the comment.
+1	The sentence is already correct. Explanation: There are no grammatical errors or incorrect usage of words in the given sentence.
+1	The sentence is already correct. Explanation: I have labeled the sentence as correct because there are no grammatical errors found. Here's a quick analysis of the structure and word choice: * The subject-verb agreement is consistent throughout the sentence. * Word choices are appropriate for conveying meaning without ambiguity. * There are clear relationships between clauses established using conjunctions ("but"). * Pronoun references are unambiguous and correctly used.
+0	The sentence should be "I lent the book partly to Tony," as "partway" implies that the action of lending the book was completed part of the way through some unspecified process.
+1	The sentence is already correct.
+0	The farmer tipped over the cart of apples. Explanation: In the original sentence, "dump" implies that the contents were discarded rather than spilled out of a container. A more appropriate word choice here would be "tipped over". Additionally, we use 'of' instead of 'with' to connect the noun ('cart') and its contents ('apples').
+0	The sentence should be "Martha carved a toy for the baby out of wood." as it is incorrect to say that someone carved something into/out of a person.
+1	The sentence is already correct. Explanation: In this case, the sentence "The bread cuts easily" is grammatically correct as it follows standard English syntax rules.
+0	The sentence should be "Janet broke Bill's finger" because it is more grammatically correct to indicate possession using "'s" rather than just putting the word 'on'.
+1	The sentence is already correct.
+5	The sentence is already correct. Confidence: 95%
+0	The sentence "We pulled free" is grammatically correct, but it may be missing some context for the action to make complete sense. For example, "We pulled free from the ropes that were binding us."
+0	The sentence is already correct. Explanation: The original sentence is grammatically correct. It contains a simple subject ("that movie") and a predicate verb ("shocks"). Additionally, it employs the present tense appropriately to indicate that the action of shocking occurs consistently whenever people watch the movie.
+0	The sentence is not grammatically complete. A more complete version could be "That movie always shocks me" or "That movie is shocking".
+0	The sentence should be "Sharon came into the room."
+1	The sentence is already correct. Explanation: The original sentence "Bill sent a package to Tom" is grammatically correct as it follows standard English syntax rules for subject-verb agreement, word order, and proper use of prepositions.
+1	The sentence is already correct. This sentence is grammatically correct and makes sense in context.
+0	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "I mixed the sugar into the butter" contains a clear subject ("I"), a verb ("mixed") that agrees with the subject, and an object ("the sugar"). Additionally, there is a prepositional phrase headed by "into," which modifies the verb. This structure follows standard English syntax rules, so no corrections are needed.
+0	The sentence should be "Brian threw the stick over the fence," as it's unlikely that someone would throw a fence with a stick.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "I sensed his eagerness" is grammatically correct as it follows standard subject-verb-object word order, has appropriate tense agreement between the subject ("I") and verb ("sensed"), uses a proper form of the past tense for the main verb, and includes a correctly constructed object ("his eagerness").
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Paperback books lift **onto** the table easily. --------------------------------------------------------------- Correction: It should be 'are lifted' instead of 'lift'. The subject 'paperback books' is plural, so we need to use a verb that agrees with it in number. Also, books don't actively lift themselves but rather are lifted by someone or something else.
+0	The books were lifted onto the table. Explanation: In present perfect tense, we use have/has + past participle form of verb. Here, 'lifted' is a past participle but there is no auxiliary verb such as 'have' to make it grammatically correct. So I changed the sentence into simple past tense where only past participle is enough without using any helping verbs.
+0	The sentence should be "Jessica loaded boxes onto the wagon," as we load things onto a wagon, not under it.
+1	The sentence is already correct.
+0	The sentence should be "Jessica was cramming boxes into the truck." instead of "Jessica crammed boxes at the truck."
+0	The correct sentence is "Lora butterred the toast" instead of "Lora buttered at the toast". The verb "butter" requires a direct object to receive the action, so we say "butter something", not "butter at something".
+1	The sentence is already correct. Explanation: "Carla shoveled the walk" is a grammatically correct sentence. It consists of a proper noun ("Carla"), a past tense verb ("shoveled"), and a noun that functions as the direct object ("the walk"). All elements agree in number and person, making it a coherent and complete thought.
+0	The sentence is already correct. Confidence: 100%
+1	The sentence is already correct. Explanation: The original sentence "Nora sent Peter the book" follows all of the rules for standard written American English grammar. It contains a subject ("Nora"), verb tense agreement between the subject and predicate ("sent"), and includes proper object-verb order when using pronouns as objects ("Peter"). Additionally, it ends in a period to indicate that it's a declarative statement rather than a question or exclamation. Therefore, there are no corrections needed.
+1	The sentence is already correct. Explanation: The sentence "Carla slid the book" is grammatically correct. It contains a subject ("Carla"), a verb ("slid") that agrees with the subject in number, and an object ("the book").
+0	The sentence should be "Carla slipped on the book" instead of "Carla slid at the book".
+1	The sentence is already correct.
+0	The sentence should be "Packages can be delivered easily to New York" or "It is easy for packages to be driven to New York".
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "We offered a job to her" is grammatically correct. There are no spelling errors, punctuation errors, or grammatical mistakes in this sentence. Therefore, it does not require any corrections.
+0	The sentence is not correct. The corrected version of the sentence is: "A job has been offered" or "A job offer has been made".
+1	The sentence is already correct. Explanation: The sentence "Brown presented a plaque to Jones" is grammatically correct. It follows standard subject-verb-object word order, has appropriate verb tense agreement, uses proper punctuation, and employs clear language without any spelling errors. Therefore, it does not require correction.
+1	The sentence is already correct. Explanation: The sentence "Carmen bought Mary a dress" is grammatically correct as it follows standard English syntax rules for subject-verb agreement, word order, and punctuation.
+1	The sentence is already correct. Explanation: The sentence "Carmen obtained the spare part at the hardware store" is grammatically correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is already correct. Explanation: The sentence "Carrie touched that cat" is grammatically correct. All of the words are spelled correctly, the verb tense agrees with the subject, and there are no punctuation errors. Therefore, it does not require any corrections.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: I have checked the sentence "Linda taped the picture to the wall" and found it grammatically correct. Therefore, my response will be that the sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "Linda taped the picture onto the wall" follows all of the rules for proper grammar and punctuation in standard American English. Each word is spelled correctly, and there are no missing or extra words. Additionally, the verb tense is consistent throughout the sentence ("taped"), as well as subject-verb agreement between "Linda" and "taped". Overall, it's a complete and grammatically correct sentence.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: There is no mistake in the given sentence. Both articles ("this" and "that") are used correctly to refer to two different flyers.
+0	The two flyers differ from each other. OR The flyers differ in some way. Explanation: In your original sentence, "differ apart" does not make sense grammatically. Instead, we use "differ from" to indicate a difference between things. Additionally, there's no need for the article "that" before "flyer," as it can be implied by using "the" instead.
+0	The sentence should be "The jeweler scrawled his name on the contract," as "jeweler" is spelled without an 'e' in American English, and "scribbled" implies that something was written carelessly or hastily, whereas "scrawled" better conveys writing one's own name onto a document. Additionally, it would make more sense for someone to sign their name rather than write the entire contract with just their name.
+0	The sentence should be "The gardener grew an oak tree from that acorn." instead of "The gardener grew that acorn into an oak tree." because acorns don't grow into trees; rather, they can germinate and develop into a new plant.
+1	The sentence is already correct.
+0	The sentence is not correct. A verb needs to agree with its subject in number. In this case, "children" is a plural noun so the verb must also be plural. Therefore, the correct sentence is: "The children are amusing."
+1	The sentence is already correct.
+0	The sentence should be "Susan whispered to Rachel," instead of "Susan whispered at Rachel."
+1	The sentence is already correct.
+0	The sentence should be "Ellen commented on the current conditions" or something similar that specifies what exactly Ellen said and about which specific current conditions she was speaking. The original sentence lacks necessary context to make it grammatically complete and clear.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "Cynthia chewed" is grammatically correct as it contains a proper subject ("Cynthia") and a verb in past tense ("chewed").
+1	The sentence is already correct.
+0	The correct sentence is "Linda **flicked** her lip" or "Linda winked **an eye**". In English, we don't say "wink one's lip", as it doesn't make sense since a wink involves closing and then opening one eye quickly.
+0	The sentence should be "My heart is pounding," as the verb "pound" does not take a direct object in this context.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "The witch poisoned the children" is grammatically correct. Therefore, I am returning a score of 1 for grammaticality and indicating that the sentence is already correct.
+1	The sentence is already correct.
+0	The verb "squeak" requires a reflexive pronoun when it's used actively. A better way to say it would be "I squeezed **the doorknob**" or "I made the door squeak".
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The flag on the fort fluttered in the wind. Explanation: In the original sentence, it says that 'the fort fluttered with many flags'. However, only flags can flutter, not forts. Therefore, I changed 'the fort' to 'the flag on the fort' to make the sentence grammatically correct while preserving its intended meaning as much as possible.
+1	The sentence is already correct. Explanation: I have labeled the sentence as correct because it follows all of the rules for standard written English. It contains a subject ("the voices"), a verb ("echoed") that agrees with its subject in number, and a prepositional phrase ("in the hall") indicating where the action took place. All punctuation and capitalization also appear to be accurate. Therefore, there is no need to change anything about the sentence.
+1	The sentence is already correct. Explanation: The original sentence "The stream twists through the valley" is grammatically correct as it follows standard English syntax rules for forming a simple sentence, which consists of a subject ("stream"), verb ("twists") and object ("valley"). Additionally, all words are spelled correctly and there are no punctuation errors.
+0	The correct form of the sentence would be: "A wonderful opportunity presented itself yesterday."
+1	The sentence is already correct.
+0	The little white rabbit jumped out of the box.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "Much information was provided" instead of "many information was provided". In English, we use 'much' for uncountable nouns such as information, while 'many' is used for countable nouns.
+0	The sentence should be "John offers much advice" or "John offers a lot of advice". The word "many" should be replaced with "much" or "a lot of", as it does not agree with the singular noun "advice".
+1	The sentence is already correct.
+0	The recommended way to say this would be: "We recommend eating less cake and pastry."
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "Wash **you**r hands" or "You wash your hands". The original sentence contains a grammatical error as it swaps the subject 'you' and verb 'wash'.
+0	The sentence should be "They have no ink" or "They have nothing," assuming contextually that "ink" or "nothing" is what is intended by "in".
+0	Some of my jobs are in jeopardy. Explanation: The word 'some' should be followed by a prepositional phrase starting with 'of'.
+0	The sentence should be "It was the policeman who met several young students in the park last night."
+0	Did the police officer meet him in the park? Explanation: The word "policeman" should be replaced with "police officer," as it is a more inclusive term that encompasses both male and female officers.
+1	The sentence is already correct.
+0	The monkeys are proud of their leader. Explanation: In present simple tense, third person singular subjects require a verb ending in -s.
+0	The sentence "John sounded very" is not correct. A suitable correction would be "John sounded very good."
+0	I don't know whether I should agree. Explanation: The word "if" after "know" should be replaced by "whether". This makes the corrected sentence grammatically correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "A good friend has been remainded to me by him" changed to "A good friend remains with me," as the original sentence contains incorrect verb tense and word choice.
+1	The sentence is already correct. Explanation: The original sentence "John ate his noodle quietly" is grammatically correct as it follows the standard structure of a simple past tense sentence in English: subject + verb (+ object) + adverb(ial). Here, the subject is "John", the verb is "ate", the object is "his noodle", and the adverb "quietly" modifies the action of eating. Therefore, there is no need to make any changes to this sentence.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence is almost correct, but "doughnut" should be "small animal" since a crocodile cannot eat a doughnut. A possible correct sentence would be: "The crocodile devoured a small animal."
+1	The sentence is already correct. Explanation: The sentence "John is afraid of Bill" follows standard English grammar rules for subject-verb agreement, word order, and preposition usage. Therefore, it does not require any corrections.
+0	The sentence "John put under the bathtub" is incorrect. The correct version would be "John put something under the bathtub." without knowing what John placed there.
+1	The sentence is already correct.
+0	The sentence should be "Kim depends on Sandy" to be grammatically correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: I have carefully examined the sentence "John regards Bill as a good friend," and it appears to be grammatically correct and well-constructed. All elements of the sentence work cohesively, making its meaning clear and concise. Therefore, no corrections need to be made.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: I have labeled this as a correct sentence because it follows all necessary grammatical rules for standard American English. Here's how we can analyze its structure: * Subject ("chickens") * Verb ("seem" - helping verb; "fond" - main verb in present participle form) * Object ("farmer") In addition to having proper syntax, each word choice fits well within context, making the overall meaning clear and concise.
+1	The sentence is already correct.
+0	The sentence should be "That Fred was unpopular caused Bill to be nominated" if we want to express that because of Fred's unpopularity, Bill got nominated. Otherwise, the original sentence contains a grammatical error as it incorrectly uses "nominated" instead of a verb such as "caused".
+1	The sentence is already correct. Explanation: The sentence "They were taking a hard look at possible FTA" is grammatically correct as it stands. Here's why: * "They" refers to one or more people who are performing the action of looking. It agrees with its plural subject. * "were taking" indicates that the action of looking happened in the past and continued for some duration. This verb tense is appropriate for describing ongoing activity in the past. * "a hard look" describes the manner in which they looked. It modifies the verb "looking," indicating how they did so. * "at possible FTA" specifies what they looked at. In this context, "FTA" likely stands for Free Trade Agreement, although the acronym could refer to other things depending on the context. Regardless, the preposition "at" introduces the object of their scrutiny, making clear whom or what they examined closely. Overall, then, the sentence meets all the requirements of standard written English, including grammar, syntax, and word choice. Therefore, I would rate it as fully acceptable and ready for use in any formal or informal setting.
+0	The sentence should be "John paid me for the book" instead of "John paid me against the book".
+1	The sentence is already correct.
+0	The sentence "We made them be rude" is grammatically incorrect. A more appropriate way to express this idea would be "We made them act rudely" or "We caused them to be rude".
+1	The sentence is already correct. Explanation: There are no grammatical errors or awkward phrasings in the provided sentence. It's grammatically correct and concise. Good job!
+0	The corrected sentence is "Students studying English read Conrad's Heart of Darkness while at university."
+0	The sentence should be "I have read some of the book" or simply "I read part of the book," as the present perfect tense ("have read") would typically be used to indicate that the action occurred at an unspecified time in the past. Alternatively, if you want to use the simple past tense, it's more natural to specify a portion of the book rather than just saying "some of the book".
+1	The sentence is already correct.
+0	No student failed. Explanation: The word 'Neither' implies that only one thing has been mentioned before it. However, here there are two entities (students), so we cannot use 'neither'. Instead, we can say "No student" which means all students did not fail.
+0	The sentence should be "I drank some **of THE** water" to be grammatically correct.
+0	The sentence should be "It is hair that is gold-colored" or "Its hair is gold," as the original sentence incorrectly uses "a" before "golden," which should agree with the singular noun "hair."
+1	The sentence is already correct.
+0	The sentence is already correct. However, I would like to point out that the use of "itself" implies that there is only one dog being referred to throughout the sentence. Therefore, if there were multiple dogs mentioned beforehand, using a pronoun such as "them" instead might be more appropriate for clarity.
+0	The sentence should be "He washed himself" or "He washed you". The reflexive pronoun used depends on whether he was washing himself or someone else ("you").
+0	The correct sentence is "John is easy to please." Or, if it's meant that John pleases Kim easily, then "John easily pleases Kim."
+0	The sentence seems to be incomplete. A possible correction could be: "It seemed that there was an intelligent person present."
+1	The sentence is already correct. (Note: I am a machine learning model and do not have personal experiences or emotions. My purpose is only to provide information based on patterns learned from data. Therefore, while I can identify whether a sentence is grammatically correct or not, I cannot actually feel pleasure or try to please someone.)
+0	The sentence is not correct. A revised version could be: "We believed John to be near the fountain in the park."
+0	The sentence should be "It tries to **leave** the country." but it's commonly said as "It tries to **leaving** the country.", which is incorrect grammar. So, I will still mark it as incorrect despite its common usage. Here is a more detailed explanation: "Tries" here is used as an auxiliary verb indicating that something is happening now or trying to happen now. In present tense third-person singular context ("he", "she", "it"), we add "-s" to the base form of the verb (in this case, "try"). However, when using an auxiliary verb such as "tries," the main verb following it does NOT have another "-ing" suffix added because "tries" itself indicates continuous action. Therefore, the correct form is "tries to leave" instead of "tries to leaving".
+1	The sentence is already correct. (The sentence "John tries to leave the country" is grammatically correct.)
+1	The sentence is already correct.
+0	The sentence should be "There are believed to be **sheep** in the park" instead of "there is believed to be sheep". 'Sheep' is a plural noun so we use 'are' instead of 'is'.
+0	I hope to study in France. Explanation: The word "would" after "hope" is unnecessary and incorrect. It's already implied that it will happen in the future since "hope" implies a desire for something to happen.
+1	The sentence is already correct. Explanation: "John can kick the ball" is a grammatically correct sentence. It has a clear subject ("John"), verb ("can kick") and object ("the ball"). There are no spelling errors or incorrect word choices. Therefore, I would rate it as 1 for being grammatically correct.
+0	The sentence should be "John will **sing** tomorrow" instead of "John will rain tomorrow".
+0	The sentence should be "We expect there to be rain," instead of "We expect there to will rain."
+1	The sentence is already correct. Explanation: The sentence "John was found in the office" is grammatically correct as it follows standard English syntax rules. It consists of a simple past tense verb ("was found") followed by a prepositional phrase ("in the office"), which modifies the subject "John". Therefore, no corrections need to be made to the sentence.
+0	Did the child be in the school? The sentence is not correct. The correct form of the verb to be for did is was in this context. So the corrected sentence would be: "Did the child was in the school?" but that's also incorrect because it should be 'did the child go to school?'
+1	The sentence is already correct. Explanation: The sentence "It did not rain" is grammatically correct as it follows the standard structure of a simple sentence with a subject ("it") and a verb ("did not rain"). Additionally, the use of negation in the form of "not" after the auxiliary verb "did" is also correct.
+0	The sentence should be "John doesn't want to leave the town." instead of "John wants not to leave the town."
+1	The sentence is already correct.
+0	The sentence should be "They need not take this exam." Instead of "needn't," we use "need not" to express that it is unnecessary for them to take the exam.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: There are no grammatical errors in the provided sentence. The subject-verb agreement is consistent, and punctuation is used correctly. Therefore, it can be considered a grammatically correct sentence.
+1	The sentence is already correct.
+0	Scarcely could he do anything worth mentioning as a statesman. Explanation: The adverbial clause of time "as a statesman" should be placed after the subject ("he") to avoid confusion with the subject complement ("scarcely"). This makes the corrected sentence grammatically correct and clearer to understand.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "A pound was weighed on the book," as "weigh" requires a location rather than something doing the action of weighing.
+0	A more grammatically complete version of this question would be "Whom do you think Tom saw?" or rephrased as "Who do you think saw Tom?" The original sentence omits a necessary word and thus is incorrect grammatically.
+1	The sentence is already correct.
+0	The sentence should be "Fed knows which politician he should vote for."
+0	How did you guess that he had fixed the computer? The verb tense needs to be consistent throughout the sentence. The past perfect tense ("had fixed") should be used instead of the simple past tense ("fixed") for the action completed before another past action.
+1	The sentence is already correct.
+0	The sentence is almost correct; however, it lacks a question mark at the end to indicate that it is a question. A correct version would be: "Which house does your friend live?" With a question mark added at the end.
+1	The sentence is already correct.
+0	The place where we can relax has been found by me. Explanation: In your original sentence, the verb tense does not match the action that took place before it was spoken about. Instead of saying "I find," which implies present continuous tense, say "has been found" to indicate past perfect tense since the action occurred before speaking about it.
+0	The sentence should be "Jack is the person **with** whom Jenny fell in love." The final "with" is unnecessary and incorrect. Here's the corrected version: "Jack is the person whom Jenny fell in love with." However, it sounds more natural to say "Jack is the person Jenny fell in love with," omitting the relative pronoun altogether.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	You didn't get his approval before choosing which topic. Explanation: The original sentence has a small error where the word "his" comes after "getting," but it should come before "before." This is because we need to indicate whose approval wasn't obtained.
+0	I got bored with the topic that Mary kept talking about. Explanation: The original sentence contains some errors in word order and verb tense. A corrected version could be "I got bored with the topic that Mary kept talking about," which uses the past participle form of "get" ("got") to indicate a completed action in the past, and rephrases the second half of the sentence for clarity and grammaticality.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	It's easy to please John. Explanation: The original sentence contains a grammatical error known as a dangling modifier. In this case, "to please John" is a gerund phrase that functions as an adjective describing something or someone. However, there is no noun specified for it to modify. Instead of saying "To please John is easy," we need to say "It's easy to please John" because "it" serves as the subject of the sentence, while "easy" describes the action of pleasing John.
+1	The sentence is already correct. Explanation: "Kim is eager to please Tom." is a grammatically correct sentence. Here's why: * Subject-verb agreement: "Kim," being singular, pairs correctly with the verb "is." * Proper use of tense: "is eager" indicates that this action is happening now or generally. * Correct word order: This simple sentence follows standard subject-verb-object structure. * Spelling and punctuation: No spelling errors were found, nor did any misplaced commas disrupt the meaning of the sentence.
+0	The fact that we invaded Iraq really bites. Explanation: The original sentence is incorrect because "that" cannot be used as a subject of a sentence. A noun or pronoun must follow "that". In this case, I replaced it with "the fact that", which turns it into a noun clause and makes the sentence grammatically correct.
+0	It annoys me that Fido barks. Comment: The given sentence contains a common error where the subject-verb agreement is incorrect. In this case, "it" is singular and requires a singular verb form such as "annoys", so no correction is needed here.
+0	The person who achieved the best result was Angela. Explanation: In the original sentence, there is a mismatch between subject-verb agreement because 'who' refers to multiple people but 'was' agrees only with singular nouns. Changing it to 'The person who...', resolves this issue as now the subject ('person') matches the verb form used ('was').
+1	The sentence is already correct.
+0	The corrected sentence is "That kind of person is hard to find anyone who can look after them."
+0	A sick owl does not hunt mice.
+0	Each candidate who has an interest in semantics will be admitted to the department. Explanation: The word "who" must always be followed by a pronoun or a noun. In this case, we need to add "an" before "interest".
+0	The corrected sentence is "She doesn't have any apples." The original sentence contained multiple errors, including subject-verb agreement ("she" vs. "don't"), double negatives ("no" and "don't"), and pluralization of "apple."
+0	The sentence should be "I'm sure we have even gotten these tickets!" instead of "I'm sure we even got these tickets!". In present perfect tense, 'have' should be used before the past participle form of the verb ('gotten').
+0	I'm not even sure if we have gotten these tickets! Explanation: The word 'even' needs to be placed before a negative expression such as 'not sure'. Also, it would be more appropriate to use 'if' instead of 'we got' for better grammar and clarity.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "He whined because he was hungry." or "Because he was hungry, he whined.", as it's more natural to have a conjunction ("because") linking the two clauses together rather than just having them separated by a comma.
+0	I gave Mary a book after the party.
+0	The sentence should be "Because she's so pleasant, as for me, I really like her." Since there were some errors in pronoun usage, the corrected version is provided above.
+1	The sentence is already correct.
+0	With no job, John would not be happy.
+0	The sentence should be "I have **much** of the manuscript **to type**" or "I have **a lot of** the manuscript **left to type**". The word "of" indicates that a singular noun follows it, so using "much" without "of" would require a plural noun such as "manuscripts", but since the original sentence uses "manuscript" which is singular, we need to use "of" after "much". Alternatively, replacing "much" with "a lot of" avoids having to change the following verb into its plural form, thus making the entire sentence grammatically correct.
+1	The sentence is already correct. Explanation: The sentence "He's a more reliable man" follows all the rules of standard English grammar, punctuation, spelling, and capitalization. There are no errors to be corrected.
+0	Trouble is anything that I don't want. Explanation: The word "any" should be used instead of "what" to make the sentence grammatically correct.
+1	The sentence is already correct.
+0	Some of them made as many errors as twenty. Explanation: The number "20" can be used either as a noun or as an adjective. When it's used as a noun, such as in your original sentence, we need to use its plural form, which is "twenty". However, when it's used as an adjective, we don't add -s or -es to the end. So both forms ("20 errors" and "twenty errors") are grammatically correct depending on how they're being used. In your original sentence, since "errors" is already plural, using "twenty" instead of "20" makes more sense because it agrees with the plural subject "some of them".
+0	The correct sentence is "Sally kissed herself" changed to "Sally kissed himslef."
+0	The sentence should be "Drew believes that I think Rosie loves magazine ads." since a clause introduced by "that" is necessary to connect the different parts of the sentence together coherently.
+1	The sentence is already correct. Explanation: The sentence is grammatically correct and follows standard conventions for punctuation and capitalization. It clearly communicates that multiple people named Dave, Dan, Erin, Jaime, and Alina all left. No corrections need to be made.
+0	The sentence should be "Hopefully, we will make it through the winter without snow." Instead of using 'will' after a comma, use it before the subject to maintain a proper sentence structure.
+0	The sentence should be "Blue leather shows that Betsy is pretty." The reflexive pronoun 'herself' is unnecessary here as it implies that blue leather has made itself pretty which doesn't make sense in this context.
+1	The sentence is already correct.
+0	I think you knew the answer. Explanation: The word "hit" is incorrect in this context; it should be replaced with a verb indicating thought or belief, such as "think".
+1	The sentence is already correct. This is a valid sentence known as a correlative construction, where two elements ("my wallet" and "my mind") are connected by a coordinating conjunction ("or").
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The given sentence follows all of the standard rules for capitalization, punctuation, spelling, grammar, and syntax in American English, so it does not require any corrections.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "Reading the book of poems and **that** from Blackwell takes a very long time." or "The book of poems and the one from Blackwell take a very long time to read."
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "The roof of the building is leaking."
+0	The panther's coat is dark black. (This should be "The panther's coat is **a** dark black" if we want to use an article before "dark black," but it would sound more natural without the article.)
+1	The sentence is already correct. (The sentence "Colin asked if they could get a mortgage" is grammatically correct.)
+0	The man who I saw get into the cab robbed the bank. Explanation: When we use the word 'who' to introduce a clause, it must be preceded by a comma. Additionally, when referring back to a noun that has been mentioned before, such as 'the man', we need to include 'who' or another relative pronoun for clarity.
+1	The sentence is already correct.
+0	The sentence is already correct. Explanation: The sentence "John's drum will always bother me" is grammatically correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: There are no grammatical errors or awkward phrasing in the sentence. It clearly conveys that John placed a book on a table in a classroom setting.
+5	The sentence is already correct. Confidence: 95%
+0	Heidi thinks that Andy is going to eat salmon-flavored candy bars.
+0	The sentence is already correct. The meaning of the sentence may be unusual or unexpected, but grammatically it is correct.
+0	The sentence is already correct. Confidence: 100%
+0	The sentence should be "Did Calvin do his homework?" instead of "Did Calvin his homework?" because we need to use a helping verb ("do") before the subject's name when forming questions in English.
+1	The sentence is already correct. Explanation: The sentence "Sylvia was slapping Jeff upside the head in martial arts class" appears to be grammatically correct. It has a clear subject ("Sylvia"), verb ("was slapping"), object ("Jeff"), preposition ("upside"), adverb ("the head"), and modifying phrase ("in martial arts class"). All of these elements work together well to form a complete thought that is easily understood by native speakers. Therefore, I would rate it as grammatically correct and assign it a score of 1.
+1	The sentence is already correct.
+0	The sentence is already correct.
+0	The sentence is already correct. Explanation: The sentence "John is likely to leave" is grammatically correct as it follows standard English syntax rules for forming a sentence using the auxiliary verb "is" along with the adverb "likely" modifying the main verb "leave".
+1	The sentence is already correct.
+0	The sentence "Was sunk." is not grammatically complete. A proper sentence requires a subject and verb, as well as punctuation if it's a standalone statement. For example, "The ship was sunk." would be a grammatically correct sentence.
+0	You probably mean to ask "Who do you think kissed the gorilla?" The original sentence has a tense issue as it uses "did" without a clear reference point in time.
+1	The sentence is already correct. Explanation: The sentence is grammatically correct and makes sense in context, so no corrections need to be made.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "Four men were arriving at the station as I pulled up." instead of "There were four men arriving at the station when I pulled up." because the present continuous tense ("were arriving") is used incorrectly here. It's better to use past simple tense for completed actions in the past.
+0	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: I have labeled this sentence as correct because it follows all of the rules for standard English grammar and usage. The subject ("Heidi") agrees with the verb ("likes"), both in number and person; there are no spelling errors; and the meaning of the sentence is clear and unambiguous. Additionally, the word order is appropriate, and any potential punctuation issues do not arise here since only one independent clause exists without additional clauses requiring conjunctions to connect them properly. Overall, the sentence appears grammatically flawless!
+0	The sentence should be "John thinks that Mary loves him."
+0	The corrected sentence is "Which pictures of himself does John like?" This sentence is already grammatically correct. However, I would suggest rephrasing it to improve clarity, as some people might find it ambiguous whether "himself" refers to John or another person. A possible alternative could be "Which pictures of him does John like?"
+0	The sentence should be "An owl hunts mice," as "any" is not appropriate here.
+0	The sentence should be "No man ate dinner" or "Not any man ate dinner". The original sentence contains a double negative which makes it incorrect.
+0	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "Any tiger has fur that is orange, marked with black stripes," as all tigers have fur which is orange and marked with black stripes.
+0	An albino tiger has white fur, marked with black stripes.
+0	You may choose any flower that you see. Explanation: The word 'pick' has a more forceful connotation than 'choose'. In addition, it needs to be followed by 'up', making the grammatically correct form of the verb 'pick up'. However, for politeness reasons, we would often prefer a milder term such as 'choose' when instructing someone what they can do.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. The Dodgers beat the Red Sox and were beaten by the Giants is a grammatically correct sentence.
+1	The sentence is already correct.
+0	The man whom Mary loves and Sally hates computed my tax. Explanation: In this case, we need to use "whom" instead of "who", because it follows a preposition ("by"). A common mistake is using "who" when referring to someone that has just been mentioned after a preposition such as "by". So the corrected version would be: "The man **whom** Mary loves and Sally hates computed my tax."
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "a tall building" contains only one independent clause but it is grammatically correct because it follows standard English syntax rules for forming a simple sentence. It has a subject ("building") and a modifying adjective ("tall"). However, to make it more informative and complete, you can add additional details such as location, function, or other relevant information about the building. For instance, "A tall building located near Times Square houses various businesses." But the original short version is also acceptable if context allows.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	She asked whether Alison was coming to the party. Explanation: In reported speech, we use "whether" instead of "was" when asking a question about something that has already been decided or will be decided soon.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "Magnus went to Ireland" is grammatically correct as it follows standard English syntax rules for a simple sentence. It contains a subject ("Magnus"), verb ("went") and object ("Ireland"). All words are spelled correctly, and there is no punctuation error.
+0	A more grammatically correct version of the sentence would be "Whom did John send the book?" or "Who did John send the book to?" The original sentence is a question that requires either a preposition ("to") or the word "whom" before the object ("the book").
+0	The idea dismayed the Prime Minister that the dome was dull. Explanation: In English, we capitalize the first letter of a proper noun, but not common nouns. Here, "dome" is a common noun referring to a building, so it shouldn't be capitalized unless it starts a new sentence.
+0	He came right in without so much as a knock.
+1	The sentence is already correct. Explanation: The sentence "Harriet admired Mr Knightley" is grammatically correct as it follows standard English syntax rules. Each word is spelled correctly, punctuation is used appropriately, and there are no grammatical errors such as subject-verb agreement issues, incorrect verb tenses, misplaced modifiers, etc. Therefore, I have labeled this sentence a '1' to indicate that it is indeed grammatically correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: The sentence "Frank Churchill crossed the street" follows standard English grammar rules for subject-verb agreement, word order, and tense consistency. Therefore, it is a grammatically correct sentence.
+1	The sentence is already correct. (Explanation: The sentence "Emma and Harriet were attacked yesterday" is grammatically correct.)
+5	The sentence is already correct. Explanation: The sentence "Fiona might be here by 5 o'clock" is grammatically correct as it follows standard English syntax rules for forming a question.
+0	The sentence should be "I am both expecting to get the job and I think it is a desirable one." Instead of "and of the opinion that it is a desirable one," which is unnecessarily formal. Alternatively, "I am expecting to get the job and believe it is a desirable one" could also work.
+1	The sentence is already correct.
+0	Kim alienated cats and mistreated his dog. Explanation: The original sentence contains two errors. "Beating" should be replaced with a more general word such as "mistreating," since it's unclear what exactly Kim is doing to his dog. Additionally, there should be a comma after "cats" to separate the two independent clauses.
+1	The sentence is already correct.
+0	Which article did Terry file without reading? Explanation: The word 'papers' is plural, so it needs a plural determiner such as 'these', 'those', 'many', etc., if no specific noun follows it. In your sentence, there is no need to use the word 'papers'. It seems that you want to refer to one particular article; therefore, I removed 'papers' from your original sentence.
+1	The sentence is already correct. Explanation: The sentence "I want to try and buy some whiskey" is grammatically correct as it follows standard English syntax rules. However, a more common way of expressing this idea would be to say "I want to try buying some whiskey," but both versions are acceptable.
+0	She goes and buys some whiskey. Comment: The verb "goes" needs to be followed by a gerund ("buying") instead of an infinitive ("buying" becomes "buy").
+0	The sentence should be "Kim and Terry are happy."
+1	The sentence is already correct. Explanation: The sentence "Kim gave a dollar to Bobbie and a dime to Jean" follows all of the necessary grammatical rules for standard American English and does not contain any spelling errors. It has a clear subject ("Kim"), verb ("gave"), and direct objects ("a dollar," "Bobbie," "a dime," "Jean"). Each element within the sentence is grammatically sound, so there's no need to change anything about it.
+1	The sentence is already correct.
+0	Place a picture of Bill on your desk before tomorrow; this girl in the red coat will do the same before tomorrow. Explanation: The original sentence contains several errors in punctuation and grammar. It's important to use proper capitalization, commas, and conjunctions when writing complete sentences. In my corrected version, I added a semicolon after "desk before tomorrow" to separate the two independent clauses, changed "put" to "do the same" for variety and clarity, and used lowercase letters for "this" since it doesn't start a new sentence.
+0	The sentence should be "Bill's picture, the girl in the red coat will put it on your desk before tomorrow." Instead of "Picture of Bill," use "Bill's picture" for clarity and ownership; instead of repeating "picture", use a pronoun ("it") to refer back to the noun previously mentioned.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Which books about cooking does Henri want to buy? Explanation: The subject ("Henri") comes before the verb ("does want"), so we need to include a helping verb ("does") to form a question. Additionally, we need to use the plural form of "book" since there is more than one book being referred to.
+0	I will fix the computer for Carole. Explanation: The original sentence contains a common spelling error where "Carol" is misspelled as "Carol**e**".
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The soup cooks and then thickens. Explanation: In the original sentence, it's unclear whether the soup is cooking and thickening simultaneously or if one action happens after the other. To clarify the meaning, I added a conjunction ("and") to separate the two actions. This way, it's clear that first the soup cooks, and then it thickens.
+1	The sentence is already correct.
+0	The sentence "John asked." is missing additional context to be considered grammatically complete. For example, it could be updated to say "John asked a question" or something similar for proper grammatical structure.
+0	The sentence should be "I even saw the student," instead of "I saw even the student."
+0	The corrected sentence is "John whispered that Mary had left."
+0	Bill will come wonderes Mary. The correct form is "Mary wonders whether Bill will come" or simply "Will Bill come, wondered Mary?". Also, it's more natural to say "wondered" instead of "wonders", because the event happened in the past.
+0	The sentence should be "Sophie will go to the theater."
+1	The sentence is already correct.
+0	Mary's mother likes herself. Explanation: The original sentence incorrectly uses "herself" as the subject of the sentence. To make it grammatically correct, we need to switch the positions of "Mary's mother" and "herself".
+1	The sentence is already correct.
+0	The correct sentence is "John's mother likes him."
+0	Mary revealed herself to John. Explanation: The subject of the sentence, "Mary," is a female, so the reflexive pronoun used must also be feminine. Therefore, "herself" should be used instead of "himself".
+1	The sentence is already correct.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The correct form of the sentence would be "Henry found that Bill was sad," as the past tense of the verb to be should be used after a clause indicating something happened before another action took place (in this case, Henry's discovery).
+0	John considers himself to be proud of Mary. Explanation: The verb "considers" requires that we use a clause starting with "to be" after it when talking about someone's feelings or attitudes. Therefore, "John considers himself proud of Mary" is incorrect and needs to be changed to "John considers himself to be proud of Mary".
+0	The sentence should be "You should sit before it." or "You should sit down before that.", as the pronoun "there" doesn't make sense without a clear antecedent in the context provided.
+1	The sentence is already correct.
+0	The correct sentence is "Everyone hopes that everyone else will sleep" or "Everyone wants others to sleep".
+1	The sentence is already correct.
+0	The only person who remembered Churchill giving the "Blood, Sweat and Tears" speech was Churchill himself. Explanation: In your original sentence, it seems that there is a confusion regarding the subject of the sentence. I have rephrased it to make it clear that only Churchill had the memory of him delivering the speech.
+0	The correct sentence is "John promised Mary that he would shave himself."
+1	The sentence is already correct.
+0	The corrected sentence would be: "I saw Bill while you did so.**Mary also**." Or, alternatively: "While **you were doing that**, I saw Bill.**, so did Mary**." Without adding additional context to clarify who 'so' refers to, it can appear as if 'so' is referring back to something 'you' did, but we don't know what 'you' did unless there is more information provided.
+0	The correct form of the sentence would be: "What Mary did was give Bill a book."
+0	The sentence should be "The bear sniffs" if referring to one bear, or "The bears sniff" if referring to multiple bears.
+1	The sentence is already correct. Explanation: The sentence "to steal talismans from witches is dangerous" contains no grammatical errors and conveys a clear meaning. Therefore, it is grammatically correct.
+0	The sentence should be "Anson denounced" if you want to express the idea of strongly criticizing someone or something. "Demonize" means to describe something as evil or causing bad things to happen. It would be used like this: "Anson's critics tried to demonize him by spreading false rumors about his past."
+3	The sentence should be "you kicked yourselves *plural noun*\*" or "*singular pronoun* kicked *himself/herself*/themselves\*. Here's a corrected version of each possibility: 1. Corrected Sentences: You kicked yourself. 2. Corrected Sentences: You all kicked yourselves. 3. Corrected Sentences: Everyone kicked themselves.
+0	The book that I said I'd never read. Explanation: In the original sentence, there is a relative clause "that I said" modifying the noun "book". When using a relative pronoun such as "that", we do not need to use another conjunction such as "that" again before it. Therefore, removing one of them makes the sentence grammatically correct.
+0	The sentence is not correct. A more appropriate correction would be "Anson** demonized the Khyber" or "Anson** demonsed up the Khyber Pass", assuming that there were some contextual reasons for using such a phrasing. However, without further information it's difficult to give an accurate correction.
+1	The sentence is already correct.
+0	The sentence should be "Kick you!" This sentence is missing a subject, making it grammatically incorrect. To make it a complete thought, we could add a subject such as "I" to create "I kick you," but even then, this statement would likely come across as aggressive. Instead, consider rephrasing for politeness and clarity.
+1	The sentence is already correct.
+0	You got an accurate description of who I am. Explanation: The original sentence has a word order issue that makes it ungrammatical. In English, when using the verb "get" to mean receiving information about something or someone, the object typically comes before the subject ("you" in this case), followed by "of". Therefore, the corrected version is: "You got an accurate description of who I am."
+1	The sentence is already correct.
+0	The sentence should be "The government's imposition of a fine **on**" to indicate what entity is receiving the fine. Therefore, the corrected sentence is: "The government's imposition of a fine on..."
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	The sentence should be "Anson **denounced** David every day" as 'denounce' means to publicly declare something to be wrong or evil. 'Demonize' would mean to portray someone as wicked or evil which doesn't fit here without additional context.
+4	There is a program about Euripides on Radio 4 tonight. Explanation: The word "a" before "Radio 4" must be lowercase as it is not a proper noun.
+1	The sentence is already correct.
+1	The sentence is already correct.
+0	Anson danced extremely frantically at the trade show. In the original sentence, there are a couple of errors. The adverb "extremely" modifies the adjective "frantic," so it needs to come after "frantically." Additionally, "Trade" should be replaced by "the trade show" for clarity.
+0	You asked what Medea gave. Explanation: The original sentence has a word order issue that makes it difficult to understand. A better way to structure it would be as follows: "You asked what Medea gave" implies that someone asked about something that Medea had given them.
+0	The sentence is already correct. Confidence level: 100%
+0	The nurse that Medea tried to poison were her children. OR Medea tried to poison her own children through the nurse.
+0	The correct form of the sentence would be "I felt that I knew you." The verb tense needs to be consistent - if you use the past tense ("felt"), then the following verb also has to be in the past tense.
+0	The correct form of the sentence should be "Will he be able to do it?" instead of "will he can do it". In English, we cannot use two auxiliary verbs together without a main verb between them.
+0	The sentence should be "I saw that she was happy."
+1	The sentence is already correct.
+1	The sentence is already correct. Explanation: I have labeled the sentence as correct because it follows all of the rules for standard written American English. It contains a subject ("we"), a verb tense that agrees with its subject ("arrived"), a preposition ("about") followed by a time expression ("six o'clock"). All of these elements make sense together to form a coherent statement.
+0	The sentence should be "Gilgamesh has fought the dragon" or "Gilgamesh was fighting the dragon". In present perfect tense, we use 'has' before the base form of verb when subject refers to singular third person pronouns such as he, she, it, and names of specific people.
+0	The corrected sentence is "Anson thought he was happy."
+1	The sentence is already correct.
+0	The sentence should be "I may not be going to the party but am instead washing my hair" or "I might not be going to the party; I'm washing my hair." Instead, it says "I might be not going," which is grammatically incorrect.
+0	He likes me. Explanation: The reflexive pronoun for the object of a sentence should be used when the subject and the object refer to the same person. In your example, the first-person singular pronoun "I" is the subject, so the correct form of the reflexive pronoun would be "me," not "myself."
+1	The sentence is already correct. Explanation: The sentence "The butler sent the poison to Dinah" follows all of the rules of standard written English. It contains a clear subject ("the butler"), verb ("sent"), and object ("the poison"). Additionally, it uses appropriate prepositions ("to") and articles ("the"). Therefore, I would rate this sentence as correct.
+0	The sentence is already correct, but it can be simplified for clarity. A simpler way to say "Jason happens to appear to seem to be sick" would be "Jason seems sick."
+0	Who did you ask what they saw? Explanation: The subject ("who") needs to come before the verb ("saw"), so we need to add a word such as "what" between them for proper grammatical structure.
+1	The sentence is already correct.
+0	The sentence "He can will go" is not correct. The correct version would be "He will go," as using both "can" and "will" together to express future tense is redundant.
+0	A more grammatically correct way to ask this question would be "How fierce was the battle?" or "How fierce is the battle?" The original sentence is missing a helping verb, which makes it unclear whether the speaker is referring to a past or present event.
+0	Which king did you ask which city was invaded by? Explanation: The original sentence has a word order issue. A more appropriate way to structure it would be: "Which king did you ask which city was invaded by?" This revised version clarifies that you are asking about a specific city being invaded, rather than the act of invading itself being performed on some unspecified entity.
+0	The sentence is not correct. Here's a corrected version: "It is some disgruntled old pigs in those ditches that humans love to eat" should be "Some disgruntled old pigs are the ones humans love to eat, who can be found in those ditches."
+0	The sentence should be: "The monkey is eating the banana." Here's the corrected version: The monkey is eating the banana.
+0	The sentence is not grammatically complete or coherent. A more complete sentence could be: "Burn the papers!" or "Burn them with fire!", for example.
+0	It's too bad that Aphrodite is all-powerful. Explanation: The word "stinks" is informal and colloquial. In formal writing, it would be better to use a more neutral expression such as "it's too bad". Additionally, the subject of the sentence ("Aphrodite") is capitalized correctly, but the predicate adjective ("omnipotent") should also begin with a capital letter because it follows a linking verb ("is").
+1	The sentence is already correct. Explanation: The sentence "Agamemnon seems to be a maniac" follows the rules of standard English grammar and usage. There are no spelling errors or punctuation issues that need correction. Therefore, I would rate it as correct.
+1	The sentence is already correct. The sentence "Will Anson come to the party?" appears to be grammatically correct as it follows standard English syntax rules for forming a question. Therefore, I would rate it as 1 indicating that it is indeed correct.
+1	The sentence is already correct.
+0	I inquired when we could leave. Explanation: The subject of the verb "inquire" should be "I", so there shouldn't be a pronoun before the conjugated form of the verb. Additionally, it is more common to use "ask" instead of "inquire" in informal contexts.
+0	The sentence requires a direct object for the verb "kicked" to make it grammatically complete. A possible correction could be: "They kicked the ball."
+0	The monkey ate the banana.
+0	The sentence should be "I would like to be able to swim".
+0	The sentence is not grammatically complete. A more appropriate sentence could be "I kicked myself for making that mistake" or "I kicked myself accidentally".
+0	The sentence should be "The bookcase is standing" or something similar because bookcases do not run. They can stand, fall, tip over, etc., but they cannot move on their own like a person or animal runs.
+0	The sentence is already correct.
+0	The sentence "Anson became a muscle bound" is incorrect. It should be "Anson became muscular."
