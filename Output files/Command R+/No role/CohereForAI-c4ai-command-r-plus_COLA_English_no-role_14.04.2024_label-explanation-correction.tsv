@@ -1,0 +1,528 @@
+label	explanation	correction
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is correct. It is a hypothetical statement using the past perfect and present conditional verb forms correctly.	The sentence is already correct.
+0	The sentence is not correct. It seems like it might be trying to express the idea that when someone eats a lot, they tend to desire less food, but the structure and wording are not grammatically correct.	The more you eat, the less you want.
+0	The sentence is not correct because it is a fragment. It seems to be missing a subject and is not a complete thought.	The more you would want something, the less you would eat.
+0	The correct phrase is "the more John eats".	I demand that the more John eats, the more he pays.
+0	The sentence is not correct because it is a run-on sentence, which means it contains two independent clauses that are not properly joined.	Mary listens to the Grateful Dead, and it makes her depressed.
+0	The sentence is not correct because it uses the wrong verb tense. The correct verb tense to use in this sentence is the past perfect tense ("had gotten") instead of the past tense ("got").	The angrier Mary had gotten, the more she looked at pictures.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is incorrect because the phrase "lots more" is informal and not suitable for formal writing.	John was far more obnoxious than Fred.
+0	The sentence is not correct because the verb tense is inconsistent. The phrase "the more ... the more" indicates a comparison, and both parts of the comparison should use the present tense.	The more people you give beer to, the more people get sick.
+0	The sentence is not correct because of the wrong use of "the more." The correct phrase would be "The more Bill smokes."	The more Bill smokes, the more Susan hates him.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect use of the pronoun "he." It should be replaced with "they" to agree with the plural antecedent "Every senator."	Every senator seems to become more corrupt as they talk to more lobbyists.
+0	The sentence is grammatically incorrect. It seems to be missing a word or has a word placed incorrectly, making the sentence ambiguous and unclear.	The sentence needs to be restructured for clarity. A possible correction: "Whom does John visit, Sally, because he likes?"
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is incorrect because the pronoun "it" is not a correct pronoun to use after "looked up." The sentence needs a direct object that specifies what Mickey looked up.	Mickey looked it up.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because the subject and verb do not agree. The singular noun "tube" should be paired with the singular verb "escaped," but the verb "was escaped" is in the passive voice and does not agree with the subject.	Gas escaped from the tube.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The tub leaked water.
+0	The sentence is incorrect because the verb "did" requires the base form of the verb that follows it, which in this case should be "to fill" instead of "fill."	What the water did to the bottle was to fill it.
+0	The sentence is not correct because it uses the wrong verb form "did" instead of "do" for the present tense. The verb "did" is the past tense form of "do."	What the water does to the whole bottle is fill it.
+0	This sentence is not correct grammatically. The use of the word "free" at the end of the sentence is incorrect and doesn't make sense in the context.	The tank leaked the fluid freely.
+0	The sentence is not correct because the verb "lay" is used incorrectly in this context. It should be "laid," which is the past tense of "to lay."	John laid the ball in the box.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct conjunction to use in this sentence is "while" instead of "even though" because the two clauses express contrast. Also, the verb form "found" should be used instead of "find" to maintain grammatical consistency in the sentence.	Most people probably consider Klaus guilty of murder while the courts didn't actually find him guilty.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is not clear who "they" are, and the word "seriously" does not fit in this context.	They presented Mary, a genuine linguist, to the dean in earnest.
+0	The sentence is not correct because it does not follow basic English grammar rules. In English, the subject and verb must agree in number. In this case, the subject "Us" (plural) requires a plural verb, but "love" (present tense) is not conjugated correctly for a plural subject.	We love them.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is correct.	The sentence is already correct.
+0	The sentence is incorrect because the verb tense is inconsistent. The correct verb form for the second part of the sentence should be "do" instead of "to" to maintain the present tense.	John wants to read Fred's story, and I also do.
+0	The sentence is not correct because the verb form "decide" is incorrect in this context. The correct verb form to use here is "decide on."	We wanted to invite someone, but we couldn't decide on who to.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	This sentence is grammatically incorrect due to the incorrect use of commas and the lack of a subject for the second clause.	Mary claimed that Holly shouldn't eat cabbage.
+0	The sentence is not correct because of the incorrect use of the phrase "came to be." It should be changed to "came to life" or a similar phrase to maintain the intended meaning.	Mary came to life when introduced by the bartender, and I also came to life.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is incorrect because it is unclear who "too" is referring to.	Joe's neuroses bother his patrons, and so does Sally.
+0	The sentence is incorrect because the verb "did" is inappropriate in this context. It should be replaced with a verb that indicates reading.	I know which book José didn't read for class, and which book Lilly read for him.
+0	The sentence is not correct because the verb tense and structure are inconsistent and unclear. It appears that the sentence is trying to contrast the actions of Bob and Fred regarding the book, but the phrase "won't do it" is not grammatically or contextually appropriate.	This is the book that Bob reviewed, and that is the one Fred won't review.
+0	The sentence is grammatically incorrect. It seems like the sentence is trying to convey knowledge of which books Mag read and which book Bob said someone hadn't read, but the structure is unclear and confusing.	I know which book Mag read and which book Bob said you hadn't read.
+0	The sentence is not correct because of the incorrect usage of the pronoun "that." The correct pronoun to use in this sentence would be "which" instead of "that."	I know which book Mag read and which book Bob read, which I hadn't.
+0	The correct conjunction to use in this sentence is "rather." The sentence also needs to be rephrased to adhere to the correct subject-verb-object order.	I'm sure I would rather him eat fruit than cookies.
+0	The correct sentence should be: "Rusty talked about himself only after Mary had talked about him." The auxiliary verb "did" is not used in this context, and the correct verb form to use in the dependent clause is the past perfect "had talked."	Rusty talked about himself only after Mary had talked about him.
+0	The sentence is not correct because of the incorrect use of verb tenses. The correct sentence should use the past tense of the verb "talk" in the second part of the sentence.	Fred talked about everything before Rusty talked about something.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the verb "perceive" is not used correctly in this context. The correct verb to use here would be "understands" or a similar verb that indicates comprehension.	The problem understands easily.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is not clear who is speaking. If "I" is one of the people who elected "me", then the sentence should be "We elected myself." If "I" is not one of the people who elected "me", then the sentence should be "They elected me."	We elected myself. or They elected me.
+0	The sentence is a fragment and does not express a complete thought. It seems to be missing some context or information that would clarify who "he" is and what specific report is being referred to.	Which report did he submit that labeled John as incompetent?
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The relative clause "which were whining" is modifying the noun "cats," but it comes immediately after the verb "let" and is disrupting the sentence's syntax.	He let out the cats that were whining.
+1	The sentence is a question and is correct as it is.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	This sentence is incorrect due to a grammatical error. The phrase "a proof that" is singular and requires a singular verb, but the verb "were" is plural.	A proof that the claim had been made was given that John had lied.
+0	The sentence is not correct because of the incorrect use of the phrase "attributed to." The correct phrase should be "attributed it to."	He attributed it to a short circuit, which was caused by an overloaded transducer, that destroyed most of my factory.
+0	The sentence is not correct because of the incorrect use of passive voice.	The mayor regarded the proposal to build a sidewalk from Dartmouth to Smith as being absurd.
+0	This sentence is not correct because it uses a passive construction ("I want that Bill left") that is not grammatically correct.	I want Bill's leaving to remain a secret.
+0	The sentence is grammatically incorrect. It seems like it's trying to convey that Tom drives in the same way that this man drives, but the structure used is not correct.	I know a man who drives like Tom does.
+0	The sentence is incorrect because the verb "are" disagrees with the singular subject "drowning cats."	Rescuing drowning cats, which is against the law, is hard.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the reflexive pronoun "himself" should not be used when the sentence already has the subject "Rutherford."	Rutherford understands himself.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct article for the word "proof" in this context is "the" because it is a specific proof for a particular set. Also, the correct adjective to describe something that is difficult to prove is "hard" or "challenging," not "difficult."	The proof for this set being recursive is hard.
+0	The sentence is not correct because of the word order. It should be "The madrigals that Henry plays on the lute and sings sound lousy." or "The madrigals that Henry sings and plays the lute sound lousy."	The madrigals that Henry plays on the lute and sings sound lousy.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct. It is a fragment and does not contain a subject and a verb.	Where did you go and what did you eat?
+0	The sentence is incorrect grammatically.	Which boys' employer did we elect as guardian president?
+0	The sentence is not correct because it is not a well-formed question. It seems to be missing a verb or a preposition, which makes the sentence incomplete and unclear.	How sane is Peter behaving?
+0	The sentence is incorrect because of the use of "the River" and "the Hudson River" in the same sentence. This can be confusing as it sounds like two different rivers are being referred to, but the Hudson River is a specific river and should be referred to by its full name.	I live at the place where Route 150 crosses the river and my dad lives at the place where Route 150 crosses the Hudson River, too.
+0	This sentence is incorrect because the pronoun "it" is ambiguous and can refer to either "the place" or "Route 150." This makes the sentence confusing and unclear.	I live at the place where Route 150 crosses the Hudson River, and my dad lives there too.
+0	The correct phrase should be "Who is she trying to make up with now?". The preposition "with" is missing in the sentence, which makes it incorrect grammatically.	Who is she trying to make up with now?
+0	The sentence is not correct because the verb "wind" is not used correctly in this context. It seems you wanted to use the word "Nixon" instead of "wind".	Nixon was party to a plot to negotiate an honorable end to the war in Vietnam.
+0	The sentence is incorrect because the preposition "to" is not needed in this context.	Mike talked about politics with my friends yesterday.
+0	The sentence is not correct because the phrase "It was expected" is in the passive voice, and the active voice is more clear and direct.	The reporters expected the principal to fire some teachers.
+0	The sentence is grammatically incorrect because the pronoun "she" is used to refer to Mike, which assumes that Mike is a woman. However, the sentence does not provide enough context to determine the gender of Mike.	Which hat did Mike quip that Mike never wore?
+0	The sentence is not correct because it is a question and is missing a question mark at the end.	Which girl did Mike quip never wore this hat?
+0	The sentence is not correct because the preposition "for" is followed by the object "convicts" and then the prepositional phrase is followed by the infinitive "to build." This construction is not correct because the preposition "for" should be followed by a noun or a pronoun, not an infinitive verb phrase.	We donated wire for the convicts to use to build cages.
+0	The sentence is grammatically incorrect. The correct phrase should be "I won't have any money." or "I will not have some money."	I won't have any money.
+1	The sentence is correct.	The sentence is already correct.
+0	The correct sentence should be "I won't ask you to believe that he tried to force me to give him any money." The sentence as it stands is incorrect because the pronoun "her" does not agree with the antecedent "he."	I won't ask you to believe that he tried to force me to give him any money.
+0	The correct sentence would be "That Sam sometimes didn't sleep must have pleased someone." The word "somebody" is incorrect in this context because it is not the object of the verb "to please".	That Sam sometimes didn't sleep must have pleased someone.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the verb "worried" should be in the singular form to agree with the singular subject "That."	That the fuzz wanted him worried John, but their wanting her didn't worry Mary.
+0	The sentence is not correct because it uses two different verb forms ("will work" and "will be working") in the same sentence, which makes the sentence grammatically inconsistent and incorrect.	I'll work on it if Sam works on it, too.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect use of prepositions. The correct preposition to use in this sentence is "with" instead of "for."	Here's a knife with which for you to cut the onions.
+0	The correct sentence should be "Not everybody knows that Fluffy is sick." or "Everybody does not know that Fluffy is sick."	Not everybody knows that Fluffy is sick.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because of the incorrect use of the conjunction "and".	The younger woman might have been tall, and the older one, who definitely was blond, might have been as well.
+0	This sentence is not correct because of the incorrect use of the comma after the word "blond." The sentence also has a confusing structure and lacks proper punctuation to clearly distinguish between the descriptions of Sally and Sheila.	Sally is tall and may be blond. Sheila is short and definitely blond.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is incorrect and does not make sense. It seems to be a mix of two ideas that are not properly combined.	The socks are ready for you to put on as planned.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct grammatically. It seems to be missing some words or context to make complete sense.	It is easy to please both my mother and my father.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct. It is a run-on sentence, which means it contains two independent clauses ("That the cops spoke to the janitor about it yesterday" and "that robbery") that are not properly joined.	That the cops spoke to the janitor about the robbery yesterday is terrible.
+0	The given sentence is not correct grammatically. There is a mistake in the sentence structure, specifically with the use of the conjunction "and."	Every student who wears socks is a swinger.
+0	The sentence is not correct because the pronoun "him" is not in the correct case. The correct pronoun case for the object of a preposition is "his".	That girl was given my binoculars by him.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct phrase is "I can't remember somebody's name." The original sentence is incorrect because it places the noun "name" before the preposition "of."	I can't remember somebody's name.
+0	The correct conjunction to use in this sentence is "Neither...nor..." instead of "No...no..." Also, the verb "meet" should be in singular form to agree with the singular subjects "writer" and "playwright."	Neither writer nor playwright meets in Vienna.
+0	The sentence is incorrect because of the incorrect use of the conjunction "nor." When using "nor," the sentence structure should be: "Neither [noun phrase] nor [noun phrase]." In this case, the correct sentence structure would be "Neither writer nor any playwright meets in Vienna."	Neither writer nor any playwright meets in Vienna.
+0	The correct sentence should be "That you will marry any student is uncertain." The word "uncertain" means "not known for sure; doubtful." Using the word "certain" in the sentence changes its meaning to the opposite of what is intended.	That you will marry any student is uncertain.
+0	This sentence is incorrect as it is ambiguous and can have two meanings. It can either mean that Felicia kicked the ball while she was sitting on a bench or that she kicked the ball away from the bench.	The sentence is ambiguous and can be rewritten for clarity. For example: "Felicia kicked the ball while sitting on the bench" or "Felicia kicked the ball away from the bench."
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The sentence is not correct because the preposition "out of" is not appropriate in this context.	Sam took the ball out of the basket.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the preposition "to" is incorrect in this context. The correct preposition to use here is "for".	No one can forgive that comment for you.
+0	The phrase "blew up" is incorrect in this context. A more appropriate phrase would be "exploded" or "blew to pieces."	We launched the rocket to the moon, but it exploded before it got there.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is incorrect because the word "partway" is not used correctly in this context. It seems like there is a missing word or the sentence is not structured correctly.	I lent the book partially to Tony.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is ambiguous and can have two meanings. It can mean that the farmer dumped the cart along with the apples or that the farmer dumped the apples that were in the cart.	The sentence is ambiguous and can be rewritten as: "The farmer dumped the apples from the cart." or "Along with the apples, the farmer dumped the cart."
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because the preposition "on" is incorrect in this context. It should be "in" instead.	Janet broke Bill's finger.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is missing the preposition "into" before "the room."	Sharon came into the room.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is incorrect because the preposition "with" is not appropriate in this context. It should be "over" or "across" instead.	Brian threw the stick over the fence.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct article "the" is missing before "dedication".	They praised the dedication of the volunteers.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the subject "books" is plural, but the verb "lifted" is singular. In English, the subject and verb must agree in number.	The books were lifted onto the table.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect use of the verb "crammed". A suggested correction is to use the verb "loaded" instead.	Jessica loaded boxes into the truck.
+0	The preposition "at" is not needed in this sentence.	Lora buttered the toast.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is incorrect because the preposition "at" is not the correct preposition to use in this context.	Carla slid the book.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The sentence is not correct because the subject and verb do not agree. The singular noun "package" should be followed by the singular verb "drives" instead of "drive".	Packages drive easily to New York.
+0	The sentence is not correct because it is missing a subject. It appears to be missing the word "I" as the subject, indicating that the speaker is pushing the chair.	I pushed the chair.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is not a complete sentence. It seems like something is missing. A possible correction is: "A job is being offered."	A job is being offered.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is grammatically incorrect. The phrase "differ apart" is not correct; the correct phrase should be "differ from each other."	This flyer and that flyer differ from each other.
+0	The sentence is grammatically incorrect because the verb "scribbled" is not the right choice to describe the action of signing a contract. A better verb to use in this context would be "signed".	The jeweller signed the contract with his name.
+0	The sentence is incorrect because the phrase "grow something into something else" is not idiomatic. The correct phrase would be "grow something from something else".	The gardener grew that acorn into an oak tree.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because it is missing a subject or a verb. It seems like something is missing from the sentence, which makes it grammatically incorrect.	The clowns amused the children.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The preposition "at" is not the correct preposition to use after "whisper." When someone whispers, they do it "to" someone.	Susan whispered to Rachel.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because it is incomplete and lacks context. It seems like there is a missing verb after the word "said."	Ellen spoke about the present conditions.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the verb "winked" is not used correctly in this context. It should be used with an expression like "an eye" or "at someone."	Linda winked her lip at the guy.
+0	This sentence is incorrect because the preposition "me" is not appropriate in this context. The correct preposition to use here is "in".	My heart is pounding in my chest.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct phrase is "squeak the door", which means to open or close a door, causing it to make a high-pitched sound. The verb "squeak" is used with the object "door" and does not require the addition of "ed".	I squeaked the door.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is incorrect because the word "fort" is a singular noun and should be followed by a singular verb.	The fort fluttered with many flags.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it uses a passive voice and an awkward phrase "There presented itself." To correct the sentence, we can use an active voice and a more natural phrase.	A wonderful opportunity presented itself yesterday.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because it is a sentence fragment. It does not contain a subject and is therefore incomplete.	A little white rabbit jumped out of the box.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the plural form of "information" is used with the singular form of "was."	Much information was provided.
+0	The correct article to use with the word "advice" is "an" because the word "advice" starts with a vowel sound, making the correct phrase "a piece of advice."	John offers much advice.
+1	The sentence is already correct.	The cake that Jones got was more delicious than the one that Smith got.
+0	The sentence is not correct because it uses an indirect command. To form a correct sentence, an indirect command should be introduced by a gerund, not an infinitive.	We recommend eating less cake and pastry.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because it is not clear who "her" refers to and the verb "washed" is not typically used to describe one person washing another person.	The sentence is unclear and needs more context. A clearer sentence could be: "He helped to wash her hair."
+0	The sentence is incorrect because it does not follow the standard subject-verb structure in English. It seems like an imperative command but lacks a clear subject.	Wash yourself!
+0	The sentence is not correct grammatically. It seems like a fragment and is incomplete.	They have none.
+0	The correct sentence would be "Some of my jobs are in jeopardy." The word "of" is missing in the sentence.	Some of my jobs are in jeopardy.
+0	This sentence is not correct grammatically. The verb "met" is in the wrong position, and the sentence lacks a clear subject.	Several young students met the policeman in the park last night.
+0	The sentence is a fragment and is not a complete sentence. It seems to be missing a subject or a main clause.	Did the policeman meet someone in the park?
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The sentence is not correct because the subject and the verb do not agree. In this case, the verb should be plural to agree with the plural subject "monkeys."	The monkeys are proud of their leader.
+0	The sentence is not correct because it is incomplete. It seems that an adjective or an adverb is missing after the word "very."	The sentence is incomplete and needs more context to be corrected.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is ambiguous and potentially misleading. It can be interpreted in two ways: either John bought a book that was on the table, or John bought a book about the subject of tables. To clarify the sentence, additional context or rephrasing is needed.	John bought the book that was on the table.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct. It seems like it's trying to say that "He" has left a good friend with the speaker, but the structure and word choice are incorrect.	He has left me a good friend.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is missing a word or phrase after the verb "put." It should specify what John put under the bathtub.	The sentence is not correct and cannot be fixed without additional context.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because it is missing a preposition and has incorrect verb conjugation.	Kim depends on Sandy.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is missing a direct object that describes what Kim put in the box.	Kim put the gift in the box.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the phrase "That Fred was unpopular" is not a complete clause and does not make sense as a nomination.	The fact that Fred was unpopular nominated Bill.
+0	The sentence is not correct because it contains an acronym, "FTA," that is not defined or explained.	They were taking a hard look at a possible free trade agreement (FTA).
+0	The preposition "against" is not appropriate in this context. A better preposition would be "for".	John paid me for the book.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is incorrect because the verb "make" should not be used with a reflexive pronoun like "themself."	We made them rude.
+1	The sentence is already correct.	The sentence is already correct.
+0	The verb "reads" should be plural to agree with the plural subject "students." The verb form "read" is also preferred over "reads" in the present tense for a sentence describing a general truth or habit.	Students studying English read Conrad's Heart of Darkness while at university.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is grammatically incorrect due to the incorrect subject-verb agreement. The correct verb form should be "has" instead of "failed" to agree with the singular subject "Neither."	Neither of the students has failed.
+0	The sentence is incorrect because the preposition "of" is not needed here.	I drank some water.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The sentence is incorrect because the use of "itself" does not make sense in this context. A dog trying to bite itself is illogical and physically impossible.	The sentence is already correct.
+0	The sentence is incorrect because the reflexive pronoun "yourself" should not be used when the action is performed by someone else.	He washed himself.
+0	The sentence is not correct because the object of the sentence, "Kim," is not in the correct position after the verb "please."	John is easy to please for Kim.
+0	The sentence is not correct because it is incomplete and lacks a subject or context. It seems like there might be missing words or information that would complete the thought.	The sentence is incomplete and needs more context or information to be correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is incorrect because the preposition "in" is inappropriate in this context. The correct preposition to use here is "at." Additionally, the sentence structure is awkward and could be improved for clarity.	We believed John to be at the fountain in the park.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because the verb "be" is missing an auxiliary verb before it. In sentences that use the passive voice with the verb "believe," the correct structure is "be + believed + to + verb."	It is believed that there are sheep in the park.
+0	This sentence is not correct because the verb form "would" is not used correctly in this context and the article "to" is unnecessary here.	I hope to study in France.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because the verb "will" is used incorrectly. It should be used to describe a future action or state, but "rain" is a noun in this context and not a verb.	It will rain tomorrow.
+0	The verb form is incorrect.	We expect it to rain.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is incorrect because the verb "to be" is used incorrectly in the sentence. The correct form of the verb "to be" in the past tense is "was."	Was the child in the school?
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct sentence should be "John does not want to leave the town."	John does not want to leave the town.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is a correct English sentence.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect use of the adverb "scarcely." It should be placed before the verb "could" for proper emphasis.	As a statesman, he could scarcely do anything worth mentioning.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is grammatically correct.	The sentence is already correct.
+0	This sentence is not correct because it is ambiguous and does not make sense as written. It seems like there might be a missing noun or context that would clarify what is being described.	The book weighed a pound.
+0	The correct sentence should be "Whom do you think Tom saw?" since "whom" is the objective form of the pronoun "who" and should be used as the object of a sentence or preposition. In this sentence, "whom" is the object of the verb "saw."	Whom do you think Tom saw?
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct grammatically. It seems like there is a missing noun after the word "politician."	Fed knows which politician to vote for.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is missing the article "in" after "Which." The correct phrase would be "Which house does your friend live in?"	Which house does your friend live in?
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect use of the preposition "with" at the end of the sentence.	Jack is the person with whom Jenny fell in love.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct sentence should be: "Which topic did you choose without getting his approval?" Here, the error is related to the subject-verb agreement. The singular noun "topic" requires the singular verb "did choose" instead of "did choose."	Which topic did you choose without getting his approval?
+0	The sentence is not correct grammatically. It seems like there is a missing word or phrase that would complete the thought.	Which topic did you get bored of because Mary talked about it?
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct phrase would be "It really bites that we invaded Iraq." The correct sentence structure would be to use "It" as the subject of the sentence, followed by the verb "bites," and then the clause "that we invaded Iraq" as the object.	It really bites that we invaded Iraq.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is not grammatically correct. It seems to be missing a subject and verb before the phrase "who achieved the best result."	Angela achieved the best result.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is grammatically incorrect. The phrase "hard to find anyone to look after" is not a grammatically correct phrase.	That kind of person is hard to find, and even harder for anyone to look after.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct sentence should be "I'm sure we even got these tickets!" by changing the word order.	I'm sure we got these tickets even!
+0	The correct phrase should be "I'm not even sure we got these tickets!" The original sentence is incorrect because it uses the wrong verb form ("am" instead of "are") and misses the "not".	I'm not even sure we got these tickets!
+0	The correct phrase is "urban guerrillas," not "urban guerillas."	It's not because I have any sympathy for urban guerrillas that I helped him.
+1	The sentence is correct.	The sentence is already correct.
+0	The sentence is not correct because it is a comma splice—two independent clauses joined by a comma.	John whined that he was hungry.
+0	The sentence is not correct because the word order is incorrect and it is missing an article.	I gave a book to Mary after the party.
+0	This sentence is not correct because of the incorrect use of "as for." The phrase "as for" is used to single out a particular person or topic for discussion, and it should be followed by a noun or pronoun, not a clause.	As for Mary, I really like her because she's so pleasant.
+0	The correct relative pronoun to use in this sentence is "who" instead of "that" because the relative pronoun is referring to people (criticize those who).	Though he may hate those who criticize Carter, it doesn't matter.
+0	The sentence is not correct because it is using a double negative ("no" and "would"). To correct the sentence, either "no" or "would" should be removed.	John would not be happy without a job.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct sentence should be "I don't want any trouble."	I don't want any trouble.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct. It should be "as many as 20 errors" instead of "as 20 errors."	Some of them made as many as 20 errors.
+0	The pronoun "himself" is incorrect because it is a male pronoun, but Sally is typically a female name. The correct pronoun to use here would be "herself."	Sally kissed herself.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because the subject "Blue leather" is singular and the verb "shows" should be conjugated to "show" for a singular subject.	Blue leather shows Betsy that she is pretty.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct grammatically. It seems to be missing some words or context to make a complete sense.	I thought you knew the answer.
+1	The sentence is correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is missing a subject and is not a complete thought. It appears that the sentence may be attempting to say that "Reading the book of poems and Blackwell takes a very long time."	It takes a very long time to read the book of poems and Blackwell.
+0	The sentence is not correct because the verb form is incorrect. The correct verb form should be "take" instead of "takes" to agree with the singular noun "book."	The one with a red cover takes a very long time to read.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because the verb form is incorrect. It should be "The building's roof is leaking."	The building's roof is leaking.
+0	The sentence is incorrect because the article "the" is used twice in a row, which is a grammatical error.	The panther's coat is dark black.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The sentence is not correct because it is not clear what Heidi thinks about Andy and the salmon-flavored candy bars. The correct phrase would be "Heidi thinks that Andy eats salmon-flavored candy bars" or "Heidi thinks Andy should eat salmon-flavored candy bars."	Heidi thinks that Andy eats salmon-flavored candy bars.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is missing a verb.	Did Calvin do his homework?
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is a conditional sentence and needs to be formulated with "were" instead of "was".	If I were a rich man, I'd buy a diamond ring.
+1	The sentence is already correct. It uses the subjunctive mood ("If he were") to express a hypothetical situation, and the rest of the sentence is in the present tense ("he'd buy"). This is a common and grammatically correct construction for expressing wishes or hypothetical situations in English.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because it is not a complete sentence. A complete sentence must contain a subject and a verb, but this sentence only contains the verb "was sunk."	The ship was sunk.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct sentence would be "Who has Peter talked to?" as the preposition "with" is incorrect in this context. The preposition "to" is used after the verb "talk" when it is followed by a person or people.	Who has Peter talked to?
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the reflexive pronoun "himself" is incorrect in this context. When referring to someone else's thoughts or beliefs about a person, a reflexive pronoun should not be used.	John thinks that Mary loves him.
+1	The sentence is correct.	The sentence is already correct.
+0	The sentence is incorrect because it uses the definite article "any" incorrectly. In this context, the correct article to use would be "an."	An owl hunts mice.
+0	The sentence is grammatically incorrect. The correct sentence should be: "No man ate dinner." The word "no" is used to indicate a negative statement, and it is followed by a verb in the past tense ("ate") to describe an action that happened in the past.	No man ate dinner.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is correct.	The sentence is already correct.
+0	The sentence is not correct because the verb "computed" should be conjugated in the past tense to agree with the plural subject "man."	The men who Mary loves and Sally hates computed my tax.
+0	The sentence is not correct because the verb tense and subject-verb agreement are incorrect.	The kennel that Mary made, in which Fido sleeps, has been stolen.
+0	This sentence is not correct because it is missing the word "that" between "Bill" and "did." The word "that" is needed as a conjunction to introduce the clause "actually did eat a raw eggplant."	Tom said he would and Bill actually did eat a raw eggplant.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is a run-on sentence. It should be split into two separate sentences or joined with a conjunction.	She asked if Alison was coming to the party.
+0	The correct verb form to use in this sentence is the past perfect, "had realized," because the action of realizing occurred before the action of Sir Thomas being offended.	They had realized that Sir Thomas had never been so offended.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is missing a word ("to") and does not use the correct verb form ("send" should be "sent").	0
+0	This sentence is not correct because it is a fragment. It seems to be missing a subject or a verb.	The idea that the Dome was dull dismayed the Prime Minister.
+0	The sentence is not correct because it is a run-on sentence and does not conform to conventional English grammar.	He came right in without so much as a knock.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The window was broken with a hammer.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect usage of the word "very." It should be "very happy" instead of "very upset" to maintain a coherent meaning.	Pat was awarded the Golden Fleece Award and very happy about it.
+0	This sentence is not correct because of the incorrect verb form "beating" and the lack of a verb for the phrase "alienated cats."	Kim alienated cats and beat his dog.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is a question and is correct as it is.	The sentence is already correct.
+0	The correct sentence would be "I want to try to buy some whiskey." In this case, the word "try" is a verb and should be followed by the infinitive "to buy."	I want to try to buy some whiskey.
+0	The verb form is incorrect.	She goes and buys some whiskey.
+0	The verb form is incorrect. The correct verb form for the third person plural is "are".	Kim and Terry are happy.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The sentence is not correct because it is a run-on sentence and needs to be split into two separate sentences.	Put a picture of Bill on your desk before tomorrow. This girl in the red coat will put a picture of Bill on your desk before tomorrow.
+0	The sentence is not correct because it is a run-on sentence and does not follow basic grammatical rules. It seems to be a mix of two independent clauses without proper punctuation or conjunction.	The girl in the red coat will put a picture of Bill on your desk before tomorrow.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is incorrect because the word "which" is not necessary and disrupts the sentence structure.	Which books about cooking does Henri want to buy?
+1	The sentence is already grammatically correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is correct.	The sentence is already correct.
+0	The sentence is not correct because it is a comma splice—a sentence in which two independent clauses are incorrectly joined by a comma.	Suddenly, two inspectors from the INS arrived.
+0	The sentence is not correct because it is a fragment. It does not contain a subject or a complete verb.	The soup is cooking and thickening.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The sentence is a fragment and not a complete sentence as it does not express a complete thought. It seems like an incomplete question or statement.	John asked a question.
+0	The sentence is grammatically incorrect. The word "even" is used to emphasize that something is unexpected or unusual, and it should be followed by a noun or noun phrase. In this case, the correct sentence would use "every" instead of "even."	I saw every student.
+0	The sentence is not correct because it is a run-on sentence and does not convey complete information.	John whispered to me that Mary had left.
+0	The sentence is not correct because it is using the wrong verb tense and the word order is incorrect.	Mary wonders if Bill will come.
+0	The sentence is not correct because it is missing a verb.	Sophie will go to the theater.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The reflexive pronoun "herself" is incorrect in this sentence because it does not refer back to a previous noun or pronoun. In this context, "Mary's mother" is the subject of the sentence and should be referenced correctly.	Mary's mother likes herself.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is incorrect because the reflexive pronoun "himself" is not used correctly. A reflexive pronoun should refer back to the subject of the sentence, but in this case, the subject is "John's mother," which is a female entity.	John's mother likes herself.
+0	The pronoun "himself" is incorrect because it is a male pronoun, but "Mary" is a female name.	Mary revealed herself to John.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the preposition "of" is missing after the word "proud."	John considers himself proud of Mary.
+0	This sentence is grammatically incorrect. It seems to be missing a word or context to make it complete and understandable.	You should sit there.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is grammatically incorrect because the verb form is incorrect. The correct verb form should be "hopes for" instead of "hopes."	Everyone hopes for everyone to sleep.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because the verb "promise" is used incorrectly. It should be followed by the gerund form of the verb, which in this case is "shaving."	John promised Mary to shave himself.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect use of "so" and the lack of a verb after "did."	I saw Bill while you were doing so, Mary.
+0	The sentence is not correct because the subject and verb do not agree. The subject "What Mary did" is singular, but the verb "were" is plural.	What Mary did was give Bill a book.
+0	The sentence appears to be incomplete as it is missing a verb.	The bears sniffed the air.
+0	The sentence is not correct because the verb form is incorrect. The correct verb form should be "stealing" instead of "to steal."	Stealing talismans from witches is dangerous.
+0	The sentence is not correct because it is incomplete. It seems like there might be a missing word or phrase after "Anson."	The sentence is incomplete and requires additional context or information to be grammatically correct.
+0	The verb 'kick' requires a preposition when it is used reflexively. The correct preposition to use in this case is 'each other'.	You kicked yourselves each other.
+0	The provided sentence is not grammatically correct. It is a fragment and does not form a complete sentence as it does not contain a verb.	I said I'd never read that book.
+0	The sentence is not correct grammatically. It seems to be missing some words or context that would make it comprehensible.	Provide more context or additional information to construct a meaningful sentence.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is a command and requires an object.	Kick me!
+1	The sentence is already correct.	The sentence is already correct.
+0	The correct sentence would be "Whom did you get an accurate description of?" as the sentence is in the passive voice and the object of the sentence is "whom."	Whom did you get an accurate description of?
+0	The correct sentence should be "The Peter whom we all like was at the party." Because the sentence is about a person named Peter, the objective form of the pronoun ("whom") is required.	The Peter whom we all like was at the party.
+0	The sentence is a fragment and does not express a complete thought. It is missing a subject and a verb.	The government's imposition of a fine was unexpected.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it lacks context and is not a complete thought. It seems like something is missing at the end of the sentence that would provide more information about the action or the reason behind Anson's behavior.	The sentence is not correct and cannot be corrected without additional context.
+0	The correct sentence should use the verb "being" instead of "is" because the sentence is in the present continuous tense. The preposition "about" is unnecessary and should be removed for better sentence structure.	There is a programme on Euripides on Radio 4 tonight.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the incorrect adverb placement. Adverbs that end with "-ly" are usually placed after the verb when the sentence is in the simple past tense, as in this case.	Extremely, Anson danced frantically at Trade.
+0	The sentence is not correct grammatically.	Who did you ask what Medea gave?
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is not correct because the verb "try" in this context should be followed by an object, and the preposition "to" is not needed here.	Medea tried to poison her children with the help of the nurse.
+0	The correct sentence would be "I felt that I knew you." Here, the verb "know" should be in the past tense ("knew") because the sentence is in the past tense ("I felt").	I felt that I knew you.
+0	This sentence is not correct because of the wrong usage of the modal verb "will". When using "will" to talk about the future, it should be followed by a verb in its base form. In this case, the verb "can" is not in its base form.	Will he be able to do it?
+0	The sentence is not correct because it is missing a word or phrase that would indicate the reason for the speaker's action. It seems there might be a word missing after "I knew".	I knew that she was happy.
+1	The sentence is already grammatically correct.	The sentence is already correct.
+0	The correct preposition to use in this sentence is "at" or "by" instead of "about."	We arrived at/by about six o'clock.
+0	The verb form is incorrect, and the sentence is not in the correct order.	Gilgamesh is fighting the dragon.
+0	The sentence is incorrect because the reflexive pronoun "himself" is not used correctly in this context. When the pronoun is the object of a sentence, the correct form is "he thought himself happy."	Anson thought himself happy.
+1	The sentence is already correct.	The sentence is already correct.
+0	This sentence is incorrect because of the incorrect use of the word "not." In negative sentences in the "might" form, "not" comes directly after "might."	I might not be going to the party but washing my hair.
+0	The correct reflexive pronoun to use in this sentence would be "me" instead of "myself". The sentence should be structured as "I thought he liked me."	I thought he liked me.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence uses too many verbs of appearance and is awkward and unclear.	Jason appears to be sick.
+0	This sentence is grammatically incorrect and does not follow the standard structure of a sentence in English. It appears to be missing a subject or verb, and the word order is confusing.	Who did you ask about what they saw?
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because of the double use of auxiliary verbs.	He will go.
+0	This sentence is not correct because it is a sentence fragment. It seems to be missing a word or phrase after "How," which would complete the thought and make it a full sentence.	The sentence is a fragment and needs to be revised to be grammatically correct. It could be corrected in a few ways, depending on the intended meaning: - How fierce was the battle? (This turns it into a complete sentence by adding "was," which makes it a question about the intensity of the battle.) - How fierce did the battle rage? (This phrase adds "did the battle rage?" to make it a question about the extent of the battle's ferocity.) - The battle was fierce. (This phrase changes the structure to make it a statement about the intensity of the battle.)
+0	This sentence is incorrect as it is unclear and confusing. It seems to be asking about a king and a city, but the use of "which" twice in succession makes it hard to understand.	Which king did you ask about the invasion of which city?
+0	The sentence is grammatically incorrect. It seems like the phrase "some" should be replaced with "probably." Also, the preposition "in" should be replaced with "into" for the sentence to be grammatically correct.	It is probably some disgruntled old pigs that humans love to eat who fall into those ditches.
+0	This sentence is incorrect because it suggests that the banana is performing the action of eating the monkey, which is not grammatically or logically correct.	That monkey is eating the banana.
+0	This sentence is a command but it is not a correct sentence as it does not have a subject.	The sentence is not correct grammatically. A possible correction could be: "Burn those leaves!" or "Burn it!" depending on the context.
+0	The sentence is not correct. It seems like an attempt to blend two different expressions: "It stinks that..." and "...is omnipotent." However, the combination doesn't work well and sounds awkward.	It's frustrating that Aphrodite is omnipotent.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is a fragment. It is missing a subject and does not express a complete thought.	I inquired about when we could leave.
+1	The sentence is already correct.	The sentence is already correct.
+0	The verb form is incorrect, and the preposition is missing.	The monkey is eating the banana.
+0	This sentence is grammatically incorrect. The correct phrase would be "I would like to be able to swim."	I would like to be able to swim.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct grammatically and semantically. It seems like there is a missing verb, and the sentence is incomplete.	The sentence is not correct and cannot be fixed without additional context.
+1	The sentence is already correct.	The sentence is already correct.
+0	The sentence is not correct because it is not clear what the word "bound" refers to in this context. It seems like a word might be missing from the end of the sentence.	The sentence is not correctable in isolation as there seems to be a word missing. It could be corrected to: "Anson became a muscle-bound man."

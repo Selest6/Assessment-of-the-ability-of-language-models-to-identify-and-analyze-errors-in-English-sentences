@@ -1,0 +1,528 @@
+label	category	correction
+1	Semantics	The sentence is already correct.
+1	Semantics	The weights made the rope stretch over the pulley.
+1	Semantics	The mechanical doll wriggled loose.
+1	Semantics	The sentence is already correct.
+0	Semantics	The more you eat, the less you want.
+0	Semantics	The more you want, the less you would eat.
+0	Morphology	I demand that the more John eats, the more he pays.
+0	Syntax	Mary listens to the Grateful Dead and gets depressed.
+1	Semantics	The angrier Mary got, the more she looked at pictures.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Morphology	John was much more obnoxious than Fred.
+1	Semantics	The sentence is already correct.
+0	Syntax	The more Bill smokes, the more Susan hates him.
+1	Syntax	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Syntax	Who does John visit because he likes Sally?
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	Mickey looked it up.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	Gas escaped from the tube.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	What the water did to the bottle was fill it. The sentence is not grammatically correct and sounds awkward. A possible revision could be: "The water filled the bottle."
+0	Syntax	What the water did was fill the whole bottle.
+0	Semantics	The fluid leaked freely from the tank.
+0	Morphology	John laid the ball in the box.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	Most people probably consider Klaus guilty of murder, even though the courts didn't actually find him guilty.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	They seriously represented Mary to the dean as a genuine linguist.
+0	Morphology	We love them.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	John wants to read Fred's story, and so do I.
+0	Semantics	We wanted to invite someone, but we couldn't decide whom to invite.
+1	Syntax	The sentence is already correct.
+0	Syntax	Mary claimed that Holly shouldn't eat cabbage.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	Joe's neuroses bother his patrons, and so does Sally.
+0	Semantics	I know which book José didn't read for class, and which book Lilly read for him.
+0	Syntax	This is the book that Bob reviewed, and this is the one that Fred won't review.
+0	Syntax	I know which book Mag read and which book Bob said you hadn't read.
+0	Syntax	I know which book Mag read and which book Bob read my report that I hadn't.
+0	Semantics	I'm sure I would like him to eat fruit more than I would like him to eat cookies.
+0	Syntax	The sentence is already correct.
+0	Syntax	Fred talked about everything before Rusty talked about something.
+1	Semantics	The sentence is already correct.
+0	Semantics	The problem is easily perceived.
+1	Semantics	The sentence is already correct.
+0	Semantics	We elected him.
+0	Semantics	Which report did he submit that labeled John as incompetent?
+1	Semantics	The sentence is already correct.
+0	Semantics	He let the whining cats out.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	A proof was given that the claim had been made that John had lied.
+0	Syntax	He attributed the fire that destroyed most of my factory to a short circuit caused by an overloaded transducer.
+0	Syntax	The mayor regarded the proposal to build a sidewalk from Dartmouth to Smith as being absurd.
+0	Syntax	I want Bill's departure to remain a secret.
+0	Syntax	I know a man whom Tom drives as he drives.
+0	Syntax	Rescuing cats from drowning is hard, and it is against the law.
+1	Semantics	The sentence is already correct.
+0	Syntax	Rutherford understands himself.
+1	Semantics	The sentence is already correct.
+0	Morphology	The proof that this set is recursive is difficult.
+0	Syntax	The madrigals that Henry plays on the lute and sings to sound lousy.
+1	Semantics	The sentence is already correct.
+0	Syntax	The sentence is already correct.
+0	Syntax, Morphology	Which boy's employer did we elect as guardian president?
+0	Semantics	Is Peter sane?
+0	Semantics	I live at the place where Route 150 crosses the River and my dad lives there too.
+0	Semantics	I live at the place where Route 150 crosses the Hudson River and my dad lives there too.
+0	Semantics	The sentence is already correct.
+0	Semantics	There was news of a plot to negotiate an honorable end to the Vietnam War.
+0	Syntax	Mike talked about politics to my friends yesterday.
+0	Syntax	The reporters expected the principal to fire some teachers.
+0	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	The fact that the fuzz wanted him worried John, but Mary wasn't worried by the fact that the fuzz wanted her.
+0	Semantics	I'll work on it if Sam is working on it.
+1	Semantics	The sentence is already correct.
+0	Syntax	Here's a knife for you to cut up the onions with.
+0	Syntax	That Fluffy is sick is something that not everybody knows.
+1	Semantics	The sentence is already correct.
+0	Syntax	The younger woman might have been tall, and the older one, who definitely was blond, might have been as well.
+0	Syntax	Sally is tall and may be blond, and Sheila is short and definitely blond.
+1	Semantics	The sentence is already correct.
+0	Syntax	The socks are ready for you to put on.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	It is easy to please my mother and my father.
+1	Semantics	The sentence is already correct.
+0	Syntax	It is terrible that the cops spoke to the janitor about that robbery yesterday.
+0	Syntax	Every student who wears socks is a swinger.
+0	Syntax	That girl was given my binoculars by him.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	Everyone around here who ever buys anything on credit talks in their sleep.
+0	Semantics	I can't remember the name of someone who had misgivings.
+0	Syntax	No writers or playwrights meet in Vienna.
+0	Syntax	No writer or playwright meets in Vienna.
+0	Semantics	That you will marry any student is uncertain.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	No one can forgive you for that comment.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	Janet broke Bill's finger.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	That movie is always shocking.
+0	Syntax	Sharon came into the room.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	Brian threw the stick at the fence.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Morphology	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	It is easy to lift paperback books onto the table.
+0	Semantics	The books were lifted onto the table.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	Jessica crammed boxes into the truck.
+0	Morphology	Lora buttered the toast.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Semantics	Carla slid on the book.
+1	Semantics	The sentence is already correct.
+0	Semantics	Packages are easily driven to New York.
+0	Syntax, Morphology	Someone pushed the chair.
+1	Semantics	The sentence is already correct.
+0	Syntax	A job was offered.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	These flyers differ from each other.
+0	Semantics	The jeweller scribbled his name on the contract.
+0	Semantics	The gardener grew that acorn and turned it into an oak tree.
+1	Semantics	The sentence is already correct.
+0	Syntax	The children were amused.
+1	Semantics	The sentence is already correct.
+0	Semantics	Susan whispered to Rachel.
+1	Syntax	The sentence is already correct.
+0	Syntax	Ellen spoke about the present conditions.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Morphology	The sentence is not correct morphologically. It should be: Linda pursed her lip.
+0	Semantics	My heart is pounding.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Morphology	I squeaked the door open.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	The fort fluttered with many flags.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Semantics	A wonderful opportunity presented itself yesterday.
+1	Semantics	The sentence is already correct.
+0	Other Category	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Morphology	Much information was provided.
+0	Morphology	John offers much advice.
+1	Semantics	The sentence is already correct.
+0	Other Category	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Syntax	Wash yourself!
+0	Syntax	The sentence is not syntactically correct and seems to be incomplete. To provide a correction, more context is needed.
+0	Morphology	Some of my jobs are in jeopardy.
+0	Syntax	It was the policeman who met several young students in the park last night.
+0	Syntax	Did the policeman meet in the park?
+1	Semantics	The sentence is already correct.
+0	Morphology	The monkeys are proud of their leader.
+0	Semantics	The sentence is not semantically coherent as it seems to be incomplete. It needs more context or information to make sense.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	He has left me a good friend.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	John put it under the bathtub.
+1	Semantics	The sentence is already correct.
+0	Syntax	Kim depends on Sandy.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is missing a direct object. It should be something like this: "Kim put the book in the box."
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	That Fred was unpopular did not affect Bill's nomination.
+0	Other Category	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Semantics	We made them rude.
+1	Syntax	The sentence is already correct.
+0	Morphology	Students studying English read Conrad's Heart of Darkness while at university.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Morphology	Neither of the students failed.
+0	Syntax	I drank some water.
+0	Morphology	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Semantics, Morphology	He washed himself.
+0	Syntax	John is easy to please for Kim.
+0	Semantics	This sentence is not semantically correct and cannot be corrected without additional context.
+1	Syntax	The sentence is already correct.
+0	Semantics	The sentence is not correct semantically. It might be: "We believed there was a fountain in the park that John built."
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	It is believed that there are sheep in the park.
+0	Syntax	I hope I would study in France.
+1	Syntax	The sentence is already correct.
+0	Semantics	The sentence is not correct semantically. A person cannot rain. A possible correction could be: "It will rain tomorrow."
+0	Syntax	We expect it to rain.
+1	Semantics	The sentence is already correct.
+0	Morphology	Was the child in the school?
+1	Semantics	The sentence is already correct.
+0	Morphology	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	As a statesman, he could scarcely do anything worth mentioning.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	The book weighed a pound.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	Fed knows which politician to vote for.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	Which house does your friend live in?
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	Jack is the person with whom Jenny fell in love.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	Which topic did you choose without getting his approval?
+0	Syntax	Which topic did you get bored of because Mary talked about it?
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	It really bites that we invaded Iraq.
+0	Semantics	It annoys me that Fido barks.
+0	Syntax	Angela achieved the best result.
+1	Semantics	The sentence is already correct.
+0	Syntax	It is hard to find anyone to look after that kind of person.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	I'm sure we got these tickets!
+0	Morphology	I'm even sure we got these tickets!
+0	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	John whined that he was hungry.
+0	Syntax	I gave Mary a book after the party.
+0	Syntax	Mary is so pleasant that I really like her.
+0	Semantics	Though he may hate those who criticize Carter, it doesn't matter.
+0	Syntax	John would not be happy without a job.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	I don't want any trouble.
+1	Semantics	The sentence is already correct.
+0	Semantics	Some of them made as many as 20 errors.
+0	Semantics, Morphology	Sally kissed herself.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	Blue leather shows Betsy that she is pretty.
+1	Syntax	The sentence is already correct.
+0	Syntax	I thought that you knew the answer.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	The book of poems and the one from Blackwell take a very long time to read.
+0	Semantics	The one with a red cover takes a very long time to read.
+1	Semantics	The sentence is already correct.
+0	Syntax	The building's roof is leaking.
+0	Syntax	The panther's coat is dark black.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	Heidi thinks that Andy eats salmon-flavored candy bars.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	Did Calvin do his homework?
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	The sentence is not correct syntactically. A possible correction could be: "The ship was sunk."
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	John thinks that Mary loves herself.
+1	Semantics	The sentence is already correct.
+0	Semantics	Owls hunt mice.
+0	Semantics	No man ate dinner.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	The man who Mary loves and whom Sally hates computed my tax.
+0	Syntax	The kennel that Mary made, in which Fido sleeps, has been stolen.
+0	Syntax	Tom said he would and Bill actually did. Eat a raw eggplant.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	She asked if Alison was coming to the party.
+0	Semantics	They realized that Sir Thomas had never been so offended.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	To whom did John send the book?
+0	Syntax	The idea that the Dome was dull dismayed the Prime Minister.
+0	Syntax	He came right in without so much as a knock.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The window was broken with a hammer. The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	Pat was awarded the Golden Fleece Award and was very upset about it.
+0	Syntax	Kim alienated people by beating his cat and dog.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	I want to try to buy some whiskey.
+0	Morphology	She goes and buys some whiskey.
+0	Morphology	Kim and Terry are happy.
+1	Syntax	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Syntax	Put a picture of Bill on your desk before tomorrow; this girl in the red coat will put a picture of Bill on your desk, too.
+0	Syntax	A picture of Bill: this girl in the red coat will put a picture of Bill on your desk before tomorrow.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	Which books about cooking does Henri want to buy?
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The paper is cut by Mary.
+1	Semantics	The sentence is already correct.
+0	Syntax	Suddenly, two inspectors from the INS arrived.
+0	Syntax	The soup is cooking and thickening.
+1	Semantics	The sentence is already correct.
+0	Syntax	The sentence is already correct.
+0	Semantics	I even saw the student.
+0	Syntax	The sentence is already correct.
+0	Syntax	Mary wonders if Bill will come.
+0	Syntax	Sophie will go to the theater.
+1	Syntax	The sentence is already correct.
+0	Syntax	Mary's mother likes herself.
+1	Semantics	The sentence is already correct.
+0	Morphology	John's mother likes herself.
+0	Semantics, Morphology	Mary revealed herself to John.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	John is proud of Mary.
+0	Syntax	You should sit there.
+1	Semantics	The sentence is already correct.
+0	Syntax	Everyone hopes that everyone will sleep.
+1	Semantics	The sentence is already correct.
+0	Semantics	Churchill was the only one who remembered giving the Blood, Sweat and Tears speech.
+0	Morphology	John promised Mary to shave himself.
+1	Semantics	The sentence is already correct.
+0	Syntax	The sentence is already correct.
+0	Syntax	What Mary did was give Bill a book.
+0	Semantics	The sentence is already correct.
+0	Syntax	It is dangerous to steal talismans from witches.
+0	Semantics	The sentence is not correct.
+0	Syntax	You kicked yourself
+0	Syntax	The book that I said I'd never read.
+0	Semantics	The sentence is not semantically correct. A more meaningful sentence could be: "Anson demonized those who ventured up the Khyber Pass."
+1	Semantics	The sentence is already correct.
+0	Syntax	The sentence is not syntactically correct. A proper request would be: "Can you kick, please?"
+1	Semantics	The sentence is already correct.
+0	Syntax	Whom did you get an accurate description of?
+0	Syntax	The Peter whom we all like was at the party.
+0	Semantics	The sentence is not a complete sentence and does not convey a complete thought. It seems to be a fragment of a larger sentence or thought.
+1	Semantics	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Semantics	Anson demonized David.
+0	Syntax	Is there a programme about Euripides on Radio 4 tonight?
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Syntax	Whom did you ask Medea gave what to?
+1	Semantics	The sentence is already correct.
+0	Syntax	Medea tried to make the nurse poison her children.
+0	Morphology	The sentence is already correct.
+0	Syntax	Will he be able to do it?
+0	Syntax	I knew that she was happy.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Syntax	Gilgamesh is fighting the dragon.
+0	Morphology	Anson thought that he was happy.
+1	Semantics	The sentence is already correct.
+0	Syntax	I might not be going to the party but might be washing my hair.
+0	Morphology	I thought he liked me.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is already correct.
+0	Syntax	Who did you ask, "What did you see?"
+1	Semantics	The sentence is already correct.
+0	Syntax	He will go.
+0	Syntax	How fierce was the battle?
+0	Syntax	Which king did you ask about the invasion of which city?
+0	Semantics	Some disgruntled old pigs in those ditches are what humans love to eat.
+0	Syntax, Semantics	The monkey is eating that banana.
+0	Other Category	The sentence is already correct.
+0	Semantics	It's strange that Aphrodite is omnipotent.
+1	Semantics	The sentence is already correct.
+1	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	The sentence is already correct.
+1	Semantics	The sentence is already correct.
+0	Syntax	The monkey is eating the banana.
+0	Syntax	I would like to be able to swim.
+1	Semantics	The sentence is already correct.
+0	Semantics	The sentence is semantically incorrect. It needs a subject or a phrase that makes the sentence meaningful. For example, "The bookcase John bought last week ran out of stock at the furniture store."
+1	Semantics	The sentence is already correct.
+0	Semantics	Anson became muscle-bound.
